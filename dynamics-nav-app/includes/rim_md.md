@@ -1,1 +1,1 @@
-RapidStart-tjenester
+<span data-ttu-id="fcc85-101">RapidStart-tjenester</span><span class="sxs-lookup"><span data-stu-id="fcc85-101">RapidStart Services</span></span>

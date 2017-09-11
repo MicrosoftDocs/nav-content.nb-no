@@ -1,1 +1,1 @@
-Administrasjonsskall for Microsoft Dynamics NAV 2017
+<span data-ttu-id="7b9a4-101">Administrasjonsskall for Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="7b9a4-101">Microsoft Dynamics NAV 2017 Administration Shell</span></span>

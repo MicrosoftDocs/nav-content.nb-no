@@ -9,78 +9,78 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 00f316dd3032d41239a75c0f40e6db6dc54601fe
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 0b65de9444851e6d7812a68740b1b60d922fef8a
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="processing-sales-opportunities"></a>Behandle salgsmuligheter
-Når du oppretter en salgsmulighet, er det flere funksjoner for å behandle salgsmuligheten og fullføre den.
+# <a name="processing-sales-opportunities"></a><span data-ttu-id="dd1ec-102">Behandle salgsmuligheter</span><span class="sxs-lookup"><span data-stu-id="dd1ec-102">Processing Sales Opportunities</span></span>
+<span data-ttu-id="dd1ec-103">Når du oppretter en salgsmulighet, er det flere funksjoner for å behandle salgsmuligheten og fullføre den.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-103">After you create an opportunity, there are several features for managing the opportunity and moving it through to completion.</span></span>
 
-## <a name="view-opportunities"></a>Vise salgsmuligheter
-De eksisterende salgsmulighetene er tilgjengelige fra vinduet **Oversikt over salgsmuligheter**. Det finnes ulike metoder for å får tilgang til vinduet for behandling av salgsmuligheter:
+## <a name="view-opportunities"></a><span data-ttu-id="dd1ec-104">Vise salgsmuligheter</span><span class="sxs-lookup"><span data-stu-id="dd1ec-104">View opportunities</span></span>
+<span data-ttu-id="dd1ec-105">De eksisterende salgsmulighetene er tilgjengelige fra vinduet **Oversikt over salgsmuligheter**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-105">The existing sale opportunities are available from the **Opportunity List** window.</span></span> <span data-ttu-id="dd1ec-106">Det finnes ulike metoder for å får tilgang til vinduet for behandling av salgsmuligheter:</span><span class="sxs-lookup"><span data-stu-id="dd1ec-106">There are different ways to access this window for processing sales opportunities:</span></span>
 
-|Vise salgsmuligheter for |Deretter |
+|<span data-ttu-id="dd1ec-107">Vise salgsmuligheter for</span><span class="sxs-lookup"><span data-stu-id="dd1ec-107">To view opportunities for</span></span> |<span data-ttu-id="dd1ec-108">Deretter</span><span class="sxs-lookup"><span data-stu-id="dd1ec-108">Then</span></span> |
 |--------------------------|-----|
-|Alle selgere og kontakter|I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Oversikt over salgsmuligheter** og velger deretter den relaterte koblingen.|
-|En bestemt selger|I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Selgere** og velger deretter den relaterte koblingen. Velg selger, velg handlingen **Salgsmuligheter** og velg deretter handlingen **Vis**.|
-|En bestemt kontakt|I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Kontakter** og velger deretter den relaterte koblingen. Velg kontakten fra listen, og velg deretter handlingen **Salgsmuligheter**.|
+|<span data-ttu-id="dd1ec-109">Alle selgere og kontakter</span><span class="sxs-lookup"><span data-stu-id="dd1ec-109">All salespeople and contacts</span></span>|<span data-ttu-id="dd1ec-110">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Oversikt over salgsmuligheter** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-110">In the top right corner, choose the **Search for Page or Report** icon, enter **Opportunity List**, and then choose the related link.</span></span>|
+|<span data-ttu-id="dd1ec-111">En bestemt selger</span><span class="sxs-lookup"><span data-stu-id="dd1ec-111">A specific sales person</span></span>|<span data-ttu-id="dd1ec-112">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Selgere** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-112">In the top right corner, choose the **Search for Page or Report** icon, enter **Salespeople**, and then choose the related link.</span></span> <span data-ttu-id="dd1ec-113">Velg selger, velg handlingen **Salgsmuligheter** og velg deretter handlingen **Vis**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-113">Select the salesperson, choose the **Opportunities** action, and then choose the **List** action.</span></span>|
+|<span data-ttu-id="dd1ec-114">En bestemt kontakt</span><span class="sxs-lookup"><span data-stu-id="dd1ec-114">A specific contact</span></span>|<span data-ttu-id="dd1ec-115">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Kontakter** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-115">In the top right corner, choose the **Search for Page or Report** icon, enter **Contacts**, and then choose the related link.</span></span> <span data-ttu-id="dd1ec-116">Velg kontakten fra listen, og velg deretter handlingen **Salgsmuligheter**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-116">Select the contact from the list, and then choose the **Opportunities** action.</span></span>|
 
-Hver av disse aktivitetene åpner vinduet **Oversikt over salgsmuligheter**.
+<span data-ttu-id="dd1ec-117">Hver av disse aktivitetene åpner vinduet **Oversikt over salgsmuligheter**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-117">Each of these tasks opens the **Opportunity List** window.</span></span>
 
-## <a name="close-opportunities"></a>Lukke salgsmuligheter
-Du kan lukke salgsmuligheter når forhandlingene er over. Når du lukker en salgsmulighet, kan du oppgi om den ble vunnet eller mistet og årsaken til at du lukker den. Hvis du vil an angi en årsak, må først definere koder for lukkede salgsmuligheter.
+## <a name="close-opportunities"></a><span data-ttu-id="dd1ec-118">Lukke salgsmuligheter</span><span class="sxs-lookup"><span data-stu-id="dd1ec-118">Close opportunities</span></span>
+<span data-ttu-id="dd1ec-119">Du kan lukke salgsmuligheter når forhandlingene er over.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-119">You can close opportunities when the negotiations are over.</span></span> <span data-ttu-id="dd1ec-120">Når du lukker en salgsmulighet, kan du oppgi om den ble vunnet eller mistet og årsaken til at du lukker den.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-120">When closing an opportunity, you can specify whether it was won or lost, and the reasons for closing it.</span></span> <span data-ttu-id="dd1ec-121">Hvis du vil an angi en årsak, må først definere koder for lukkede salgsmuligheter.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-121">To specify a reason, you must set up closed opportunity codes.</span></span>
 
-1. I vinduet **Oversikt over salgsmuligheter** velger du salgsmuligheten og deretter handlingen **Lukk**. Vinduet **Lukk salgsmulighet** åpnes.
-2. Fyll ut de relevante feltene, og klikk deretter **OK**.
+1. <span data-ttu-id="dd1ec-122">I vinduet **Oversikt over salgsmuligheter** velger du salgsmuligheten og deretter handlingen **Lukk**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-122">In the **Opportunity List** window, select the opportunity, and the choose the **Close** action.</span></span> <span data-ttu-id="dd1ec-123">Vinduet **Lukk salgsmulighet** åpnes.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-123">The **Close Opportunity** window opens.</span></span>
+2. <span data-ttu-id="dd1ec-124">Fyll ut de relevante feltene, og klikk deretter **OK**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-124">Fill in the relevant fields, and then choose the **OK** button.</span></span>
 
-  Feltene **Lukk. av salgsmuligh. - kode** og **Lukket den** er obligatoriske og må fylles ut før du velger **Neste**-knappen.
+  <span data-ttu-id="dd1ec-125">Feltene **Lukk. av salgsmuligh. - kode** og **Lukket den** er obligatoriske og må fylles ut før du velger **Neste**-knappen.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-125">The **Close Opportunity Code** and **Date Closed** fields are required fields and must be filled in before you can choose the **OK** button.</span></span>
 
-  I feltet **Lukk. av salgsmuligh. - kode** kan du velge fra en av de eksisterende kodene for lukking av salgsmulighet eller legge til en ny kode. Hvis du vil legge til en ny kode fra rullegardinlisten, velger du **Velge fra hele listen** og deretter **ny**. På den nye, tomme linjen fyller du ut feltet **Kode**, **Type** og **Beskrivelse**, og deretter velg du **OK** knappen.
+  <span data-ttu-id="dd1ec-126">I feltet **Lukk. av salgsmuligh. - kode** kan du velge fra en av de eksisterende kodene for lukking av salgsmulighet eller legge til en ny kode.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-126">In the **Close Opportunity Code** field, you can choose from one of the existing close opportunity codes or add a new code.</span></span> <span data-ttu-id="dd1ec-127">Hvis du vil legge til en ny kode fra rullegardinlisten, velger du **Velge fra hele listen** og deretter **ny**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-127">To add a new code, from the drop-down list, choose **Select from full list**, and then choose **new**.</span></span> <span data-ttu-id="dd1ec-128">På den nye, tomme linjen fyller du ut feltet **Kode**, **Type** og **Beskrivelse**, og deretter velg du **OK** knappen.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-128">On the new blank line, fill in the **Code**, **Type**, and **Description** fields, and then choose the **OK** button.</span></span>
 
-## <a name="create-quotes-for-opportunities"></a>Opprette tilbud for salgsmuligheter
-Du kan opprette tilbud for kontakter som ikke er registrert som kunder.
+## <a name="create-quotes-for-opportunities"></a><span data-ttu-id="dd1ec-129">Opprette tilbud for salgsmuligheter</span><span class="sxs-lookup"><span data-stu-id="dd1ec-129">Create quotes for opportunities</span></span>
+<span data-ttu-id="dd1ec-130">Du kan opprette tilbud for kontakter som ikke er registrert som kunder.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-130">You can create sales quotes for contacts that are not recorded as customers.</span></span>
 
-1. I vinduet **Oversikt over salgsmuligheter** velger du salgsmuligheten og deretter handlingen **Tilordne nytt tilbud**. Vinduet **Tilbud** åpnes.
-2. Fyll ut de aktuelle feltene.
+1. <span data-ttu-id="dd1ec-131">I vinduet **Oversikt over salgsmuligheter** velger du salgsmuligheten og deretter handlingen **Tilordne nytt tilbud**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-131">In the **Opportunity List** window, select the opportunity, and then choose the **Assign Sales Quote** action.</span></span> <span data-ttu-id="dd1ec-132">Vinduet **Tilbud** åpnes.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-132">The **Sales Quote** window opens.</span></span>
+2. <span data-ttu-id="dd1ec-133">Fyll ut de aktuelle feltene.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-133">Fill in the relevant fields.</span></span>
 
-## <a name="create-sales-orders-for-opportunities"></a>Opprette ordrer for salgsmuligheter
-Du kan opprette ordrer på bakgrunn av tilbudene du har opprettet for salgsmulighetene. Før du kan opprette ordrer for kontaktene, må du opprette kontakten som en kunde. Hvis du vil ha mer informasjon, kan du se [Opprette en kunde, leverandør eller bankkonto fra en kontakt](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).
+## <a name="create-sales-orders-for-opportunities"></a><span data-ttu-id="dd1ec-134">Opprette ordrer for salgsmuligheter</span><span class="sxs-lookup"><span data-stu-id="dd1ec-134">Create sales orders for opportunities</span></span>
+<span data-ttu-id="dd1ec-135">Du kan opprette ordrer på bakgrunn av tilbudene du har opprettet for salgsmulighetene.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-135">You can make sales orders from the sales quotes that you have created for your opportunities.</span></span> <span data-ttu-id="dd1ec-136">Før du kan opprette ordrer for kontaktene, må du opprette kontakten som en kunde.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-136">Before you can create sales orders for your contacts, you must create the contact as a customer.</span></span> <span data-ttu-id="dd1ec-137">Hvis du vil ha mer informasjon, kan du se [Opprette en kunde, leverandør eller bankkonto fra en kontakt](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).</span><span class="sxs-lookup"><span data-stu-id="dd1ec-137">For more information, see [Create a Customer, Vendor, or Bank Account From a Contact](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).</span></span>
 
-1. I vinduet **Oversikt over salgsmuligheter** finner du salgsmuligheten du har opprettet et tilbud for.
-2. Velg handlingen Tilordne nytt tilbud. Vinduet **Tilbud** åpnes, som viser tilbudet du har tilordnet salgsmuligheten.
-3. Fyll ut tilleggsfeltene, og klikk deretter handlingen **Lag ordre**.
+1. <span data-ttu-id="dd1ec-138">I vinduet **Oversikt over salgsmuligheter** finner du salgsmuligheten du har opprettet et tilbud for.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-138">In the **Opportunity List** window, find the opportunity that you have created a sales quote for.</span></span>
+2. <span data-ttu-id="dd1ec-139">Velg handlingen Tilordne nytt tilbud.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-139">Choose the Assign Sales Quote actions.</span></span> <span data-ttu-id="dd1ec-140">Vinduet **Tilbud** åpnes, som viser tilbudet du har tilordnet salgsmuligheten.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-140">The **Sales Quote** window opens to show the sales quote that you have assigned to the opportunity.</span></span>
+3. <span data-ttu-id="dd1ec-141">Fyll ut tilleggsfeltene, og klikk deretter handlingen **Lag ordre**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-141">Fill in the additional fields, and then choose the **Make Order** action.</span></span>
 
-Når du håndterer salgsmuligheter, kan det være at du må opprette et tilbud for kontakten som salgsmuligheten er knyttet til.
+<span data-ttu-id="dd1ec-142">Når du håndterer salgsmuligheter, kan det være at du må opprette et tilbud for kontakten som salgsmuligheten er knyttet til.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-142">When handling sales opportunities, you may need to create a quote for the contact that the opportunity is linked to.</span></span>
 
-## <a name="delete-opportunities"></a>Slette salgsmuligheter
-Du kan slette salgsmuligheter etter at du for eksempel har inngått en avtale. Du kan imidlertid bare slette lukkede salgsmuligheter. Det er to metoder for å slette lukkede salgsmuligheter. Du kan slette individuelle lukkede salgsmuligheter fra vinduet **Oversikt over salgsmuligheter**, eller du kan kjøre den satsvise jobben **Slett lukkede salgsmuligheter** for å slette flere salgsmuligheter basert på angitte vilkår.
+## <a name="delete-opportunities"></a><span data-ttu-id="dd1ec-143">Slette salgsmuligheter</span><span class="sxs-lookup"><span data-stu-id="dd1ec-143">Delete opportunities</span></span>
+<span data-ttu-id="dd1ec-144">Du kan slette salgsmuligheter etter at du for eksempel har inngått en avtale.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-144">You can delete opportunities, for example, after you have concluded a deal.</span></span> <span data-ttu-id="dd1ec-145">Du kan imidlertid bare slette lukkede salgsmuligheter.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-145">However, you can only delete closed opportunities.</span></span> <span data-ttu-id="dd1ec-146">Det er to metoder for å slette lukkede salgsmuligheter.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-146">There are two ways to delete closed opportunities.</span></span> <span data-ttu-id="dd1ec-147">Du kan slette individuelle lukkede salgsmuligheter fra vinduet **Oversikt over salgsmuligheter**, eller du kan kjøre den satsvise jobben **Slett lukkede salgsmuligheter** for å slette flere salgsmuligheter basert på angitte vilkår.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-147">You can delete individual closed opportunities from the **Opportunity List** window or you can run the **Delete Closed Opportunities** batch job to delete multiple opportunities based on a specified criteria.</span></span>
 
-Hvis du vil slette lukkede salgsmuligheter vinduet **Oversikt over salgsmuligheter**, velger du salgsmuligheten og deretter handlingen **Slett**.
+<span data-ttu-id="dd1ec-148">Hvis du vil slette lukkede salgsmuligheter vinduet **Oversikt over salgsmuligheter**, velger du salgsmuligheten og deretter handlingen **Slett**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-148">To delete closed opportunities from the **Opportunity List** window, select the opportunity, and then choose the **Delete** action.</span></span>
 
-Hvis du vil slette lukkede salgsmuligheter ved hjelp av den satsvise jobben **Slett lukkede salgsmuligheter**, følger du denne fremgangsmåten:
+<span data-ttu-id="dd1ec-149">Hvis du vil slette lukkede salgsmuligheter ved hjelp av den satsvise jobben **Slett lukkede salgsmuligheter**, følger du denne fremgangsmåten:</span><span class="sxs-lookup"><span data-stu-id="dd1ec-149">To delete closed opportunities by using the **Delete Closed Opportunities** batch job, follow these steps:</span></span>
 
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Slett salgsmuligheter** og velger deretter den relaterte koblingen.
-2. I inndelingen **Salgsmulighet** definerer du filtrene som angir de lukkede salgsmulighetene du vil slette.
-3. Velg **OK**-knappen.
+1. <span data-ttu-id="dd1ec-150">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Slett salgsmuligheter** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-150">In the top right corner, choose the **Search for Page or Report** icon, enter **Delete Opportunities**, and then choose the related link.</span></span>
+2. <span data-ttu-id="dd1ec-151">I inndelingen **Salgsmulighet** definerer du filtrene som angir de lukkede salgsmulighetene du vil slette.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-151">In the **Opportunity** section, set up the filters that specify the closed opportunities to delete.</span></span>
+3. <span data-ttu-id="dd1ec-152">Velg **OK**-knappen.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-152">Choose the **OK** button.</span></span>
 
-Når du har slettet en salgsmulighet, fjernes det fra vinduet **Oversikt over salgsmuligheter**.
+<span data-ttu-id="dd1ec-153">Når du har slettet en salgsmulighet, fjernes det fra vinduet **Oversikt over salgsmuligheter**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-153">After you have deleted an opportunity, it is removed it from the **Opportunity List** window.</span></span>
 
-## <a name="move-an-opportunity-through-sales-cycle-stages"></a>Flytte en salgsmulighet gjennom salgssyklusfaser
-Hvis en salgsmulighet følger en salgssyklus, kan du flytte den fremover eller bakover gjennom de ulike fasene, for eksempel flytte til neste eller forrige fase, og til og med hopper over en fase.
+## <a name="move-an-opportunity-through-sales-cycle-stages"></a><span data-ttu-id="dd1ec-154">Flytte en salgsmulighet gjennom salgssyklusfaser</span><span class="sxs-lookup"><span data-stu-id="dd1ec-154">Move an opportunity through sales cycle stages</span></span>
+<span data-ttu-id="dd1ec-155">Hvis en salgsmulighet følger en salgssyklus, kan du flytte den fremover eller bakover gjennom de ulike fasene, for eksempel flytte til neste eller forrige fase, og til og med hopper over en fase.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-155">If an opportunity follows a sales cycle, you can move it forward or back through the different stages, such as moving the the next or previous stage, and even skipping a stage.</span></span>
 
-1. I vinduet **Oversikt over salgsmuligheter** velger du handlingen **Oppdater**. **Oppdater salgsmulighet** åpnes.
-2. Bruk feltet **Handlingstype** for å flytte salgsmuligheten gjennom faser i salgssyklusen:
-  * **Neste** flytter salgsmuligheten fremover en fase.
-  * **Hopp over** flytter salgsmuligheten fremover én eller flere faser i salgssyklusen, som du angir i feltet **Presentasjon**. Du kan bare hoppe over faser som er satt opp slik at de tillater utelatelse.
-  * **Forrige** flytter salgsmuligheten bakover en fase.
-  * **Hopp** flytter salgsmuligheten bakover én eller flere faser i salgssyklusen, som du angir i feltet **Presentasjon**.
-  * **Oppdater** lar deg endre informasjonen (for eksempel endre evalueringen av salgsutsikter og anslåtte verdier) uten å flytte til en annen fase.
-3. Fyll ut de andre feltene etter behov, og klikk deretter **OK**.
+1. <span data-ttu-id="dd1ec-156">I vinduet **Oversikt over salgsmuligheter** velger du handlingen **Oppdater**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-156">In the **Opportunity List** window, choose the **Update** action.</span></span> <span data-ttu-id="dd1ec-157">**Oppdater salgsmulighet** åpnes.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-157">The **Update Opportunity** opens,</span></span>
+2. <span data-ttu-id="dd1ec-158">Bruk feltet **Handlingstype** for å flytte salgsmuligheten gjennom faser i salgssyklusen:</span><span class="sxs-lookup"><span data-stu-id="dd1ec-158">Use the **Action Type** field to move the opportunity through the sales cycle stages:</span></span>
+  * <span data-ttu-id="dd1ec-159">**Neste** flytter salgsmuligheten fremover en fase.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-159">**Next** moves the opportunity forward one stage.</span></span>
+  * <span data-ttu-id="dd1ec-160">**Hopp over** flytter salgsmuligheten fremover én eller flere faser i salgssyklusen, som du angir i feltet **Presentasjon**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-160">**Skip** moves the opportunity forward one or several stages in the sales cycle, which you specify in the **Presentation** field.</span></span> <span data-ttu-id="dd1ec-161">Du kan bare hoppe over faser som er satt opp slik at de tillater utelatelse.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-161">You can only skip stages that have been set up to allow skipping.</span></span>
+  * <span data-ttu-id="dd1ec-162">**Forrige** flytter salgsmuligheten bakover en fase.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-162">**Previous** moves the opportunity back one stage.</span></span>
+  * <span data-ttu-id="dd1ec-163">**Hopp** flytter salgsmuligheten bakover én eller flere faser i salgssyklusen, som du angir i feltet **Presentasjon**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-163">**Jump** moves the opportunity back one or several stages in the sales cycle, which you specify in the **Presentation** field.</span></span>
+  * <span data-ttu-id="dd1ec-164">**Oppdater** lar deg endre informasjonen (for eksempel endre evalueringen av salgsutsikter og anslåtte verdier) uten å flytte til en annen fase.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-164">**Update** enables you to change information (such as to modify your evaluation of their chances of success and estimated values) without moving to another stage.</span></span>
+3. <span data-ttu-id="dd1ec-165">Fyll ut de andre feltene etter behov, og klikk deretter **OK**.</span><span class="sxs-lookup"><span data-stu-id="dd1ec-165">Fill in the other fields as needed, and then choose the **OK** button.</span></span>
 
-##<a name="see-also"></a>Se også  
-[Håndtere salg](sales-manage-sales.md)  
-[Opprette og administrere kontakter](marketing-contacts.md)  
-[Arbeide med Dynamics NAV](ui-work-product.md)
+##<a name="see-also"></a><span data-ttu-id="dd1ec-166">Se også</span><span class="sxs-lookup"><span data-stu-id="dd1ec-166">See Also</span></span>  
+[<span data-ttu-id="dd1ec-167">Håndtere salg</span><span class="sxs-lookup"><span data-stu-id="dd1ec-167">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="dd1ec-168">Opprette og administrere kontakter</span><span class="sxs-lookup"><span data-stu-id="dd1ec-168">Create and Manage Contacts</span></span>](marketing-contacts.md)  
+[<span data-ttu-id="dd1ec-169">Arbeide med Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="dd1ec-169">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

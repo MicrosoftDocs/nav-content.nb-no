@@ -9,44 +9,44 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: bfd82d43cb42a9447292b9f4ef3cc49ca2ce4f53
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: be40ca24dce8d1f8c010290b8f1ee7813d5b8139
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-register-new-vendors"></a>Registrere nye leverandører
-Leverandører tilbyr produktene du selger. Hver leverandør du kjøper fra, må være registrert som et leverandørkort.
+# <a name="how-to-register-new-vendors"></a><span data-ttu-id="ab0b5-102">Registrere nye leverandører</span><span class="sxs-lookup"><span data-stu-id="ab0b5-102">How to: Register New Vendors</span></span>
+<span data-ttu-id="ab0b5-103">Leverandører tilbyr produktene du selger.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-103">Vendors provide the products that you sell.</span></span> <span data-ttu-id="ab0b5-104">Hver leverandør du kjøper fra, må være registrert som et leverandørkort.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-104">Each vendor that you purchase from must be registered as a vendor card.</span></span>
 
-Før du kan registrere nye leverandører, må du definere forskjellige kjøpskoder som du kan velge fra når du fyller ut leverandørkort. Når du har angitt alle nødvendige hoveddata, kan du konfigurere leverandøren ytterligere, for eksempel angi betalingsprioritet og vise en oversikt over varer som leverandøren og andre leverandører kan levere. En annen gruppe med oppsettsoppgaver for leverandører er å registrere avtaler om rabatter, priser og betalingsmåter. Hvis du vil ha mer informasjon, kan du se [Definere kjøp](purchasing-setup-purchasing.md).
+<span data-ttu-id="ab0b5-105">Før du kan registrere nye leverandører, må du definere forskjellige kjøpskoder som du kan velge fra når du fyller ut leverandørkort.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-105">Before you can register new vendors, you must set up various purchase codes that you can select from when you fill vendor cards.</span></span> <span data-ttu-id="ab0b5-106">Når du har angitt alle nødvendige hoveddata, kan du konfigurere leverandøren ytterligere, for eksempel angi betalingsprioritet og vise en oversikt over varer som leverandøren og andre leverandører kan levere.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-106">When all of the required master data is created, you can perform additional configuration of the vendor, such as prioritize the vendor for payment purposes and list items that the vendor and other vendors can supply.</span></span> <span data-ttu-id="ab0b5-107">En annen gruppe med oppsettsoppgaver for leverandører er å registrere avtaler om rabatter, priser og betalingsmåter.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-107">Another group of setup tasks for vendors is to record your agreements concerning discounts, prices, and payment methods.</span></span> <span data-ttu-id="ab0b5-108">Hvis du vil ha mer informasjon, kan du se [Definere kjøp](purchasing-setup-purchasing.md).</span><span class="sxs-lookup"><span data-stu-id="ab0b5-108">For more information, see [Set Up Purchasing](purchasing-setup-purchasing.md).</span></span>
 
-Leverandørkort inneholder informasjon som er nødvendig for å kjøpe produkter fra leverandøren. Hvis du vil ha mer informasjon, kan du se [Registrere kjøp](purchasing-how-record-purchases.md) og [Registrere nye produkter](inventory-how-register-new-products.md).
+<span data-ttu-id="ab0b5-109">Leverandørkort inneholder informasjon som er nødvendig for å kjøpe produkter fra leverandøren.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-109">Vendor cards hold the information that is required to buy products from the vendor.</span></span> <span data-ttu-id="ab0b5-110">Hvis du vil ha mer informasjon, kan du se [Registrere kjøp](purchasing-how-record-purchases.md) og [Registrere nye produkter](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="ab0b5-110">For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md) and [How to: Register new Products](inventory-how-register-new-products.md).</span></span>
 
-**Merk**: Hvis det finnes leverandørmaler for ulike leverandørtyper, vises et vindu når du oppretter et nytt leverandørkort der du kan velge en passende mal. Hvis det bare finnes én leverandørmal, brukes alltid denne malen i nye leverandørkort.
+<span data-ttu-id="ab0b5-111">**Merk**: Hvis det finnes leverandørmaler for ulike leverandørtyper, vises et vindu når du oppretter et nytt leverandørkort der du kan velge en passende mal.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-111">**Note**: If vendor templates exist for different vendor types, then a window appears when you create a new vendor card from where you can select an appropriate template.</span></span> <span data-ttu-id="ab0b5-112">Hvis det bare finnes én leverandørmal, brukes alltid denne malen i nye leverandørkort.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-112">If only one vendor template exists, then new vendor cards always use that template.</span></span>
 
-## <a name="to-create-a-new-vendor-card"></a>Opprette et nytt leverandørkort
-1. På Hjem-siden velger du **Leverandører** for å åpne listen over eksisterende leverandører.  
-2. I vinduet **Leverandører** velger du **Ny**.
+## <a name="to-create-a-new-vendor-card"></a><span data-ttu-id="ab0b5-113">Opprette et nytt leverandørkort</span><span class="sxs-lookup"><span data-stu-id="ab0b5-113">To create a new vendor card</span></span>
+1. <span data-ttu-id="ab0b5-114">På Hjem-siden velger du **Leverandører** for å åpne listen over eksisterende leverandører.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-114">On the Home page, choose **Vendors** to open the list of existing vendors.</span></span>  
+2. <span data-ttu-id="ab0b5-115">I vinduet **Leverandører** velger du **Ny**.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-115">In the **Vendors** window, Choose **New**.</span></span>
 
-    Hvis det finnes mer enn én leverandørmal, åpnes et vindu der du kan velge en leverandørmal. I det tilfellet følger du de to neste trinnene.
-3. I vinduet **Velg en mal for en ny leverandør** velger du malen som du vil bruke for det nye leverandørkortet.
-4. Velg **OK**-knappen. Det åpnes et nytt leverandørkort med noen felt som er fylt ut med informasjon fra malen.
-5. Fortsette med å fylle ut eller endre feltet på leverandørkortet etter behov. Velg et felt som skal inneholde en kort beskrivelse av feltet eller kobling til mer informasjon.
+    <span data-ttu-id="ab0b5-116">Hvis det finnes mer enn én leverandørmal, åpnes et vindu der du kan velge en leverandørmal.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-116">If more than one vendor template exists, then a window opens from which you can select a vendor template.</span></span> <span data-ttu-id="ab0b5-117">I det tilfellet følger du de to neste trinnene.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-117">In that case, follow the next two steps.</span></span>
+3. <span data-ttu-id="ab0b5-118">I vinduet **Velg en mal for en ny leverandør** velger du malen som du vil bruke for det nye leverandørkortet.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-118">In the **Select a template for a new vendor** window, choose the template that you want to use for the new vendor card.</span></span>
+4. <span data-ttu-id="ab0b5-119">Velg **OK**-knappen.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-119">Choose the **OK** button.</span></span> <span data-ttu-id="ab0b5-120">Det åpnes et nytt leverandørkort med noen felt som er fylt ut med informasjon fra malen.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-120">A new vendor card opens with some fields filled with information from the template.</span></span>
+5. <span data-ttu-id="ab0b5-121">Fortsette med å fylle ut eller endre feltet på leverandørkortet etter behov.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-121">Proceed to fill or change fields on the vendor card as necessary.</span></span> <span data-ttu-id="ab0b5-122">Velg et felt som skal inneholde en kort beskrivelse av feltet eller kobling til mer informasjon.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-122">Choose a field to read a short description of the field or link to more information.</span></span>
 
-Leverandøren er nå registrert, og leverandørkortet er klart til å brukes på kjøpsdokumenter.
+<span data-ttu-id="ab0b5-123">Leverandøren er nå registrert, og leverandørkortet er klart til å brukes på kjøpsdokumenter.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-123">The vendor is now registered, and the vendor card is ready to be used on purchase documents.</span></span>
 
-Hvis du vil bruke dette leverandørkortet som en mal når du oppretter nye leverandørkort, kan du lagre det som en leverandørmal. Hvis du vil ha mer informasjon, kan du se følgende avsnitt:
+<span data-ttu-id="ab0b5-124">Hvis du vil bruke dette leverandørkortet som en mal når du oppretter nye leverandørkort, kan du lagre det som en leverandørmal.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-124">If you want to use this vendor card as a template when you create new vendor cards, you can save it as a vendor template.</span></span> <span data-ttu-id="ab0b5-125">Hvis du vil ha mer informasjon, kan du se følgende avsnitt:</span><span class="sxs-lookup"><span data-stu-id="ab0b5-125">For more information, see the following section.</span></span>
 
-## <a name="to-save-the-vendor-card-as-a-template"></a>Lagre leverandørkortet som en mal
-1. I vinduet **Leverandørkort** velger du handlingen **Lagre som mal**. **Leverandørmal**  -vinduet åpnes og viser leverandørkortet som en mal.
-2. Fyll ut feltene etter behov. Velg et felt som skal inneholde en kort beskrivelse av feltet eller kobling til mer informasjon.
-3. Hvis du vil bruke dimensjoner i maler, velger du handlingen **Dimensjoner**. **Dimensjonsmaler**-vinduet åpnes med alle dimensjonskoder som er definert for leverandøren.
-4. Rediger eller angi dimensjonskoder som skal gjelde for nye leverandørkort som opprettes ved hjelp av malen.
-5. Når du har fullført den nye leverandørmalen, kan du velge **OK**-knappen. Leverandørmalen legges til i listen over leverandørmaler, slik at du kan bruke den til å opprette nye leverandørkort.
+## <a name="to-save-the-vendor-card-as-a-template"></a><span data-ttu-id="ab0b5-126">Lagre leverandørkortet som en mal</span><span class="sxs-lookup"><span data-stu-id="ab0b5-126">To save the vendor card as a template</span></span>
+1. <span data-ttu-id="ab0b5-127">I vinduet **Leverandørkort** velger du handlingen **Lagre som mal**.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-127">In the **Vendor Card** window, choose the **Save as Template** action.</span></span> <span data-ttu-id="ab0b5-128">**Leverandørmal**  -vinduet åpnes og viser leverandørkortet som en mal.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-128">The **Vendor Template** window opens showing the vendor card as a template.</span></span>
+2. <span data-ttu-id="ab0b5-129">Fyll ut feltene etter behov.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-129">Fill in the fields as necessary.</span></span> <span data-ttu-id="ab0b5-130">Velg et felt som skal inneholde en kort beskrivelse av feltet eller kobling til mer informasjon.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-130">Choose a field to read a short description of the field or link to more information.</span></span>
+3. <span data-ttu-id="ab0b5-131">Hvis du vil bruke dimensjoner i maler, velger du handlingen **Dimensjoner**.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-131">To reuse dimensions in templates, choose the **Dimensions** action.</span></span> <span data-ttu-id="ab0b5-132">**Dimensjonsmaler**-vinduet åpnes med alle dimensjonskoder som er definert for leverandøren.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-132">The **Dimension Templates** window opens showing any dimension codes that are set up for the vendor.</span></span>
+4. <span data-ttu-id="ab0b5-133">Rediger eller angi dimensjonskoder som skal gjelde for nye leverandørkort som opprettes ved hjelp av malen.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-133">Edit or enter dimension codes that will apply to new vendor cards created by using the template.</span></span>
+5. <span data-ttu-id="ab0b5-134">Når du har fullført den nye leverandørmalen, kan du velge **OK**-knappen.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-134">When you have completed the new vendor template, choose the **OK** button.</span></span> <span data-ttu-id="ab0b5-135">Leverandørmalen legges til i listen over leverandørmaler, slik at du kan bruke den til å opprette nye leverandørkort.</span><span class="sxs-lookup"><span data-stu-id="ab0b5-135">The vendor template is added to the list of vendor templates, so that you can use it to create new vendor cards.</span></span>
 
-## <a name="see-also"></a>Se også
-[Håndtere kjøp](purchasing-manage-purchasing.md)  
-[Registrere kjøp](purchasing-how-record-purchases.md)   
-[Arbeide med Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="ab0b5-136">Se også</span><span class="sxs-lookup"><span data-stu-id="ab0b5-136">See Also</span></span>
+[<span data-ttu-id="ab0b5-137">Håndtere kjøp</span><span class="sxs-lookup"><span data-stu-id="ab0b5-137">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)  
+<span data-ttu-id="ab0b5-138">[Registrere kjøp](purchasing-how-record-purchases.md) </span><span class="sxs-lookup"><span data-stu-id="ab0b5-138">[How to: Record Purchases](purchasing-how-record-purchases.md) </span></span>  
+[<span data-ttu-id="ab0b5-139">Arbeide med Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="ab0b5-139">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

@@ -9,48 +9,48 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 59db38c159dd2810656edc668ee431c6414b9d90
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 6f582e844670b8dc67e458947392d29afb8f1d1a
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-adjust-item-costs"></a>Justere varekost   
-Kostnaden for en vare (lagerverdien) som du kjøper og senere selger, kan endres i løpet av levetiden, for eksempel fordi en fraktkostnader er lagt til innkjøpskostnaden etter at du har solgt varen. Hvis du alltid vil vite riktig lagerverdi, må varekostnader derfor justeres regelmessig.
-Dette sikrer at salgs- og fortjenestestatistikk er oppdatert og at økonomiske KPI-er er riktige.
+# <a name="how-to-adjust-item-costs"></a><span data-ttu-id="c2640-102">Justere varekost</span><span class="sxs-lookup"><span data-stu-id="c2640-102">How to: Adjust Item Costs</span></span>   
+<span data-ttu-id="c2640-103">Kostnaden for en vare (lagerverdien) som du kjøper og senere selger, kan endres i løpet av levetiden, for eksempel fordi en fraktkostnader er lagt til innkjøpskostnaden etter at du har solgt varen.</span><span class="sxs-lookup"><span data-stu-id="c2640-103">The cost of an item (inventory value) that you purchase and later sell may change during its lifetime, for example because a freight cost is added to its purchase cost after you have sold the item.</span></span> <span data-ttu-id="c2640-104">Hvis du alltid vil vite riktig lagerverdi, må varekostnader derfor justeres regelmessig.</span><span class="sxs-lookup"><span data-stu-id="c2640-104">To always know the correct inventory value, item costs must therefore regularly be adjusted.</span></span>
+<span data-ttu-id="c2640-105">Dette sikrer at salgs- og fortjenestestatistikk er oppdatert og at økonomiske KPI-er er riktige.</span><span class="sxs-lookup"><span data-stu-id="c2640-105">This ensures that sales and profit statistics are up to date and that financial KPIs are correct.</span></span>
 
-**Merk**: Varekostnader er justert bare av FIFO-lagermetoden. Dette betyr at enhetskosten for en vare er den faktiske verdien for et hvilket som helst mottak av varen, og at lageret er vurdering med antakelsen av at de første elementene som er plassert i lageret, selges først.
+<span data-ttu-id="c2640-106">**Merk**: Varekostnader er justert bare av FIFO-lagermetoden.</span><span class="sxs-lookup"><span data-stu-id="c2640-106">**Note**: Item costs are adjusted by the FIFO costing method only.</span></span> <span data-ttu-id="c2640-107">Dette betyr at enhetskosten for en vare er den faktiske verdien for et hvilket som helst mottak av varen, og at lageret er vurdering med antakelsen av at de første elementene som er plassert i lageret, selges først.</span><span class="sxs-lookup"><span data-stu-id="c2640-107">This means that an item’s unit cost is the actual value of any receipt of the item, and that inventory is valuated with the assumption that the first items placed in inventory are sold first.</span></span>
 
-Funksjonen for kostnadsjustering behandler bare verdiposter som ennå ikke er justert. Hvis funksjonen støter på en situasjon der endrede inngående kost må videresendes til tilknyttede utgående poster, opprettes det nye justeringsoppføringer, som er basert på informasjonen i de opprinnelige verdipostene, men som inneholder justeringsbeløpet. Funksjonen for kostnadsjustering bruker bokføringsdatoen for den opprinnelige verdiposten i justeringsposten hvis denne datoen ikke er i en lukket lagerperiode. I så tilfelle bruker programmet startdatoen for den neste åpne lagerperioden. Hvis lagerperioder ikke brukes, styrer datoen i feltet **Bokf. tillatt fra** i vinduet **Finansoppsett** når justeringsposten bokføres.
+<span data-ttu-id="c2640-108">Funksjonen for kostnadsjustering behandler bare verdiposter som ennå ikke er justert.</span><span class="sxs-lookup"><span data-stu-id="c2640-108">The cost adjustment function processes only value entries that have not yet been adjusted.</span></span> <span data-ttu-id="c2640-109">Hvis funksjonen støter på en situasjon der endrede inngående kost må videresendes til tilknyttede utgående poster, opprettes det nye justeringsoppføringer, som er basert på informasjonen i de opprinnelige verdipostene, men som inneholder justeringsbeløpet.</span><span class="sxs-lookup"><span data-stu-id="c2640-109">If the function encounters a situation where changed inbound costs need to be forwarded to associated outbound entries, then new adjustment value entries are created, which are based on the information in the original value entries but contain the adjustment amount.</span></span> <span data-ttu-id="c2640-110">Funksjonen for kostnadsjustering bruker bokføringsdatoen for den opprinnelige verdiposten i justeringsposten hvis denne datoen ikke er i en lukket lagerperiode.</span><span class="sxs-lookup"><span data-stu-id="c2640-110">The cost adjustment function uses the posting date of the original value entry in the adjustment entry, unless that date is in a closed inventory period.</span></span> <span data-ttu-id="c2640-111">I så tilfelle bruker programmet startdatoen for den neste åpne lagerperioden.</span><span class="sxs-lookup"><span data-stu-id="c2640-111">In that case, the program uses the starting date of the next open inventory period.</span></span> <span data-ttu-id="c2640-112">Hvis lagerperioder ikke brukes, styrer datoen i feltet **Bokf. tillatt fra** i vinduet **Finansoppsett** når justeringsposten bokføres.</span><span class="sxs-lookup"><span data-stu-id="c2640-112">If inventory periods are not used, then the date in the **Allow Posting From** field in the **General Ledger Setup** window will define when the adjustment entry is posted.</span></span>
 
-**Merk**: Når varekostnader er justert, må lagerkost bokføres automatisk eller manuelt i finans. Hvis du vil ha mer informasjon, kan du se [Bokføre lagerkost i finans](inventory-how-post-inventory-cost-gl.md).
+<span data-ttu-id="c2640-113">**Merk**: Når varekostnader er justert, må lagerkost bokføres automatisk eller manuelt i finans.</span><span class="sxs-lookup"><span data-stu-id="c2640-113">**Note**: After item costs have been adjusted, the inventory cost must be posted to the general ledger, either automatically or manually.</span></span> <span data-ttu-id="c2640-114">Hvis du vil ha mer informasjon, kan du se [Bokføre lagerkost i finans](inventory-how-post-inventory-cost-gl.md).</span><span class="sxs-lookup"><span data-stu-id="c2640-114">For more information, see [How to: Post Inventory Costs to the General Ledger](inventory-how-post-inventory-cost-gl.md).</span></span>
 
-Du kan justere varekostnader på to måter:
- - Automatisk ved at systemet justerer eventuelle kostendringer hver gang du bokfører lagertransaksjoner.
- - Manuelt ved å kjøre kjørselen **Juster kostverdi - vareposter** for én eller flere varer når du vet at kostnadene er endret.  
+<span data-ttu-id="c2640-115">Du kan justere varekostnader på to måter:</span><span class="sxs-lookup"><span data-stu-id="c2640-115">You can adjust item costs in two ways:</span></span>
+ - <span data-ttu-id="c2640-116">Automatisk ved at systemet justerer eventuelle kostendringer hver gang du bokfører lagertransaksjoner.</span><span class="sxs-lookup"><span data-stu-id="c2640-116">Automatically, by having the system adjusted any cost changes every time that inventory transactions occur.</span></span>
+ - <span data-ttu-id="c2640-117">Manuelt ved å kjøre kjørselen **Juster kostverdi - vareposter** for én eller flere varer når du vet at kostnadene er endret.</span><span class="sxs-lookup"><span data-stu-id="c2640-117">Manually, by running the **Adjust Cost - Item Entries** batch job for one or more items when you know that their costs have changed.</span></span>  
 
-## <a name="to-adjust-item-costs-automatically"></a>Justere varekost automatisk
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Lageroppsett** og velger deretter den relaterte koblingen.
-2. I vinduet **Lageroppsett** i feltet **Automatisk kostjustering**, velger du én av følgende verdier:
+## <a name="to-adjust-item-costs-automatically"></a><span data-ttu-id="c2640-118">Justere varekost automatisk</span><span class="sxs-lookup"><span data-stu-id="c2640-118">To adjust item costs automatically</span></span>
+1. <span data-ttu-id="c2640-119">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Lageroppsett** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="c2640-119">In the top right corner, choose the **Search for Page or Report** icon, enter **Inventory Setup**, and then  choose the related link.</span></span>
+2. <span data-ttu-id="c2640-120">I vinduet **Lageroppsett** i feltet **Automatisk kostjustering**, velger du én av følgende verdier:</span><span class="sxs-lookup"><span data-stu-id="c2640-120">In the **Inventory Setup** window, in the **Automatic Cost Adjustment** field, select one of the following values.</span></span>
 
-|Alternativ |Virkemåte |
+|<span data-ttu-id="c2640-121">Alternativ</span><span class="sxs-lookup"><span data-stu-id="c2640-121">Option</span></span> |<span data-ttu-id="c2640-122">Virkemåte</span><span class="sxs-lookup"><span data-stu-id="c2640-122">Behavior</span></span> |
 |-------|---------|
-|Aldri|Kostnader justeres ikke ved bokføring|
-|Dag|Kostnader justeres hvis bokføring skjer innen én dag etter arbeidsdatoen|
-|Uke|Kostnader justeres hvis bokføring skjer innen én uke etter arbeidsdatoen|
-|Måned|Kostnader justeres hvis bokføring skjer innen én måned etter arbeidsdatoen|
-|Kvartal|Kostnader justeres hvis bokføring skjer innen ett kvartal etter arbeidsdatoen|
-|År|Kostnader justeres hvis bokføring skjer innen ett år etter arbeidsdatoen|
-|Alltid|Kostnader justeres alltid ved bokføring, uansett bokføringsdato|
+|<span data-ttu-id="c2640-123">Aldri</span><span class="sxs-lookup"><span data-stu-id="c2640-123">Never</span></span>|<span data-ttu-id="c2640-124">Kostnader justeres ikke ved bokføring</span><span class="sxs-lookup"><span data-stu-id="c2640-124">Costs are not adjusted when posting</span></span>|
+|<span data-ttu-id="c2640-125">Dag</span><span class="sxs-lookup"><span data-stu-id="c2640-125">Day</span></span>|<span data-ttu-id="c2640-126">Kostnader justeres hvis bokføring skjer innen én dag etter arbeidsdatoen</span><span class="sxs-lookup"><span data-stu-id="c2640-126">Costs are adjusted if posting occurs within one day from the work date</span></span>|
+|<span data-ttu-id="c2640-127">Uke</span><span class="sxs-lookup"><span data-stu-id="c2640-127">Week</span></span>|<span data-ttu-id="c2640-128">Kostnader justeres hvis bokføring skjer innen én uke etter arbeidsdatoen</span><span class="sxs-lookup"><span data-stu-id="c2640-128">Costs are adjusted if posting occurs within one week from the work date</span></span>|
+|<span data-ttu-id="c2640-129">Måned</span><span class="sxs-lookup"><span data-stu-id="c2640-129">Month</span></span>|<span data-ttu-id="c2640-130">Kostnader justeres hvis bokføring skjer innen én måned etter arbeidsdatoen</span><span class="sxs-lookup"><span data-stu-id="c2640-130">Costs are adjusted if posting occurs within one month from the work date</span></span>|
+|<span data-ttu-id="c2640-131">Kvartal</span><span class="sxs-lookup"><span data-stu-id="c2640-131">Quarter</span></span>|<span data-ttu-id="c2640-132">Kostnader justeres hvis bokføring skjer innen ett kvartal etter arbeidsdatoen</span><span class="sxs-lookup"><span data-stu-id="c2640-132">Costs are adjusted if posting occurs within one quarter from the work date</span></span>|
+|<span data-ttu-id="c2640-133">År</span><span class="sxs-lookup"><span data-stu-id="c2640-133">Year</span></span>|<span data-ttu-id="c2640-134">Kostnader justeres hvis bokføring skjer innen ett år etter arbeidsdatoen</span><span class="sxs-lookup"><span data-stu-id="c2640-134">Costs are adjusted if posting occurs within one year from the work date</span></span>|
+|<span data-ttu-id="c2640-135">Alltid</span><span class="sxs-lookup"><span data-stu-id="c2640-135">Always</span></span>|<span data-ttu-id="c2640-136">Kostnader justeres alltid ved bokføring, uansett bokføringsdato</span><span class="sxs-lookup"><span data-stu-id="c2640-136">Costs are always adjusted when posting, irrespective of the posting date</span></span>|
 
-## <a name="to-adjust-item-costs-manually"></a>Justere varekost manuelt
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Juster kostverdi - vareposter** og velger deretter den relaterte koblingen.
-2. I vinduet **Juster kostverdi - vareposter** angir du hvilke varer du vil justere kostnader for og om de justerte kostnadene bokføres til økonomimodulen samtidig.
+## <a name="to-adjust-item-costs-manually"></a><span data-ttu-id="c2640-137">Justere varekost manuelt</span><span class="sxs-lookup"><span data-stu-id="c2640-137">To adjust item costs manually</span></span>
+1. <span data-ttu-id="c2640-138">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Juster kostverdi - vareposter** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="c2640-138">In the top right corner, choose the **Search for Page or Report** icon, enter **Adjust Cost - Item Entries**, and then choose the related link.</span></span>
+2. <span data-ttu-id="c2640-139">I vinduet **Juster kostverdi - vareposter** angir du hvilke varer du vil justere kostnader for og om de justerte kostnadene bokføres til økonomimodulen samtidig.</span><span class="sxs-lookup"><span data-stu-id="c2640-139">In the **Adjust Cost - Item Entries** window, specify which items to adjust costs for and whether the adjusted costs will be posted to the general ledger at the same time.</span></span>
 
-## <a name="see-also"></a>Se også
-[Håndtere lager](inventory-manage-inventory.md)  
-[Bokføre lagerkost i finans](inventory-how-post-inventory-cost-gl.md)  
-[Håndtere salg](sales-manage-sales.md)  
-[Håndtere kjøp](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="c2640-140">Se også</span><span class="sxs-lookup"><span data-stu-id="c2640-140">See Also</span></span>
+[<span data-ttu-id="c2640-141">Håndtere lager</span><span class="sxs-lookup"><span data-stu-id="c2640-141">Manage Inventory</span></span>](inventory-manage-inventory.md)  
+[<span data-ttu-id="c2640-142">Bokføre lagerkost i finans</span><span class="sxs-lookup"><span data-stu-id="c2640-142">How to: Post Inventory Costs to the General Ledger</span></span>](inventory-how-post-inventory-cost-gl.md)  
+[<span data-ttu-id="c2640-143">Håndtere salg</span><span class="sxs-lookup"><span data-stu-id="c2640-143">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="c2640-144">Håndtere kjøp</span><span class="sxs-lookup"><span data-stu-id="c2640-144">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

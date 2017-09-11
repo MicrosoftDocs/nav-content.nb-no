@@ -9,32 +9,32 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 76a95ab9f114f4c854995a49089a0fbe55b96ff9
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 89397f6b6045bfb36bfdea217f1278fec016da7c
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="how-to-set-up-alternative-addresses-for-contacts"></a>Definere alternative adresser for kontakter
-Du kan tilordne en alternativ adresse hvis det hender at du for eksempel sender post og informasjon til kontaktens sommerhus. Hvis du vil angi når hver enkelt adresse er gyldig, kan du også tilordne ett eller flere datointervall til hver alternative adresse du har angitt for kontaktene.
+# <a name="how-to-set-up-alternative-addresses-for-contacts"></a><span data-ttu-id="211eb-102">Definere alternative adresser for kontakter</span><span class="sxs-lookup"><span data-stu-id="211eb-102">How to: Set Up Alternative Addresses for Contacts</span></span>
+<span data-ttu-id="211eb-103">Du kan tilordne en alternativ adresse hvis det hender at du for eksempel sender post og informasjon til kontaktens sommerhus.</span><span class="sxs-lookup"><span data-stu-id="211eb-103">You can assign an alternative address where your contacts are sometimes sent mail and information, for example, their summer cottage.</span></span> <span data-ttu-id="211eb-104">Hvis du vil angi når hver enkelt adresse er gyldig, kan du også tilordne ett eller flere datointervall til hver alternative adresse du har angitt for kontaktene.</span><span class="sxs-lookup"><span data-stu-id="211eb-104">You can also assign one or several date ranges to each alternative address you have entered for your contacts to specify when each address is valid.</span></span>
 
-## <a name="to-assign-an-alternative-address"></a>Slik tilordner du en alternativ adresse
-1. Åpne kontakten.
-2. Velg handlingen **Alternativ adresse**, og velg deretter **Kort**. Vinduet **Kontaktens alt. adresse - oversikt** åpnes.
-3. Angi en ny alternativ adresse, og fyll ut feltene i vinduet **Alternativ adresse for kontakt**.
+## <a name="to-assign-an-alternative-address"></a><span data-ttu-id="211eb-105">Slik tilordner du en alternativ adresse</span><span class="sxs-lookup"><span data-stu-id="211eb-105">To assign an alternative address</span></span>
+1. <span data-ttu-id="211eb-106">Åpne kontakten.</span><span class="sxs-lookup"><span data-stu-id="211eb-106">Open the contact.</span></span>
+2. <span data-ttu-id="211eb-107">Velg handlingen **Alternativ adresse**, og velg deretter **Kort**.</span><span class="sxs-lookup"><span data-stu-id="211eb-107">Choose the **Alternative Address** action, and then choose **Card**.</span></span> <span data-ttu-id="211eb-108">Vinduet **Kontaktens alt. adresse - oversikt** åpnes.</span><span class="sxs-lookup"><span data-stu-id="211eb-108">The **Contact Alt. Address List** window opens.</span></span>
+3. <span data-ttu-id="211eb-109">Angi en ny alternativ adresse, og fyll ut feltene i vinduet **Alternativ adresse for kontakt**.</span><span class="sxs-lookup"><span data-stu-id="211eb-109">Enter a new alternative address and fill in the fields on the **Contact Alternative Address** window.</span></span>
 
-Gjenta disse trinnene hvis du vil tilordne flere alternative adresser. For hver alternative adresse bør du angi ett eller flere datointervaller.
+<span data-ttu-id="211eb-110">Gjenta disse trinnene hvis du vil tilordne flere alternative adresser.</span><span class="sxs-lookup"><span data-stu-id="211eb-110">Repeat these steps to assign as many alternative addresses as you want.</span></span> <span data-ttu-id="211eb-111">For hver alternative adresse bør du angi ett eller flere datointervaller.</span><span class="sxs-lookup"><span data-stu-id="211eb-111">For each alternative address you may want to specify one or several date ranges.</span></span>
 
-Ved å følge samme fremgangsmåte kan du også tilordne alternative adresser i vinduet Kontaktoversikt.
+<span data-ttu-id="211eb-112">Ved å følge samme fremgangsmåte kan du også tilordne alternative adresser i vinduet Kontaktoversikt.</span><span class="sxs-lookup"><span data-stu-id="211eb-112">You can also assign alternative addresses from the contact list window by following the same procedure.</span></span>
 
-## <a name="to-assign-an-alternative-address-date-range"></a>Slik tilordner du et datointervall for alternativ adresse
-1. Åpne kontakten.
-2. Velg handlingen **Alternativ adresse**, og velg deretter **Datointervall**. Vinduet **Datointervall for kontaktens alt. adr.** åpnes.
-3. Velg handlingen **Ny**.
-4. I feltet **Kontaktens alt. adresse - kode** velger du en alternativ adresse for denne kontakten, og deretter fyller du ut feltene **Startdato** og **Sluttdato**.
+## <a name="to-assign-an-alternative-address-date-range"></a><span data-ttu-id="211eb-113">Slik tilordner du et datointervall for alternativ adresse</span><span class="sxs-lookup"><span data-stu-id="211eb-113">To assign an alternative address date range</span></span>
+1. <span data-ttu-id="211eb-114">Åpne kontakten.</span><span class="sxs-lookup"><span data-stu-id="211eb-114">Open the contact.</span></span>
+2. <span data-ttu-id="211eb-115">Velg handlingen **Alternativ adresse**, og velg deretter **Datointervall**.</span><span class="sxs-lookup"><span data-stu-id="211eb-115">Choose the **Alternative Address** action, and then choose **Date Range**.</span></span> <span data-ttu-id="211eb-116">Vinduet **Datointervall for kontaktens alt. adr.** åpnes.</span><span class="sxs-lookup"><span data-stu-id="211eb-116">The **Contact Alt. Addr. Date Ranges** window opens.</span></span>
+3. <span data-ttu-id="211eb-117">Velg handlingen **Ny**.</span><span class="sxs-lookup"><span data-stu-id="211eb-117">Choose **New** action.</span></span>
+4. <span data-ttu-id="211eb-118">I feltet **Kontaktens alt. adresse - kode** velger du en alternativ adresse for denne kontakten, og deretter fyller du ut feltene **Startdato** og **Sluttdato**.</span><span class="sxs-lookup"><span data-stu-id="211eb-118">In the **Contact Alt. Address Code** field, select an alternative address for this contact, and then fill in the **Starting Date** and **Ending Date** fields.</span></span>
 
-Gjenta disse trinnene hvis du vil tilordne flere datointervaller.
+<span data-ttu-id="211eb-119">Gjenta disse trinnene hvis du vil tilordne flere datointervaller.</span><span class="sxs-lookup"><span data-stu-id="211eb-119">Repeat these steps to assign as many date ranges as you want.</span></span>
 
-##<a name="see-also"></a>Se også
-[Opprette kontaktselskaper](marketing-create-contact-companies.md)
+##<a name="see-also"></a><span data-ttu-id="211eb-120">Se også</span><span class="sxs-lookup"><span data-stu-id="211eb-120">See Also</span></span>
+[<span data-ttu-id="211eb-121">Opprette kontaktselskaper</span><span class="sxs-lookup"><span data-stu-id="211eb-121">Create Contact Companies</span></span>](marketing-create-contact-companies.md)
 

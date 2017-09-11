@@ -16,105 +16,105 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-revalue-fixed-assets"></a>Revaluere aktiva
-Revaluering av aktiva kan bestå av oppskrivinger, nedskrivninger eller generelle verdijusteringer.
+# <a name="how-to-revalue-fixed-assets"></a><span data-ttu-id="5aa4b-102">Revaluere aktiva</span><span class="sxs-lookup"><span data-stu-id="5aa4b-102">How to: Revalue Fixed Assets</span></span>
+<span data-ttu-id="5aa4b-103">Revaluering av aktiva kan bestå av oppskrivinger, nedskrivninger eller generelle verdijusteringer.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-103">Revaluation of fixed assets can consist of appreciations, write-downs, or general value adjustments.</span></span>
 
-Når verdien for et aktiva har økt, kan du bokføre en kladdelinje med et høyere beløp, en oppskriving, i avskrivningstablået. Det nye beløpet registreres som en oppskriving i henhold til bokføringsoppsettet for aktivaet.
+<span data-ttu-id="5aa4b-104">Når verdien for et aktiva har økt, kan du bokføre en kladdelinje med et høyere beløp, en oppskriving, i avskrivningstablået.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-104">When the value of a fixed asset has increased, you post a journal line with a higher amount, an appreciation, to the depreciation book.</span></span> <span data-ttu-id="5aa4b-105">Det nye beløpet registreres som en oppskriving i henhold til bokføringsoppsettet for aktivaet.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-105">The new amount is recorded as an appreciation according to the fixed asset posting setup.</span></span>
 
-Når verdien for et aktiva har sunket, kan du bokføre en kladdelinje med et lavere beløp, en nedskriving, i avskrivningstablået. Det nye beløpet registreres som en nedskriving i henhold til bokføringsoppsettet for aktivaet.
+<span data-ttu-id="5aa4b-106">Når verdien for et aktiva har sunket, kan du bokføre en kladdelinje med et lavere beløp, en nedskriving, i avskrivningstablået.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-106">When the value of a fixed asset has decreased, you post a journal line with a lower amount, a write-down, to the depreciation book.</span></span> <span data-ttu-id="5aa4b-107">Det nye beløpet registreres som en nedskriving i henhold til bokføringsoppsettet for aktivaet.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-107">The new amount is recorded as a write-down according to the fixed asset posting setup.</span></span>
 
-Indeksregulering brukes til å justere flere aktivaverdier, for eksempel i henhold til generelle prisendringer. Du bruker kjørselen **Indeksreg. aktiva** til å endre forskjellige beløp, for eksempel nedskrivingsbeløp og oppskrivningsbeløp.
+<span data-ttu-id="5aa4b-108">Indeksregulering brukes til å justere flere aktivaverdier, for eksempel i henhold til generelle prisendringer.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-108">Indexation is used to adjust multiple fixed asset values, for example per general price changes.</span></span> <span data-ttu-id="5aa4b-109">Du bruker kjørselen **Indeksreg. aktiva** til å endre forskjellige beløp, for eksempel nedskrivingsbeløp og oppskrivningsbeløp.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-109">The **Index Fixed Assets** batch job can be used to change various amounts, such as write-down and appreciation amounts.</span></span>
 
-## <a name="to-post-an-appreciation-from-the-fixed-asset-gl-journal"></a>Slik bokfører du en oppskrivning fra aktivafinanskladden:  
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Aktivafinanskladder** og velger deretter den relaterte koblingen.  
-2. Opprett en innledende kladdelinje, og fyll ut feltene etter behov.
-3. I feltet **Aktivabokf.type** velger du **Oppskrivning**.
-4. Velg **Sett inn aktivamotkonto**. En ny kladdelinje opprettes for motkontoen som er satt opp for oppskrivingsbokføring.
+## <a name="to-post-an-appreciation-from-the-fixed-asset-gl-journal"></a><span data-ttu-id="5aa4b-110">Slik bokfører du en oppskrivning fra aktivafinanskladden:</span><span class="sxs-lookup"><span data-stu-id="5aa4b-110">To post an appreciation from the fixed asset G/L journal</span></span>  
+1. <span data-ttu-id="5aa4b-111">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Aktivafinanskladder** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-111">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="5aa4b-112">Opprett en innledende kladdelinje, og fyll ut feltene etter behov.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-112">Create an initial journal line and fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="5aa4b-113">I feltet **Aktivabokf.type** velger du **Oppskrivning**.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-113">In the **FA Posting Type** field, select **Appreciation**.</span></span>
+4. <span data-ttu-id="5aa4b-114">Velg **Sett inn aktivamotkonto**.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-114">Choose the **Insert FA Bal. Account** action.</span></span> <span data-ttu-id="5aa4b-115">En ny kladdelinje opprettes for motkontoen som er satt opp for oppskrivingsbokføring.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-115">A second journal line is created for the balancing account that is set up for appreciation posting.</span></span>
 
-    **Merk**: Trinn 4 fungerer bare hvis du har definert følgende: I vinduet **Kort for bokf.grp.- aktiva** for bokføringsgruppen for aktivaet, inneholder **Oppskrivingskonto**-feltet finansdebetkontoen og **Motkonto for oppskriving**-feltet inneholder finanskontoen du vil bokføre motposter for oppskrivning til. Hvis du vil ha mer informasjon, kan du se "Definere bokføringsgrupper for aktiva" i [Definere generell aktivainformasjon](fa-how-setup-general.md).
-5. Velg handlingen **Bokfør**.
+    <span data-ttu-id="5aa4b-116">**Merk**: Trinn 4 fungerer bare hvis du har definert følgende: I vinduet **Kort for bokf.grp.- aktiva** for bokføringsgruppen for aktivaet, inneholder **Oppskrivingskonto**-feltet finansdebetkontoen og **Motkonto for oppskriving**-feltet inneholder finanskontoen du vil bokføre motposter for oppskrivning til.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-116">**Note**: Step 4 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Appreciation Account** field contains the general ledger debit account and the **Appreciation Bal. Account** field contains the general ledger account to which you want to post balancing entries for appreciation.</span></span> <span data-ttu-id="5aa4b-117">Hvis du vil ha mer informasjon, kan du se "Definere bokføringsgrupper for aktiva" i [Definere generell aktivainformasjon](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="5aa4b-117">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
+5. <span data-ttu-id="5aa4b-118">Velg handlingen **Bokfør**.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-118">Choose the **Post** action.</span></span>
 
-## <a name="to-post-a-write-down-from-the-fixed-asset-gl-journal"></a>Slik bokfører du en nedskrivning fra aktivafinanskladden:  
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Aktivafinanskladder** og velger deretter den relaterte koblingen.  
-2. Opprett en innledende kladdelinje, og fyll ut feltene etter behov.
-3. I feltet **Aktivabokf.type** velger du **Nedskriving**.
-4. Velg **Sett inn aktivamotkonto**. En ny kladdelinje opprettes for motkontoen som er satt opp for nedskrivingsbokføring.
+## <a name="to-post-a-write-down-from-the-fixed-asset-gl-journal"></a><span data-ttu-id="5aa4b-119">Slik bokfører du en nedskrivning fra aktivafinanskladden:</span><span class="sxs-lookup"><span data-stu-id="5aa4b-119">To post a write-down from the fixed asset G/L journal</span></span>  
+1. <span data-ttu-id="5aa4b-120">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Aktivafinanskladder** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-120">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="5aa4b-121">Opprett en innledende kladdelinje, og fyll ut feltene etter behov.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-121">Create an initial journal line, and fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="5aa4b-122">I feltet **Aktivabokf.type** velger du **Nedskriving**.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-122">In the **FA Posting Type** field, select **Write-Down**.</span></span>
+4. <span data-ttu-id="5aa4b-123">Velg **Sett inn aktivamotkonto**.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-123">Choose the **Insert FA Bal. Account** action.</span></span> <span data-ttu-id="5aa4b-124">En ny kladdelinje opprettes for motkontoen som er satt opp for nedskrivingsbokføring.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-124">A second journal line is created for the balancing account that is set up for write-down posting.</span></span>
 
-    **Merk**: Trinn 4 fungerer bare hvis du har definert følgende: I vinduet **Kort for bokf.grp.- aktiva** for bokføringsgruppen for aktivaet, inneholder **Nedskrivingskonto**-feltet finanskreditkontoen og **Konto for nedskrivningskostn.**-feltet inneholder finansdebetkontoen du vil bokføre motposter for nedskrivning til. Hvis du vil ha mer informasjon, kan du se "Definere bokføringsgrupper for aktiva" i [Definere generell aktivainformasjon](fa-how-setup-general.md).
-5. Velg handlingen **Bokfør**.
+    <span data-ttu-id="5aa4b-125">**Merk**: Trinn 4 fungerer bare hvis du har definert følgende: I vinduet **Kort for bokf.grp.- aktiva** for bokføringsgruppen for aktivaet, inneholder **Nedskrivingskonto**-feltet finanskreditkontoen og **Konto for nedskrivningskostn.**-feltet inneholder finansdebetkontoen du vil bokføre motposter for nedskrivning til.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-125">**Note**: Step 4 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Write-Down Account** field contains the general ledger credit account and the **Write-Down Expense Account** field contains the general ledger debit account to which you want to post balancing entries for write-downs.</span></span> <span data-ttu-id="5aa4b-126">Hvis du vil ha mer informasjon, kan du se "Definere bokføringsgrupper for aktiva" i [Definere generell aktivainformasjon](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="5aa4b-126">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
+5. <span data-ttu-id="5aa4b-127">Velg handlingen **Bokfør**.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-127">Choose the **Post** action.</span></span>
 
-## <a name="to-perform-general-revaluation-of-fixed-assets"></a>Slik utfører du generell revaluering av aktiva:  
-Indeksregulering brukes til å justere flere aktivaverdier, for eksempel i henhold til generelle prisendringer. Du bruker kjørselen **Indeksreg. aktiva** til å endre forskjellige beløp, for eksempel nedskrivingsbeløp og oppskrivningsbeløp. **Tillat indeksreg.** i **Avskrivningstablå**-vinduet må merkes av.
+## <a name="to-perform-general-revaluation-of-fixed-assets"></a><span data-ttu-id="5aa4b-128">Slik utfører du generell revaluering av aktiva:</span><span class="sxs-lookup"><span data-stu-id="5aa4b-128">To perform general revaluation of fixed assets</span></span>  
+<span data-ttu-id="5aa4b-129">Indeksregulering brukes til å justere flere aktivaverdier, for eksempel i henhold til generelle prisendringer.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-129">Indexation is used to adjust multiple fixed asset values, for example per general price changes.</span></span> <span data-ttu-id="5aa4b-130">Du bruker kjørselen **Indeksreg. aktiva** til å endre forskjellige beløp, for eksempel nedskrivingsbeløp og oppskrivningsbeløp.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-130">The **Index Fixed Assets** batch job can be used to change various amounts, such as write-down and appreciation amounts.</span></span> <span data-ttu-id="5aa4b-131">**Tillat indeksreg.** i **Avskrivningstablå**-vinduet må merkes av.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-131">The **Allow Indexation** check box in the **Depreciation Book** window must be selected.</span></span>
 
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Indeksreg. aktiva** og velger deretter den relaterte koblingen.  
-2. Fyll ut feltene etter behov.
-3. Velg **OK**-knappen.  
+1. <span data-ttu-id="5aa4b-132">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Indeksreg. aktiva** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-132">In the top right corner, choose the **Search for Page or Report** icon, enter **Index Fixed Assets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="5aa4b-133">Fyll ut feltene etter behov.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-133">Fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="5aa4b-134">Velg **OK**-knappen.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-134">Choose the **OK** button.</span></span>  
 
-    Revalueringslinjer opprettes i henhold til innstillingene i trinn 2. Linjene opprettes i aktivakladden eller aktivafinanskladden, avhengig av malen og kladdeoppsettet i **Aktivakladdoppsett**-vinduet. Se [Definere generell aktivainformasjon](fa-how-setup-general.md) for mer informasjon.
+    <span data-ttu-id="5aa4b-135">Revalueringslinjer opprettes i henhold til innstillingene i trinn 2.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-135">Revaluation lines are created per your settings in step 2.</span></span> <span data-ttu-id="5aa4b-136">Linjene opprettes i aktivakladden eller aktivafinanskladden, avhengig av malen og kladdeoppsettet i **Aktivakladdoppsett**-vinduet.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-136">The lines are created in either the fixed asset journal or the fixed asset G/L journal, depending on your template and batch setup in the **FA Journal Setup** window.</span></span> <span data-ttu-id="5aa4b-137">Se [Definere generell aktivainformasjon](fa-how-setup-general.md) for mer informasjon.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-137">For more information, see [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
 
-4. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Aktivafinanskladder** og velger deretter den relaterte koblingen.  
-5. Velg kladden med aktivaene du vil revaluere, og velg deretter **Poster**.  
-6. Kontroller postene som er opprettet, og velg deretter **Bokfør** for å bokføre kladden.
+4. <span data-ttu-id="5aa4b-138">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Aktivafinanskladder** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-138">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>  
+5. <span data-ttu-id="5aa4b-139">Velg kladden med aktivaene du vil revaluere, og velg deretter **Poster**.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-139">Select the journal with the fixed assets that you want to revalue, and then choose the **Ledger Entries** action.</span></span>  
+6. <span data-ttu-id="5aa4b-140">Kontroller postene som er opprettet, og velg deretter **Bokfør** for å bokføre kladden.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-140">Check the created entries, and then choose the **Post** action to post the journal.</span></span>
 
-**Tips**: Hvis indeksreguleringstallene bare er til simuleringsformål, kan du lagre dem i et spesielt avskrivningstablå som du oppretter. Disse postene har ingen innvirkning på de andre avskrivningstablåene.
+<span data-ttu-id="5aa4b-141">**Tips**: Hvis indeksreguleringstallene bare er til simuleringsformål, kan du lagre dem i et spesielt avskrivningstablå som du oppretter.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-141">**Tip**: If the index figures are for simulation purposes only, you can create a special depreciation book to store them in.</span></span> <span data-ttu-id="5aa4b-142">Disse postene har ingen innvirkning på de andre avskrivningstablåene.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-142">Then these entries will not affect any of the other depreciation books.</span></span>
 
-## <a name="to-post-additional-acquisition-costs"></a>Slik bokfører du flere anskaffelseskostnader:
-Du kan bokføre tilleggsanskaffelseskostnader for aktiva på samme måte som når du bokfører den opprinnelige anskaffelseskosten: fra en kjøpsfaktura eller fra en aktivakladd. Hvis du vil ha mer informasjon, se [Anskaffe aktiva](fa-how-acquire.md).  
+## <a name="to-post-additional-acquisition-costs"></a><span data-ttu-id="5aa4b-143">Slik bokfører du flere anskaffelseskostnader:</span><span class="sxs-lookup"><span data-stu-id="5aa4b-143">To post additional acquisition costs</span></span>
+<span data-ttu-id="5aa4b-144">Du kan bokføre tilleggsanskaffelseskostnader for aktiva på samme måte som når du bokfører den opprinnelige anskaffelseskosten: fra en kjøpsfaktura eller fra en aktivakladd.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-144">You post additional acquisition cost for a fixed asset in the same way as you post the original acquisition cost: from a purchase invoice or from a fixed asset journal.</span></span> <span data-ttu-id="5aa4b-145">Hvis du vil ha mer informasjon, se [Anskaffe aktiva](fa-how-acquire.md).</span><span class="sxs-lookup"><span data-stu-id="5aa4b-145">For more information, see [How to: Acquire Fixed Assets](fa-how-acquire.md).</span></span>  
 
-Hvis det allerede er beregnet avskrivning for et aktiva, merker du av for **Avskr.anskaffelseskost** slik at skrapverdien som er avskrevet proporsjonalt med beløpet som det tidligere anskaffede aktivaet allerede er avskrevet med, trekkes fra tilleggsanskaffelseskosten. Dette sikrer at avskrivningsperioden ikke endres.  
+<span data-ttu-id="5aa4b-146">Hvis det allerede er beregnet avskrivning for et aktiva, merker du av for **Avskr.anskaffelseskost** slik at skrapverdien som er avskrevet proporsjonalt med beløpet som det tidligere anskaffede aktivaet allerede er avskrevet med, trekkes fra tilleggsanskaffelseskosten.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-146">If depreciation has already been calculated for the fixed asset, select the **Depr. Acquisition Cost** check box to have the additional acquisition cost less the salvage value depreciated in proportion to the amount by which the previously acquired fixed asset has already been depreciated.</span></span> <span data-ttu-id="5aa4b-147">Dette sikrer at avskrivningsperioden ikke endres.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-147">This ensures that the depreciation period is not changed.</span></span>  
 
-Prosentsatsen for avskrivningen beregnes som:  
+<span data-ttu-id="5aa4b-148">Prosentsatsen for avskrivningen beregnes som:</span><span class="sxs-lookup"><span data-stu-id="5aa4b-148">The depreciation percentage is calculated as:</span></span>  
 
-*P = (fullstendig avskrivning x 100) / avskrivningsgrunnlag*
+<span data-ttu-id="5aa4b-149">*P = (fullstendig avskrivning x 100) / avskrivningsgrunnlag*</span><span class="sxs-lookup"><span data-stu-id="5aa4b-149">*P = (total depreciation x 100) / depreciable basis*</span></span>
 
-*Avskrivningsbeløp = (P/100) x (tilleggsanskaffelseskost - skrapverdi)*  
+<span data-ttu-id="5aa4b-150">*Avskrivningsbeløp = (P/100) x (tilleggsanskaffelseskost - skrapverdi)*</span><span class="sxs-lookup"><span data-stu-id="5aa4b-150">*Depreciation amount = (P/100) x (extra acquisition cost - salvage value)*</span></span>  
 
-Husk å merke av for **Avskr. frem til aktivabokf.dato** på fakturaen, i aktivafinanskladden eller på aktivakladdelinjene, slik at avskrivning beregnes fra siste aktivabokføringsdato til bokføringsdatoen for tilleggsanskaffelseskosten.
+<span data-ttu-id="5aa4b-151">Husk å merke av for **Avskr. frem til aktivabokf.dato** på fakturaen, i aktivafinanskladden eller på aktivakladdelinjene, slik at avskrivning beregnes fra siste aktivabokføringsdato til bokføringsdatoen for tilleggsanskaffelseskosten.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-151">Remember to select the **Depr. until FA Posting Date** check box on the invoice, the fixed asset G/L journal, or the fixed asset journal lines to ensure that depreciation is calculated from the last fixed asset posting date to the posting date of the additional acquisition cost.</span></span>
 
-### <a name="example---posting-additional-acquisition-costs"></a>Eksempel – bokføre tilleggsanskaffelseskostnader
-Det kjøpes en maskin den 1. august 2000. Anskaffelseskosten er 4 800. Det skal foretas lineær avskrivning over fire år.
+### <a name="example---posting-additional-acquisition-costs"></a><span data-ttu-id="5aa4b-152">Eksempel – bokføre tilleggsanskaffelseskostnader</span><span class="sxs-lookup"><span data-stu-id="5aa4b-152">Example - Posting Additional Acquisition Costs</span></span>
+<span data-ttu-id="5aa4b-153">Det kjøpes en maskin den 1. august 2000.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-153">A machine is purchased on August 1, 2000.</span></span> <span data-ttu-id="5aa4b-154">Anskaffelseskosten er 4 800.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-154">The acquisition cost is 4,800.</span></span> <span data-ttu-id="5aa4b-155">Det skal foretas lineær avskrivning over fire år.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-155">The depreciation method is straight-line over four years.</span></span>
 
-Kjørselen **Beregn avskrivning** kjøres den 31. august 2000. Avskrivningen beregnes som:
+<span data-ttu-id="5aa4b-156">Kjørselen **Beregn avskrivning** kjøres den 31. august 2000.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-156">On August 31, 2000, the **Calculate Depreciation** batch job is run.</span></span> <span data-ttu-id="5aa4b-157">Avskrivningen beregnes som:</span><span class="sxs-lookup"><span data-stu-id="5aa4b-157">Depreciation is calculated as:</span></span>
 
-*bokført verdi x antall avskrivningsdager / totalt antall avskrivningsdager = 4800 x 30 / 1440 = 100*  
+<span data-ttu-id="5aa4b-158">*bokført verdi x antall avskrivningsdager / totalt antall avskrivningsdager = 4800 x 30 / 1440 = 100*</span><span class="sxs-lookup"><span data-stu-id="5aa4b-158">*book value x number of depreciation days / total number of depreciation days = 4800 x 30 / 1440 = 100*</span></span>  
 
-Den 15. september 2000 bokføres en faktura for malingsarbeid på maskinen. Fakturabeløpet er på 480.
+<span data-ttu-id="5aa4b-159">Den 15. september 2000 bokføres en faktura for malingsarbeid på maskinen.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-159">On September 15, 2000, an invoice is posted for painting the machine.</span></span> <span data-ttu-id="5aa4b-160">Fakturabeløpet er på 480.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-160">The invoice amount is 480.</span></span>
 
-Hvis du merket av for **Avskr. frem til aktivabokf.dato** i fakturaen før bokføring, foretas følgende beregning:  
+<span data-ttu-id="5aa4b-161">Hvis du merket av for **Avskr. frem til aktivabokf.dato** i fakturaen før bokføring, foretas følgende beregning:</span><span class="sxs-lookup"><span data-stu-id="5aa4b-161">If you selected the **Depr. until FA Posting Date** check box on the invoice before posting, the following calculation is made:</span></span>  
 
-15 avskrivningsdager (fra 01.09.00 til 15.09.00) beregnes som :
+<span data-ttu-id="5aa4b-162">15 avskrivningsdager (fra 01.09.00 til 15.09.00) beregnes som :</span><span class="sxs-lookup"><span data-stu-id="5aa4b-162">15 days of depreciation (from 09/01/00 to 09/15/00) is calculated as:</span></span>
 
-*bokført verdi x antall avskrivningsdager / resterende antall avskrivningsdager = (4800 - 100) x 15 / 1410 = 50*
+<span data-ttu-id="5aa4b-163">*bokført verdi x antall avskrivningsdager / resterende antall avskrivningsdager = (4800 - 100) x 15 / 1410 = 50*</span><span class="sxs-lookup"><span data-stu-id="5aa4b-163">*book value x number of depreciation days / remaining number of depreciation days = (4800 - 100) x 15 / 1410 = 50*</span></span>
 
-Hvis du merket av for **Avskr.anskaffelseskost** i fakturaen før bokføring, foretas følgende beregning:  
+<span data-ttu-id="5aa4b-164">Hvis du merket av for **Avskr.anskaffelseskost** i fakturaen før bokføring, foretas følgende beregning:</span><span class="sxs-lookup"><span data-stu-id="5aa4b-164">If you selected the **Depr. Acquisition Cost** check box on the invoice before posting, the following calculation is made:</span></span>  
 
-*Tilleggsanskaffelseskosten avskrives med ((150 x 100) / 4800) / 100 x 480 = 15*
+<span data-ttu-id="5aa4b-165">*Tilleggsanskaffelseskosten avskrives med ((150 x 100) / 4800) / 100 x 480 = 15*</span><span class="sxs-lookup"><span data-stu-id="5aa4b-165">*The additional acquisition cost is depreciated by ((150 x 100) / 4800) / 100 x 480 = 15*</span></span>
 
-Avskrivningsgrunnlaget er nå *5280 = (4800 + 480)*, og akkumulert avskrivning er *165 = (100 + 50 + 15)* og tilsvarer 45 dagers avskrivning av total anskaffelseskost. Dette betyr at aktivaet er ferdig avskrevet innen den anslåtte levetiden på fire år.  
+<span data-ttu-id="5aa4b-166">Avskrivningsgrunnlaget er nå *5280 = (4800 + 480)*, og akkumulert avskrivning er *165 = (100 + 50 + 15)* og tilsvarer 45 dagers avskrivning av total anskaffelseskost.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-166">The depreciable basis is now *5280 = (4800 + 480)*, and the accumulated depreciation is *165 = (100 + 50 + 15)*, corresponding to 45 days of depreciation of the total acquisition cost.</span></span> <span data-ttu-id="5aa4b-167">Dette betyr at aktivaet er ferdig avskrevet innen den anslåtte levetiden på fire år.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-167">This means that the asset will be totally depreciated within the estimated lifetime of four years.</span></span>  
 
-Når kjørselen **Beregn avskrivning** kjøres den 30.09.00, gjøres følgende beregning:  
+<span data-ttu-id="5aa4b-168">Når kjørselen **Beregn avskrivning** kjøres den 30.09.00, gjøres følgende beregning:</span><span class="sxs-lookup"><span data-stu-id="5aa4b-168">When the **Calculate Depreciation** batch job is run on 09/30/00, the following calculation is made:</span></span>  
 
-*Resterende avskrivningslevetid er 3 år, 10 måneder og 15 dager = 1395 dager*  
+<span data-ttu-id="5aa4b-169">*Resterende avskrivningslevetid er 3 år, 10 måneder og 15 dager = 1395 dager*</span><span class="sxs-lookup"><span data-stu-id="5aa4b-169">*Remaining depreciable life is 3 years, 10 months and 15 days = 1395 days*</span></span>  
 
-*Bokført verdi er (5280 - 165) = 5115*  
+<span data-ttu-id="5aa4b-170">*Bokført verdi er (5280 - 165) = 5115*</span><span class="sxs-lookup"><span data-stu-id="5aa4b-170">*Book value is (5280 - 165) = 5115*</span></span>  
 
-*Avskrivningsbeløp for september 2000: 5115 x 15 / 1395 = 55,00*  
+<span data-ttu-id="5aa4b-171">*Avskrivningsbeløp for september 2000: 5115 x 15 / 1395 = 55,00*</span><span class="sxs-lookup"><span data-stu-id="5aa4b-171">*Depreciation amount for September 2000: 5115 x 15 / 1395 = 55.00*</span></span>  
 
-*Samlet avskrivning = 165 + 55 = 220*  
+<span data-ttu-id="5aa4b-172">*Samlet avskrivning = 165 + 55 = 220*</span><span class="sxs-lookup"><span data-stu-id="5aa4b-172">*Total of depreciation = 165 + 55 = 220*</span></span>  
 
-Hvis du ikke merket av for **Avskr. frem til aktivabokf.dato**, går aktivaet glipp av 15 dagers avskrivning, ettersom kjørselen **Beregn avskrivning** som ble kjørt den 30.09.00, beregner avskrivning fra 15.09.00 til 30.09.00. Dette betyr at når kjørselen **Beregn avskrivning** kjøres den 30.09.00, ser beregningen slik ut:  
+<span data-ttu-id="5aa4b-173">Hvis du ikke merket av for **Avskr. frem til aktivabokf.dato**, går aktivaet glipp av 15 dagers avskrivning, ettersom kjørselen **Beregn avskrivning** som ble kjørt den 30.09.00, beregner avskrivning fra 15.09.00 til 30.09.00.</span><span class="sxs-lookup"><span data-stu-id="5aa4b-173">If you did not select the **Depr. until FA Posting Date** check box, the asset would loose 15 days of depreciation because the **Calculate Depreciation** batch job run on 09/30/00 would calculate depreciation from 09/15/00 to 09/30/00.</span></span> <span data-ttu-id="5aa4b-174">Dette betyr at når kjørselen **Beregn avskrivning** kjøres den 30.09.00, ser beregningen slik ut:</span><span class="sxs-lookup"><span data-stu-id="5aa4b-174">This means that when the **Calculate Depreciation** batch job is run on 09/30/00, the calculation is as follows:</span></span>  
 
-*Restlevetid er 3 år, 10 måneder og 15 dager = 1395 dager*  
+<span data-ttu-id="5aa4b-175">*Restlevetid er 3 år, 10 måneder og 15 dager = 1395 dager*</span><span class="sxs-lookup"><span data-stu-id="5aa4b-175">*Remaining life time is 3 years, 10 months and 15 days = 1395 days*</span></span>  
 
-*Bokført verdi er (4800 + 480 - 100 - 15) = 5165*
+<span data-ttu-id="5aa4b-176">*Bokført verdi er (4800 + 480 - 100 - 15) = 5165*</span><span class="sxs-lookup"><span data-stu-id="5aa4b-176">*Book value is (4800 + 480 - 100 - 15) = 5165*</span></span>
 
-*Avskrivningsbeløp for september 2000: 5165 x 15 / 1395 = 55,54*  
+<span data-ttu-id="5aa4b-177">*Avskrivningsbeløp for september 2000: 5165 x 15 / 1395 = 55,54*</span><span class="sxs-lookup"><span data-stu-id="5aa4b-177">*Depreciation amount for September 2000: 5165 x 15 / 1395 = 55.54*</span></span>  
 
-*Samlet avskrivning = 100 + 15 + 55,54 = 170,54*
+<span data-ttu-id="5aa4b-178">*Samlet avskrivning = 100 + 15 + 55,54 = 170,54*</span><span class="sxs-lookup"><span data-stu-id="5aa4b-178">*Total of depreciation = 100 + 15 + 55.54 = 170.54*</span></span>
 
-## <a name="see-also"></a>Se også
-[Administrere aktiva](fa-manage.md)  
-[Definere aktiva](fa-setup.md)  
-[Finans](finance-setup.md)  
-[Velkommen til Dynamics NAV](across-get-started.md)
+## <a name="see-also"></a><span data-ttu-id="5aa4b-179">Se også</span><span class="sxs-lookup"><span data-stu-id="5aa4b-179">See Also</span></span>
+[<span data-ttu-id="5aa4b-180">Administrere aktiva</span><span class="sxs-lookup"><span data-stu-id="5aa4b-180">Manage Fixed Assets</span></span>](fa-manage.md)  
+[<span data-ttu-id="5aa4b-181">Definere aktiva</span><span class="sxs-lookup"><span data-stu-id="5aa4b-181">Set Up Fixed Assets</span></span>](fa-setup.md)  
+[<span data-ttu-id="5aa4b-182">Finans</span><span class="sxs-lookup"><span data-stu-id="5aa4b-182">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="5aa4b-183">Velkommen til Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="5aa4b-183">Welcome to Dynamics NAV</span></span>](across-get-started.md)
 

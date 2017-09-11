@@ -1,1 +1,1 @@
-NAV-utvidelse
+<span data-ttu-id="4d125-101">NAV-utvidelse</span><span class="sxs-lookup"><span data-stu-id="4d125-101">NAV extension</span></span>

@@ -9,58 +9,58 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 92b65379f2ec633712a2b2c0f06615c6de61cc6e
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 84feace413c7fbda0a1ba9688d7168510c3612a5
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-process-sales-returns-or-cancellations"></a>Behandle ordrereturer eller annulleringer
-Hvis kunden vil returnere eller mottar refusjon for varer eller tjenester du har solgt og mottatt betaling for, må du opprette og bokføre en salgskreditnota som angir den ønskede endringen. Du kan opprette salgskreditnotaen fra den bokførte salgsfakturaen for å ta med de riktige opplysningene for salgsfakturaen, eller bruke en kopifunksjon.
+# <a name="how-to-process-sales-returns-or-cancellations"></a><span data-ttu-id="0ccfa-102">Behandle ordrereturer eller annulleringer</span><span class="sxs-lookup"><span data-stu-id="0ccfa-102">How to: Process Sales Returns or Cancellations</span></span>
+<span data-ttu-id="0ccfa-103">Hvis kunden vil returnere eller mottar refusjon for varer eller tjenester du har solgt og mottatt betaling for, må du opprette og bokføre en salgskreditnota som angir den ønskede endringen.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-103">If your customer wants to return or get reimbursement for items or services that you have sold and received payment for, you must create and post a sales credit memo that specifies the requested change.</span></span> <span data-ttu-id="0ccfa-104">Du kan opprette salgskreditnotaen fra den bokførte salgsfakturaen for å ta med de riktige opplysningene for salgsfakturaen, eller bruke en kopifunksjon.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-104">To include the correct sales invoice information, you can create the sales credit memo from the posted sales invoice or use a copy function.</span></span>
 
-I tillegg til den opprinnelige bokførte salgsfakturaen, kan du bruke salgskreditnotaen for andre salgsdokumenter, for eksempel en annen bokført salgsfaktura, fordi kunden også returnerer varer som leveres med denne fakturaen.
+<span data-ttu-id="0ccfa-105">I tillegg til den opprinnelige bokførte salgsfakturaen, kan du bruke salgskreditnotaen for andre salgsdokumenter, for eksempel en annen bokført salgsfaktura, fordi kunden også returnerer varer som leveres med denne fakturaen.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-105">In addition to the original posted sales invoice, you can apply the sales credit memo to other sales documents, for example another posted sales invoice, because the customer is also returning items delivered with that invoice.</span></span>
 
-En returnert vare eller refusjon kan være knyttet til bare noen av varene eller tjenestene på den opprinnelige salgsfakturaen. I så fall må du redigere opplysningene på linjene på salgskreditnotaen. Når du bokfører salgskreditnotaen, tilbakeføres salgsdokumentene som påvirkes av endringen og en refusjonsbetaling kan opprettes for kunden.
+<span data-ttu-id="0ccfa-106">En returnert vare eller refusjon kan være knyttet til bare noen av varene eller tjenestene på den opprinnelige salgsfakturaen.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-106">A return or reimbursement may relate to only some of the items or services on the original sales invoice.</span></span> <span data-ttu-id="0ccfa-107">I så fall må du redigere opplysningene på linjene på salgskreditnotaen.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-107">In that case, you must edit information on the lines on the sales credit memo.</span></span> <span data-ttu-id="0ccfa-108">Når du bokfører salgskreditnotaen, tilbakeføres salgsdokumentene som påvirkes av endringen og en refusjonsbetaling kan opprettes for kunden.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-108">When you post the sales credit memo, the sales documents that are affected by the change are reversed and a refund payment can be created for the customer.</span></span>
 
-Du kan sende den bokførte salgskreditnotaen til kunden for å bekrefte returen eller annulleringen, og formidle at den tilknyttede verdien blir refundert, for eksempel når varene returneres.
+<span data-ttu-id="0ccfa-109">Du kan sende den bokførte salgskreditnotaen til kunden for å bekrefte returen eller annulleringen, og formidle at den tilknyttede verdien blir refundert, for eksempel når varene returneres.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-109">You can send the posted sales credit memo to the customer to confirm the return or cancellation and communicate that the related value will be reimbursed, for example when the items are returned.</span></span>
 
-## <a name="to-create-a-sales-credit-memo-from-a-posted-sales-invoice"></a>Opprette en ny salgskreditnota fra en bokført salgsfaktura
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Bokførte salgsfakturaer** og velger deretter den relaterte koblingen.  
-2. I vinduet Bokførte **salgsfakturaer** velger du den bokførte salgsfakturaen som du vil tilbakeføre, og deretter velger du **Opprett korrigerende kreditnota**.
+## <a name="to-create-a-sales-credit-memo-from-a-posted-sales-invoice"></a><span data-ttu-id="0ccfa-110">Opprette en ny salgskreditnota fra en bokført salgsfaktura</span><span class="sxs-lookup"><span data-stu-id="0ccfa-110">To create a sales credit memo from a posted sales invoice</span></span>
+1. <span data-ttu-id="0ccfa-111">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Bokførte salgsfakturaer** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-111">In the top right corner, choose the **Search for Page or Report** icon, enter **Posted Sales Invoices**, and the choose the related link.</span></span>  
+2. <span data-ttu-id="0ccfa-112">I vinduet Bokførte **salgsfakturaer** velger du den bokførte salgsfakturaen som du vil tilbakeføre, og deretter velger du **Opprett korrigerende kreditnota**.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-112">In the **Posted Sales Invoices** window, select the posted sales invoice that you want to reverse, and then choose the **Create Corrective Credit Memo** action.</span></span>
 
-    De fleste feltene på salgskreditnotahodet fylles ut med informasjon fra den bokførte salgsfakturaen. Du kan redigere alle feltene, for eksempel med ny informasjon som gjenspeiler returavtalen.
-3. Redigere informasjonen på linjene i henhold til avtalen, for eksempel antall varer som returneres, eller beløpet som skal refunderes.
-4. Velg handlingen **Utlign poster**.
-5. I vinduet **Utlign kundeposter** velger du linjen med det bokførte salgsdokumentet du vil utligne salgskreditnotaen mot, og deretter velger du handlingen **Utlignings-ID**.
+    <span data-ttu-id="0ccfa-113">De fleste feltene på salgskreditnotahodet fylles ut med informasjon fra den bokførte salgsfakturaen.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-113">Most fields on the sales credit memo header are filled with the information from the posted sales invoice.</span></span> <span data-ttu-id="0ccfa-114">Du kan redigere alle feltene, for eksempel med ny informasjon som gjenspeiler returavtalen.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-114">You can edit all the fields, for example with new information that reflects the return agreement.</span></span>
+3. <span data-ttu-id="0ccfa-115">Redigere informasjonen på linjene i henhold til avtalen, for eksempel antall varer som returneres, eller beløpet som skal refunderes.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-115">Edit information on the lines according to the agreement, such as the number of items returned or the amount to be reimbursed.</span></span>
+4. <span data-ttu-id="0ccfa-116">Velg handlingen **Utlign poster**.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-116">Choose the **Apply Entries** action.</span></span>
+5. <span data-ttu-id="0ccfa-117">I vinduet **Utlign kundeposter** velger du linjen med det bokførte salgsdokumentet du vil utligne salgskreditnotaen mot, og deretter velger du handlingen **Utlignings-ID**.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-117">In the **Apply Customer Entries** window, select the line with the posted sales document that you want to apply the sales credit memo to, and then choose the **Applies-to ID** action.</span></span>
 
-    Nummeret på salgskreditnotaen settes inn i feltet **Utlignings-ID**.  
-6. I feltet **Beløp som skal utlignes** skriver du inn beløpet som du vil utligne hvis mindre enn det opprinnelige beløpet.
+    <span data-ttu-id="0ccfa-118">Nummeret på salgskreditnotaen settes inn i feltet **Utlignings-ID**.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-118">The number of the sales credit memo is inserted in the **Applies-to ID** field.</span></span>  
+6. <span data-ttu-id="0ccfa-119">I feltet **Beløp som skal utlignes** skriver du inn beløpet som du vil utligne hvis mindre enn det opprinnelige beløpet.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-119">In the **Amount to Apply** field, enter the amount that you want to apply if smaller than the original amount.</span></span>
 
-    Nederst i vinduet **Utlign kundeposter** kan du se det totale beløpet som skal utlignes for å tilbakeføre alle involverte poster, nemlig når verdien i **Saldo** -feltet er null.  
-7. Velg **OK**-knappen. Når du bokfører salgskreditnotaen, brukes den på de angitte bokførte salgsdokumentene.
+    <span data-ttu-id="0ccfa-120">Nederst i vinduet **Utlign kundeposter** kan du se det totale beløpet som skal utlignes for å tilbakeføre alle involverte poster, nemlig når verdien i **Saldo** -feltet er null.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-120">At the bottom of the **Apply Customer Entries** window, you can see the total amount to apply to reverse all involved entries, namely when the value in the **Balance** field is zero.</span></span>  
+7. <span data-ttu-id="0ccfa-121">Velg **OK**-knappen.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-121">Choose the **OK** button.</span></span> <span data-ttu-id="0ccfa-122">Når du bokfører salgskreditnotaen, brukes den på de angitte bokførte salgsdokumentene.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-122">When you post the sales credit memo, it will be applied to the specified posted sales documents.</span></span>
 
-    Når du har opprettet eller redigert nødvendige salgskreditnotalinjer og ett eller flere programmer er angitt, kan du fortsette med å bokføre salgskreditnotaen.
-8. Velg handlingen **Bokfør og send**.
+    <span data-ttu-id="0ccfa-123">Når du har opprettet eller redigert nødvendige salgskreditnotalinjer og ett eller flere programmer er angitt, kan du fortsette med å bokføre salgskreditnotaen.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-123">When you have created or edited the needed sales credit memo lines and the single or multiple applications are specified, you can proceed to post the sales credit memo.</span></span>
+8. <span data-ttu-id="0ccfa-124">Velg handlingen **Bokfør og send**.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-124">Choose the **Post and Send** action.</span></span>
 
-Dialogboksen **Bokfør og send bekreftelse** åpnes, og viser den foretrukne sendemetoden for kunden. Du kan endre sendemetoden ved å velge oppslagsknappen for feltet **Send dokument til**. Hvis du vil ha mer informasjon, kan du se [Definere en profil for dokumentsending](sales-how-setup-document-send-profiles.md).
+<span data-ttu-id="0ccfa-125">Dialogboksen **Bokfør og send bekreftelse** åpnes, og viser den foretrukne sendemetoden for kunden.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-125">The **Post and Send Confirmation** dialog box opens showing the preferred sending method for the customer.</span></span> <span data-ttu-id="0ccfa-126">Du kan endre sendemetoden ved å velge oppslagsknappen for feltet **Send dokument til**.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-126">You can change the sending method by choosing the lookup button for the **Send Document** to field.</span></span> <span data-ttu-id="0ccfa-127">Hvis du vil ha mer informasjon, kan du se [Definere en profil for dokumentsending](sales-how-setup-document-send-profiles.md).</span><span class="sxs-lookup"><span data-stu-id="0ccfa-127">For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).</span></span>
 
-De bokførte salgsdokumentene som du utlignet kreditnotaen mot, tilbakeføres, og en refusjonsbetaling kan opprettes for kunden. Salgskreditnotaen fjernes og erstattes med et nytt dokument i listen over bokførte salgskreditnotaer.
+<span data-ttu-id="0ccfa-128">De bokførte salgsdokumentene som du utlignet kreditnotaen mot, tilbakeføres, og en refusjonsbetaling kan opprettes for kunden.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-128">The posted sales documents that you applied the credit memo to are now reversed, and a refund payment can be created for the customer.</span></span> <span data-ttu-id="0ccfa-129">Salgskreditnotaen fjernes og erstattes med et nytt dokument i listen over bokførte salgskreditnotaer.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-129">The sales credit memo is removed and replaced with a new document in the list of posted sales credit memos.</span></span>
 
-## <a name="to-create-a-sales-credit-memo-from-scratch"></a>Opprette en salgskreditnota fra bunnen av
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Bokførte salgsfakturaer** og velger deretter den relaterte koblingen.
-2. Velg handlingen **Ny** for å åpne en ny, tom salgskreditnota.
-3. I feltet **Kunde** angir du navnet på en eksisterende kunde.
-4. Velg handlingen **Kopier dokument**.
-5. Velg **Bokført faktura** i **Bilagstype**-feltet i vinduet **Kopier salgsdokument**.
-6. Velg **Dokumentnr.** -feltet for å åpne vinduet **Bokførte salgsfakturaer**, og velg deretter den bokførte salgsfakturaen som inneholder linjer du vil tilbakeføre.
-7. Merk av for  **Gjenberegn linjer**  hvis du vil at de kopierte bokførte salgsfakturalinjene skal oppdateres med endringer i varepris og enhetskost etter at fakturaen er bokført.
-8. Velg **OK**-knappen. De kopierte fakturalinjene settes inn i salgskreditnotaen.
-9. Fullføre salgskreditnotaen som forklart i den avsnittet "Opprette en salgskreditnota fra en bokført salgsfaktura" i dette emnet.
+## <a name="to-create-a-sales-credit-memo-from-scratch"></a><span data-ttu-id="0ccfa-130">Opprette en salgskreditnota fra bunnen av</span><span class="sxs-lookup"><span data-stu-id="0ccfa-130">To create a sales credit memo from scratch</span></span>
+1. <span data-ttu-id="0ccfa-131">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Bokførte salgsfakturaer** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-131">In the top right corner, choose the **Search for Page or Report** icon, enter **Posted Sales Invoices**, and then choose the related link.</span></span>
+2. <span data-ttu-id="0ccfa-132">Velg handlingen **Ny** for å åpne en ny, tom salgskreditnota.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-132">Choose the **New** action to open a new empty sales credit memo.</span></span>
+3. <span data-ttu-id="0ccfa-133">I feltet **Kunde** angir du navnet på en eksisterende kunde.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-133">In the **Customer** field, enter the name of an existing customer.</span></span>
+4. <span data-ttu-id="0ccfa-134">Velg handlingen **Kopier dokument**.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-134">Choose the **Copy Document** action.</span></span>
+5. <span data-ttu-id="0ccfa-135">Velg **Bokført faktura** i **Bilagstype**-feltet i vinduet **Kopier salgsdokument**.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-135">In the **Copy Sales Document** window, in the **Document Type** field, select **Posted Invoice**.</span></span>
+6. <span data-ttu-id="0ccfa-136">Velg **Dokumentnr.**</span><span class="sxs-lookup"><span data-stu-id="0ccfa-136">Choose the **Document No.**</span></span> <span data-ttu-id="0ccfa-137">-feltet for å åpne vinduet **Bokførte salgsfakturaer**, og velg deretter den bokførte salgsfakturaen som inneholder linjer du vil tilbakeføre.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-137">field to open the **Posted Sales Invoices** window, and then select the posted sales invoice that contains lines that you want to reverse.</span></span>
+7. <span data-ttu-id="0ccfa-138">Merk av for  **Gjenberegn linjer**  hvis du vil at de kopierte bokførte salgsfakturalinjene skal oppdateres med endringer i varepris og enhetskost etter at fakturaen er bokført.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-138">Select the **Recalculate Lines** check box if you want the copied posted sales invoice lines to be updated with any changes in item price and unit cost since the invoice was posted.</span></span>
+8. <span data-ttu-id="0ccfa-139">Velg **OK**-knappen.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-139">Choose the **OK** button.</span></span> <span data-ttu-id="0ccfa-140">De kopierte fakturalinjene settes inn i salgskreditnotaen.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-140">The copied invoice lines are inserted in the sales credit memo.</span></span>
+9. <span data-ttu-id="0ccfa-141">Fullføre salgskreditnotaen som forklart i den avsnittet "Opprette en salgskreditnota fra en bokført salgsfaktura" i dette emnet.</span><span class="sxs-lookup"><span data-stu-id="0ccfa-141">Complete the sales credit memo as explained in the "To create a sales credit memo from a posted sales invoice" section in this topic.</span></span>
 
-## <a name="see-also"></a>Se også  
-[Håndtere salg](sales-manage-sales.md)  
-[Definere salg](sales-setup-sales.md)  
-[Sende dokumenter i e-post](ui-how-send-documents-email.md)  
-[Arbeide med Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="0ccfa-142">Se også</span><span class="sxs-lookup"><span data-stu-id="0ccfa-142">See Also</span></span>  
+[<span data-ttu-id="0ccfa-143">Håndtere salg</span><span class="sxs-lookup"><span data-stu-id="0ccfa-143">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="0ccfa-144">Definere salg</span><span class="sxs-lookup"><span data-stu-id="0ccfa-144">Set Up Sales</span></span>](sales-setup-sales.md)  
+[<span data-ttu-id="0ccfa-145">Sende dokumenter i e-post</span><span class="sxs-lookup"><span data-stu-id="0ccfa-145">How to: Send Documents by Email</span></span>](ui-how-send-documents-email.md)  
+[<span data-ttu-id="0ccfa-146">Arbeide med Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="0ccfa-146">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

@@ -9,44 +9,44 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ef0204fca3d139c64a0277b4e1d6d15fd0873248
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: e5adc922d37685321369a947a7e94d5ee69e21af
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="changing-basic-settings"></a>Endre grunnleggende innstillinger
-I vinduet **Mine innstillinger** kan du vise og endre grunnleggende innstillinger for Dynamics NAV-webklienten.  
+# <a name="changing-basic-settings"></a><span data-ttu-id="9a61d-102">Endre grunnleggende innstillinger</span><span class="sxs-lookup"><span data-stu-id="9a61d-102">Changing Basic Settings</span></span>
+<span data-ttu-id="9a61d-103">I vinduet **Mine innstillinger** kan du vise og endre grunnleggende innstillinger for Dynamics NAV-webklienten.</span><span class="sxs-lookup"><span data-stu-id="9a61d-103">In the **My Settings** window, you can see and change basic settings for the Dynamics NAV Web client.</span></span>  
 
-## <a name="role-center"></a>Rollesenter
-Rollesenteret representerer Hjem-siden, en startside som er tilpasset behovene til rollen. På Hjem-siden vises en oversikt over virksomheten. Til venstre ser du et navigasjonsfelt som gir deg enkel tilgang til kunder, leverandører, varer og så videre.
+## <a name="role-center"></a><span data-ttu-id="9a61d-104">Rollesenter</span><span class="sxs-lookup"><span data-stu-id="9a61d-104">Role Center</span></span>
+<span data-ttu-id="9a61d-105">Rollesenteret representerer Hjem-siden, en startside som er tilpasset behovene til rollen.</span><span class="sxs-lookup"><span data-stu-id="9a61d-105">The Role Center represents the Home page, a starting page that is designed for the needs of the role.</span></span> <span data-ttu-id="9a61d-106">På Hjem-siden vises en oversikt over virksomheten.</span><span class="sxs-lookup"><span data-stu-id="9a61d-106">On the Home page, you have an overview of the business.</span></span> <span data-ttu-id="9a61d-107">Til venstre ser du et navigasjonsfelt som gir deg enkel tilgang til kunder, leverandører, varer og så videre.</span><span class="sxs-lookup"><span data-stu-id="9a61d-107">To the left you see a navigation bar that gives you easy access to customers, vendors, items, and so on.</span></span>
 
-I midten finner du Aktiviteter-flisene. Aktiviteter viser gjeldende data og kan klikkes eller trykkes for enkel tilgang til det valgte dokumentet. Sentrale ytelsesindikatorer kan settes opp til å vise et valgt diagram for en visuell fremstilling av, for eksempel kontantstrøm eller inntekter og utgifter.
+<span data-ttu-id="9a61d-108">I midten finner du Aktiviteter-flisene.</span><span class="sxs-lookup"><span data-stu-id="9a61d-108">In the center you find the Activities tiles.</span></span> <span data-ttu-id="9a61d-109">Aktiviteter viser gjeldende data og kan klikkes eller trykkes for enkel tilgang til det valgte dokumentet.</span><span class="sxs-lookup"><span data-stu-id="9a61d-109">Activities show current data and can be clicked or tapped for easy access to the selected document.</span></span> <span data-ttu-id="9a61d-110">Sentrale ytelsesindikatorer kan settes opp til å vise et valgt diagram for en visuell fremstilling av, for eksempel kontantstrøm eller inntekter og utgifter.</span><span class="sxs-lookup"><span data-stu-id="9a61d-110">The Key Performance Indicators can be set up to display a selected chart for a visual representation of, for example, cash flow or income and expenses.</span></span>
 
-Du kan også bygge opp en liste over favorittkunder på Hjem-siden for forretningsforbindelser som du gjør forretninger med ofte eller må vie spesiell oppmerksomhet. Bruk pilene for å skjule en del av siden og få mer plass til å vise bestemte data. Øverst på Hjem-siden finner du alle handlingene som kan brukes på gjeldende innhold. Dette kan også være skjult, og du trenger bare å klikke eller trykke i det skjulte området for å vise det på nytt.
+<span data-ttu-id="9a61d-111">Du kan også bygge opp en liste over favorittkunder på Hjem-siden for forretningsforbindelser som du gjør forretninger med ofte eller må vie spesiell oppmerksomhet.</span><span class="sxs-lookup"><span data-stu-id="9a61d-111">You can also build up a list of Favorite Customers on the Home page for accounts that you do business with often or need to pay special attention to.</span></span> <span data-ttu-id="9a61d-112">Bruk pilene for å skjule en del av siden og få mer plass til å vise bestemte data.</span><span class="sxs-lookup"><span data-stu-id="9a61d-112">Use the arrows to collapse part of the page and make more room to show specific data.</span></span> <span data-ttu-id="9a61d-113">Øverst på Hjem-siden finner du alle handlingene som kan brukes på gjeldende innhold.</span><span class="sxs-lookup"><span data-stu-id="9a61d-113">At the top of the Home page you will find all of the actions that can be applied to the current content.</span></span> <span data-ttu-id="9a61d-114">Dette kan også være skjult, og du trenger bare å klikke eller trykke i det skjulte området for å vise det på nytt.</span><span class="sxs-lookup"><span data-stu-id="9a61d-114">This too can be collapsed and you only need to click or tap within the collapsed area to view it again.</span></span>
 
-Standard rollesenter er **Ordrebehandler**, men du kan velge et annet rollesenteret som passer bedre til dine behov. Hvis du vil ha mer informasjon, kan du se [Endre rollesenter](ui-change-role.md).
+<span data-ttu-id="9a61d-115">Standard rollesenter er **Ordrebehandler**, men du kan velge et annet rollesenteret som passer bedre til dine behov.</span><span class="sxs-lookup"><span data-stu-id="9a61d-115">The default Role Center is **Sales Order Processor**, but you can select another Role Center that fits your needs better.</span></span> <span data-ttu-id="9a61d-116">Hvis du vil ha mer informasjon, kan du se [Endre rollesenter](ui-change-role.md).</span><span class="sxs-lookup"><span data-stu-id="9a61d-116">For more information, see [How to: Change the Role Center](ui-change-role.md).</span></span>
 
-## <a name="company"></a>Selskap
-Et selskap fungerer som en beholder for data i Dynamics NAV. Det kan være flere firmaer i en database, men du kan velge bare ett om gangen.
+## <a name="company"></a><span data-ttu-id="9a61d-117">Selskap</span><span class="sxs-lookup"><span data-stu-id="9a61d-117">Company</span></span>
+<span data-ttu-id="9a61d-118">Et selskap fungerer som en beholder for data i Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="9a61d-118">A company functions as a container for data in Dynamics NAV.</span></span> <span data-ttu-id="9a61d-119">Det kan være flere firmaer i en database, men du kan velge bare ett om gangen.</span><span class="sxs-lookup"><span data-stu-id="9a61d-119">There can be multiple companies in a database, but only one can be selected at a time.</span></span>
 
-Firmaet CRONUS US er standardfirma. Det inneholder bare demonstrasjonsdata.   
+<span data-ttu-id="9a61d-120">Firmaet CRONUS US er standardfirma.</span><span class="sxs-lookup"><span data-stu-id="9a61d-120">The CRONUS US company is the default company.</span></span> <span data-ttu-id="9a61d-121">Det inneholder bare demonstrasjonsdata.</span><span class="sxs-lookup"><span data-stu-id="9a61d-121">It contains demonstration data only.</span></span>   
 
-## <a name="work-date"></a>Arbeidsdato
-Standard arbeidsdato er vanligvis dagens dato. Du må kanskje endre arbeidsdatoen midlertidig for å utføre oppgaver, for eksempel å fylle ut transaksjoner for en dato som ikke er gjeldende dato.
+## <a name="work-date"></a><span data-ttu-id="9a61d-122">Arbeidsdato</span><span class="sxs-lookup"><span data-stu-id="9a61d-122">Work date</span></span>
+<span data-ttu-id="9a61d-123">Standard arbeidsdato er vanligvis dagens dato.</span><span class="sxs-lookup"><span data-stu-id="9a61d-123">The default work date is usually today's date.</span></span> <span data-ttu-id="9a61d-124">Du må kanskje endre arbeidsdatoen midlertidig for å utføre oppgaver, for eksempel å fylle ut transaksjoner for en dato som ikke er gjeldende dato.</span><span class="sxs-lookup"><span data-stu-id="9a61d-124">You may have to temporarily change the work date to be able to perform tasks, such as completing transactions for a date that is not the current date.</span></span>
 
-**Tips**: Skriv inn **w** hvis du hurtig vil angi arbeidsdatoen i et datofelt. Skriv inn **t** hvis du hurtig vil angi gjeldende dato i datofeltet.
+<span data-ttu-id="9a61d-125">**Tips**: Skriv inn **w** hvis du hurtig vil angi arbeidsdatoen i et datofelt.</span><span class="sxs-lookup"><span data-stu-id="9a61d-125">**Tip**: Type **w** to quickly enter the work date in a date field.</span></span> <span data-ttu-id="9a61d-126">Skriv inn **t** hvis du hurtig vil angi gjeldende dato i datofeltet.</span><span class="sxs-lookup"><span data-stu-id="9a61d-126">Write **t** to quickly enter the current date in the date field.</span></span>
 
-**Viktig**: Arbeidsdatoen endres bare til du lukker selskapet eller til datoen endres. Hvis du åpner et annet selskap eller åpner det samme selskapet dagen etter og fortsatt må bruke en annen arbeidsdato, må du angi arbeidsdatoen på nytt.
+<span data-ttu-id="9a61d-127">**Viktig**: Arbeidsdatoen endres bare til du lukker selskapet eller til datoen endres.</span><span class="sxs-lookup"><span data-stu-id="9a61d-127">**Important**: The work date is only changed until you close the company or until the date changes.</span></span> <span data-ttu-id="9a61d-128">Hvis du åpner et annet selskap eller åpner det samme selskapet dagen etter og fortsatt må bruke en annen arbeidsdato, må du angi arbeidsdatoen på nytt.</span><span class="sxs-lookup"><span data-stu-id="9a61d-128">If you open a different company or open the same company the next day and still have to use a different work date, then you must set the work date again.</span></span>
 
-## <a name="region-and-language"></a>Område og språk
-Her kan du endre område, språk og tidssone. De regionale innstillingene bestemmer formatet for data, for eksempel datoer, klokkeslett, tall, valuta og så videre. Tidssonen angir tidssonen som brukes på data for dato og klokkeslett som du kan vise eller skrive inn i Dynamics NAV. Du må logge av og deretter på for at endringen skal tre i kraft.
+## <a name="region-and-language"></a><span data-ttu-id="9a61d-129">Område og språk</span><span class="sxs-lookup"><span data-stu-id="9a61d-129">Region and language</span></span>
+<span data-ttu-id="9a61d-130">Her kan du endre område, språk og tidssone.</span><span class="sxs-lookup"><span data-stu-id="9a61d-130">Here you can change the region, language, and time zone.</span></span> <span data-ttu-id="9a61d-131">De regionale innstillingene bestemmer formatet for data, for eksempel datoer, klokkeslett, tall, valuta og så videre.</span><span class="sxs-lookup"><span data-stu-id="9a61d-131">The regional settings determine the format of data such as dates, times, numbers, currency, and so on.</span></span> <span data-ttu-id="9a61d-132">Tidssonen angir tidssonen som brukes på data for dato og klokkeslett som du kan vise eller skrive inn i Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="9a61d-132">The time zone specifies the time zone that is applied to date and time data that you view or enter in Dynamics NAV.</span></span> <span data-ttu-id="9a61d-133">Du må logge av og deretter på for at endringen skal tre i kraft.</span><span class="sxs-lookup"><span data-stu-id="9a61d-133">You need to sign out and sign in again for the change to take effect.</span></span>
 
-## <a name="confirmation-dialogs"></a>Bekreftelsesdialoger
-Bruk alternativene i denne delen hvis du vil angi noen tilleggskontroller for postering av dokumenter. Disse alternativene er merket som standard, men du kan fjerne merket i avmerkingsboksene for å unngå visning av bestemte advarsler eller meldinger.
+## <a name="confirmation-dialogs"></a><span data-ttu-id="9a61d-134">Bekreftelsesdialoger</span><span class="sxs-lookup"><span data-stu-id="9a61d-134">Confirmation dialogs</span></span>
+<span data-ttu-id="9a61d-135">Bruk alternativene i denne delen hvis du vil angi noen tilleggskontroller for postering av dokumenter.</span><span class="sxs-lookup"><span data-stu-id="9a61d-135">Use the options in this section if you want to specify some additional checks for posting documents.</span></span> <span data-ttu-id="9a61d-136">Disse alternativene er merket som standard, men du kan fjerne merket i avmerkingsboksene for å unngå visning av bestemte advarsler eller meldinger.</span><span class="sxs-lookup"><span data-stu-id="9a61d-136">These options are checked as standard, but you can clear the check boxes to avoid getting specific warnings or messages.</span></span>
 
-## <a name="see-also"></a>Se også
-[Arbeide med Dynamics NAV](ui-work-product.md)  
-[Endre rollesenteret](ui-change-role.md)  
+## <a name="see-also"></a><span data-ttu-id="9a61d-137">Se også</span><span class="sxs-lookup"><span data-stu-id="9a61d-137">See Also</span></span>
+[<span data-ttu-id="9a61d-138">Arbeide med Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="9a61d-138">Work with Dynamics NAV</span></span>](ui-work-product.md)  
+[<span data-ttu-id="9a61d-139">Endre rollesenteret</span><span class="sxs-lookup"><span data-stu-id="9a61d-139">How to: Change the Role Center</span></span>](ui-change-role.md)  
 

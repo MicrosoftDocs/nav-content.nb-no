@@ -16,100 +16,100 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-insure-fixed-assets"></a>Forsikre aktiva
-En forsikringspolise for et aktiva representeres av et forsikringskort. Du kan tilordne ett aktiva til én forsikringspolise eller flere aktiva til én forsikringspolise.
+# <a name="how-to-insure-fixed-assets"></a><span data-ttu-id="f8624-102">Forsikre aktiva</span><span class="sxs-lookup"><span data-stu-id="f8624-102">How to: Insure Fixed Assets</span></span>
+<span data-ttu-id="f8624-103">En forsikringspolise for et aktiva representeres av et forsikringskort.</span><span class="sxs-lookup"><span data-stu-id="f8624-103">An insurance policy for a fixed asset is represented by an insurance card.</span></span> <span data-ttu-id="f8624-104">Du kan tilordne ett aktiva til én forsikringspolise eller flere aktiva til én forsikringspolise.</span><span class="sxs-lookup"><span data-stu-id="f8624-104">You can assign one fixed asset to one insurance policy or multiple fixed assets to one insurance policy.</span></span>
 
-Du kan tilordne et aktiva til en forsikringspolise ved å bokføre i forsikringsdekningsposten fra **Forsikringskladd**-vinduet.
+<span data-ttu-id="f8624-105">Du kan tilordne et aktiva til en forsikringspolise ved å bokføre i forsikringsdekningsposten fra **Forsikringskladd**-vinduet.</span><span class="sxs-lookup"><span data-stu-id="f8624-105">You assign a fixed asset to an insurance policy by posting to the insurance coverage ledger from the **Insurance Journal** window.</span></span>
 
-I tillegg kan du tilordne et aktiva til en forsikringspolise og opprette forsikringsdekningsposter når du bokfører anskaffelseskostnaden. Du gjør dette ved å bokføre en anskaffelseskost fra aktivakladden med **Forsikringsnr.**-feltet fylt ut. **Autom. forsikringsbokføring** må være avmerket i **Aktivaoppsett**-vinduet. Hvis du vil ha mer informasjon, se avsnittet "Slik bokfører du en aktivaanskaffelse manuelt med aktivafinanskladden" i [Anskaffe aktiva](fa-how-acquire.md).
+<span data-ttu-id="f8624-106">I tillegg kan du tilordne et aktiva til en forsikringspolise og opprette forsikringsdekningsposter når du bokfører anskaffelseskostnaden.</span><span class="sxs-lookup"><span data-stu-id="f8624-106">In addition, you can assign a fixed asset to an insurance policy and create coverage ledger entries when you post its acquisition cost.</span></span> <span data-ttu-id="f8624-107">Du gjør dette ved å bokføre en anskaffelseskost fra aktivakladden med **Forsikringsnr.**-feltet</span><span class="sxs-lookup"><span data-stu-id="f8624-107">You do this by posting an acquisition cost from the fixed asset journal with the **Insurance No.**</span></span> <span data-ttu-id="f8624-108">fylt ut.</span><span class="sxs-lookup"><span data-stu-id="f8624-108">field filled in.</span></span> <span data-ttu-id="f8624-109">**Autom. forsikringsbokføring** må være avmerket i **Aktivaoppsett**-vinduet.</span><span class="sxs-lookup"><span data-stu-id="f8624-109">The **Automatic Insurance Posting** check box in the **Fixed Asset Setup** window must be selected.</span></span> <span data-ttu-id="f8624-110">Hvis du vil ha mer informasjon, se avsnittet "Slik bokfører du en aktivaanskaffelse manuelt med aktivafinanskladden" i [Anskaffe aktiva](fa-how-acquire.md).</span><span class="sxs-lookup"><span data-stu-id="f8624-110">For more information, see the "To post a fixed asset acquisition manually with the fixed asset G/L journal" section in [How to: Acquire Fixed Assets](fa-how-acquire.md).</span></span>
 
-Hvis **Autom. forsikringsbokføring** i **Aktivaoppsett**-vinduet ikke er valgt, vil bokføring av anskaffelser fra aktivakladden opprette linjer i **Forsikringskladd**-vinduet, som du deretter må bokføre manuelt.
+<span data-ttu-id="f8624-111">Hvis **Autom. forsikringsbokføring** i **Aktivaoppsett**-vinduet ikke er valgt, vil bokføring av anskaffelser fra aktivakladden opprette linjer i **Forsikringskladd**-vinduet, som du deretter må bokføre manuelt.</span><span class="sxs-lookup"><span data-stu-id="f8624-111">If the **Automatic Insurance Posting** check box in the **Fixed Asset Setup** window is not selected, then posting acquisitions from the fixed asset journal will create lines in the **Insurance Journal** window, which you must then post manually.</span></span>
 
-**Advarsel**: Hvis du ikke merker av for **Autom. forsikringsbokføring** i **Aktivaoppsett**-vinduet, bør forsikringskladden være basert på en kladdemal uten en nummerserie. Dette er fordi de innsatte bilagsnumrene fra aktivakladdelinjen ellers vil være i konflikt med nummerserien for forsikringskladden. Se [Definere generell aktivainformasjon](fa-how-setup-general.md) for mer informasjon om kladdemaler og kladder.
+<span data-ttu-id="f8624-112">**Advarsel**: Hvis du ikke merker av for **Autom. forsikringsbokføring** i **Aktivaoppsett**-vinduet, bør forsikringskladden være basert på en kladdemal uten en nummerserie.</span><span class="sxs-lookup"><span data-stu-id="f8624-112">**Warning**: If you do not select the **Automatic Insurance Posting** check box in the **Fixed Asset Setup** window, then your insurance journal should be based on a journal template without a number series.</span></span> <span data-ttu-id="f8624-113">Dette er fordi de innsatte bilagsnumrene fra aktivakladdelinjen ellers vil være i konflikt med nummerserien for forsikringskladden.</span><span class="sxs-lookup"><span data-stu-id="f8624-113">This is because the inserted document numbers from the fixed asset journal line will otherwise conflict with the number series of the insurance journal.</span></span> <span data-ttu-id="f8624-114">Se [Definere generell aktivainformasjon](fa-how-setup-general.md) for mer informasjon om kladdemaler og kladder.</span><span class="sxs-lookup"><span data-stu-id="f8624-114">For more information about journal templates and batches, see [How to: Set Up General Fixed Assets Information](fa-how-setup-general.md).</span></span>
 
-Når du har tilordnet et aktiva til en forsikringspolise, er **Forsikret** avmerket på aktivakortet. Når du selger aktivaet, fjernes avmerkingen automatisk.
+<span data-ttu-id="f8624-115">Når du har tilordnet et aktiva til en forsikringspolise, er **Forsikret** avmerket på aktivakortet.</span><span class="sxs-lookup"><span data-stu-id="f8624-115">After you have assigned a fixed asset to an insurance policy, the **Insured** check box is selected on the fixed asset card.</span></span> <span data-ttu-id="f8624-116">Når du selger aktivaet, fjernes avmerkingen automatisk.</span><span class="sxs-lookup"><span data-stu-id="f8624-116">When you sell the fixed asset, the check box is automatically deselected.</span></span>
 
-## <a name="to-create-or-modify-an-insurance-card"></a>Slik oppetter eller endrer du et forsikringskort:
-En forsikringspolise for et aktiva må representeres av et forsikringskort.
+## <a name="to-create-or-modify-an-insurance-card"></a><span data-ttu-id="f8624-117">Slik oppetter eller endrer du et forsikringskort:</span><span class="sxs-lookup"><span data-stu-id="f8624-117">To create or modify an insurance card</span></span>
+<span data-ttu-id="f8624-118">En forsikringspolise for et aktiva må representeres av et forsikringskort.</span><span class="sxs-lookup"><span data-stu-id="f8624-118">An insurance policy for a fixed asset must be represented by an insurance card.</span></span>
 
-Når du mottar opplysninger om endringer i dekningsbeløpet, må du angi de nye opplysningene i **Forsikringskort**-vinduet for å sikre at du foretar riktig analyse av forsikringspolisedekningen.  
+<span data-ttu-id="f8624-119">Når du mottar opplysninger om endringer i dekningsbeløpet, må du angi de nye opplysningene i **Forsikringskort**-vinduet for å sikre at du foretar riktig analyse av forsikringspolisedekningen.</span><span class="sxs-lookup"><span data-stu-id="f8624-119">When you receive information about changes in the coverage amount, you must enter the new information in the **Insurance Card** window to ensure that you analyze insurance policy coverage correctly.</span></span>  
 
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Forsikring** og velger deretter den relaterte koblingen.
-2. Velg **Ny** for å opprette et nytt kort for en forsikringspolise. Velg et felt som skal inneholde en kort beskrivelse av feltet eller kobling til mer informasjon.
-3. Velg eventuelt forsikringspolisen du vil endre, og velg deretter **Rediger**.
+1. <span data-ttu-id="f8624-120">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Forsikring** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="f8624-120">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance**, and then choose the related link.</span></span>
+2. <span data-ttu-id="f8624-121">Velg **Ny** for å opprette et nytt kort for en forsikringspolise.</span><span class="sxs-lookup"><span data-stu-id="f8624-121">Choose the **New** action to create a new card for an insurance policy.</span></span> <span data-ttu-id="f8624-122">Velg et felt som skal inneholde en kort beskrivelse av feltet eller kobling til mer informasjon.</span><span class="sxs-lookup"><span data-stu-id="f8624-122">Choose a field to read a short description of the field or link to more information.</span></span>
+3. <span data-ttu-id="f8624-123">Velg eventuelt forsikringspolisen du vil endre, og velg deretter **Rediger**.</span><span class="sxs-lookup"><span data-stu-id="f8624-123">Alternatively, select the insurance policy that you want to change, and then choose the **Edit** action.</span></span>
 
-## <a name="to-assign-a-fixed-asset-to-an-insurance-policy-by-posting-from-the-insurance-journal"></a>Slik tilordner du et aktiva til en forsikringspolise ved å bokføre fra forsikringskladden:
-Du tilordner et aktiva til en forsikringspolise ved å bokføre i forsikringsdekningsposten.
+## <a name="to-assign-a-fixed-asset-to-an-insurance-policy-by-posting-from-the-insurance-journal"></a><span data-ttu-id="f8624-124">Slik tilordner du et aktiva til en forsikringspolise ved å bokføre fra forsikringskladden:</span><span class="sxs-lookup"><span data-stu-id="f8624-124">To assign a fixed asset to an insurance policy by posting from the insurance journal</span></span>
+<span data-ttu-id="f8624-125">Du tilordner et aktiva til en forsikringspolise ved å bokføre i forsikringsdekningsposten.</span><span class="sxs-lookup"><span data-stu-id="f8624-125">You assign a fixed asset to an insurance policy by posting to the insurance coverage ledger.</span></span>
 
-Fremgangsmåten nedenfor forklarer hvordan du oppretter en forsikringskladdelinje manuelt. Hvis **Autom. forsikringsbokføring** er avmerket i **Aktivaoppsett**-vinduet, opprettes forsikringskladdelinjene automatisk når du bokfører anskaffelseskostnader. I så fall trenger du bare å bokføre kladden.
+<span data-ttu-id="f8624-126">Fremgangsmåten nedenfor forklarer hvordan du oppretter en forsikringskladdelinje manuelt.</span><span class="sxs-lookup"><span data-stu-id="f8624-126">The following procedure explains how to create an insurance journal line manually.</span></span> <span data-ttu-id="f8624-127">Hvis **Autom. forsikringsbokføring** er avmerket i **Aktivaoppsett**-vinduet, opprettes forsikringskladdelinjene automatisk når du bokfører anskaffelseskostnader.</span><span class="sxs-lookup"><span data-stu-id="f8624-127">If the **Automatic Insurance Posting** check box is selected in the **FA Setup** window, then insurance journal lines are automatically created when you post acquisition costs.</span></span> <span data-ttu-id="f8624-128">I så fall trenger du bare å bokføre kladden.</span><span class="sxs-lookup"><span data-stu-id="f8624-128">In that case, all you have to do is to post the journal.</span></span>
 
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Forsikringskladder** og velger deretter den relaterte koblingen.
-2. Åpne den relevante kladden, og fyll ut kladdelinjene etter behov.
-3. Hvis du vil tilordne flere aktiva til én forsikringspolise, oppretter du kladdelinjer med samme verdi i **Forsikringsnr.**-feltet og forskjellige verdier i **Aktivanr.**-feltet .
-4. Velg handlingen **Bokfør**.
+1. <span data-ttu-id="f8624-129">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Forsikringskladder** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="f8624-129">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance Journals**, and then choose the related link.</span></span>
+2. <span data-ttu-id="f8624-130">Åpne den relevante kladden, og fyll ut kladdelinjene etter behov.</span><span class="sxs-lookup"><span data-stu-id="f8624-130">Open the relevant journal, and fill in the journal lines as necessary.</span></span>
+3. <span data-ttu-id="f8624-131">Hvis du vil tilordne flere aktiva til én forsikringspolise, oppretter du kladdelinjer med samme verdi i **Forsikringsnr.**-feltet</span><span class="sxs-lookup"><span data-stu-id="f8624-131">To assign multiple fixed assets to one insurance policy, create journal lines with the same value in the **Insurance No.**</span></span> <span data-ttu-id="f8624-132">og forskjellige verdier i **Aktivanr.**-feltet</span><span class="sxs-lookup"><span data-stu-id="f8624-132">field and different values in the **FA No.**</span></span> <span data-ttu-id="f8624-133">.</span><span class="sxs-lookup"><span data-stu-id="f8624-133">field.</span></span>
+4. <span data-ttu-id="f8624-134">Velg handlingen **Bokfør**.</span><span class="sxs-lookup"><span data-stu-id="f8624-134">Choose the **Post** action.</span></span>
 
-**Merk**: Postene i forsikringskladden bokføres bare i forsikringsdekningsposten.  
+<span data-ttu-id="f8624-135">**Merk**: Postene i forsikringskladden bokføres bare i forsikringsdekningsposten.</span><span class="sxs-lookup"><span data-stu-id="f8624-135">**Note**: The entries from an insurance journal are only posted to the insurance coverage ledger.</span></span>  
 
-## <a name="to-update-the-insurance-value-of-a-fixed-asset"></a>Slik oppdaterer du forsikringsverdien for et aktiva:
-Du kan bruke kjørselen **Indeksreg. forsikring** til å oppdatere verdien av de dekkede aktivaene.
+## <a name="to-update-the-insurance-value-of-a-fixed-asset"></a><span data-ttu-id="f8624-136">Slik oppdaterer du forsikringsverdien for et aktiva:</span><span class="sxs-lookup"><span data-stu-id="f8624-136">To update the insurance value of a fixed asset</span></span>
+<span data-ttu-id="f8624-137">Du kan bruke kjørselen **Indeksreg. forsikring** til å oppdatere verdien av de dekkede aktivaene.</span><span class="sxs-lookup"><span data-stu-id="f8624-137">You can use the **Index Insurance** batch job to update the value of the fixed assets that are covered.</span></span>
 
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Indeksreg. forsikring** og velger deretter den relaterte koblingen.
-2. Fyll ut feltene etter behov.
+1. <span data-ttu-id="f8624-138">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Indeksreg. forsikring** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="f8624-138">In the top right corner, choose the **Search for Page or Report** icon, enter **Index Insurance**, and then choose the related link.</span></span>
+2. <span data-ttu-id="f8624-139">Fyll ut feltene etter behov.</span><span class="sxs-lookup"><span data-stu-id="f8624-139">Fill in the fields as necessary.</span></span>
 
-    **Merk**: I **Indeksreg.tall**-feltet angir du en nedgang på 5 % som for eksempel 95, mens du angir en økning på 2 % som 102.  
-3.  Velg **OK**-knappen.  
+    <span data-ttu-id="f8624-140">**Merk**: I **Indeksreg.tall**-feltet angir du en nedgang på 5 % som for eksempel 95, mens du angir en økning på 2 % som 102.</span><span class="sxs-lookup"><span data-stu-id="f8624-140">**Note**: In the **Index Figure** field, you enter a decrease of 5%, for example, as 95, whereas you enter an increase of 2% as 102.</span></span>  
+3.  <span data-ttu-id="f8624-141">Velg **OK**-knappen.</span><span class="sxs-lookup"><span data-stu-id="f8624-141">Choose the **OK** button.</span></span>  
 
-    Kjørselen beregner det nye beløpet som en prosentverdi av den totale forsikringsverdien, slik det er oppgitt i vinduet **Forsikringsstatistikk**, og oppretter deretter en linje i forsikringskladden.  
-4. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Forsikringskladder** og velger deretter den relaterte koblingen.
-5. Åpne den aktuelle forsikringskladden, gå gjennom verdiene som er opprettet, og bokfør dem deretter i forsikringsdekningsposten.
+    <span data-ttu-id="f8624-142">Kjørselen beregner det nye beløpet som en prosentverdi av den totale forsikringsverdien, slik det er oppgitt i vinduet **Forsikringsstatistikk**, og oppretter deretter en linje i forsikringskladden.</span><span class="sxs-lookup"><span data-stu-id="f8624-142">The batch job calculates the new amount as a percentage of the total value insured, as stated in the **Insurance Statistics** window, and then creates a line in the insurance journal.</span></span>  
+4. <span data-ttu-id="f8624-143">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Forsikringskladder** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="f8624-143">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance Journals**, and then choose the related link.</span></span>
+5. <span data-ttu-id="f8624-144">Åpne den aktuelle forsikringskladden, gå gjennom verdiene som er opprettet, og bokfør dem deretter i forsikringsdekningsposten.</span><span class="sxs-lookup"><span data-stu-id="f8624-144">Open the relevant insurance journal, review the created values, and then post them to the insurance coverage ledger.</span></span>
 
-## <a name="to-monitor-insurance-coverage"></a>Slik kontrollerer du forsikringsdekningen:
-Dynamics NAV tilbyr dedikerte rapporter og statistikkvinduer for bruk i analyse av forsikringspoliser og om aktiva er over- eller underforsikret.
+## <a name="to-monitor-insurance-coverage"></a><span data-ttu-id="f8624-145">Slik kontrollerer du forsikringsdekningen:</span><span class="sxs-lookup"><span data-stu-id="f8624-145">To monitor insurance coverage</span></span>
+<span data-ttu-id="f8624-146">Dynamics NAV tilbyr dedikerte rapporter og statistikkvinduer for bruk i analyse av forsikringspoliser og om aktiva er over- eller underforsikret.</span><span class="sxs-lookup"><span data-stu-id="f8624-146">Dynamics NAV provides dedicated reports and statistics windows for use in analyzing insurance policies and whether your fixed assets are over- or under-insured.</span></span>
 
-### <a name="overview-of-insurance-policies"></a>Oversikt over forsikringspoliser  
-Hvis du vil se en oversikt over forsikringspoliser, kan du forhåndsvise eller skrive ut rapporten **Forsikring - oversikt**, som viser alle polisene og de viktigste feltene fra forsikringskortene.  
+### <a name="overview-of-insurance-policies"></a><span data-ttu-id="f8624-147">Oversikt over forsikringspoliser</span><span class="sxs-lookup"><span data-stu-id="f8624-147">Overview of Insurance Policies</span></span>  
+<span data-ttu-id="f8624-148">Hvis du vil se en oversikt over forsikringspoliser, kan du forhåndsvise eller skrive ut rapporten **Forsikring - oversikt**, som viser alle polisene og de viktigste feltene fra forsikringskortene.</span><span class="sxs-lookup"><span data-stu-id="f8624-148">To get an overview of your insurance policies, you can preview or print the **Insurance - List** report, which shows all the policies and the most important fields from the insurance cards.</span></span>  
 
-### <a name="insurance-coverage"></a>Forsikringsdekning
-Hvis du vil se hvilke forsikringspoliser som dekker hvert aktiva og med hvilket beløp, kan du forhåndsvise eller skrive ut rapporten **Forsikring – tot.verdi forsik.**.
+### <a name="insurance-coverage"></a><span data-ttu-id="f8624-149">Forsikringsdekning</span><span class="sxs-lookup"><span data-stu-id="f8624-149">Insurance Coverage</span></span>
+<span data-ttu-id="f8624-150">Hvis du vil se hvilke forsikringspoliser som dekker hvert aktiva og med hvilket beløp, kan du forhåndsvise eller skrive ut rapporten **Forsikring – tot.verdi forsik.**.</span><span class="sxs-lookup"><span data-stu-id="f8624-150">To see which insurance policies cover each asset and by which amount, you can preview or print the **Insurance - Tot. Value Insured** report.</span></span>
 
-### <a name="overunder-coverage"></a>Over-/underdekning
-Du kan kontrollere om aktiva er over- eller underforsikret på følgende måter:
-- Vinduet **Forsikringsstatistikk**. Et positivt beløp i feltet **Over-/underforsikret** betyr at aktivaet er overforsikret. Et negativt beløp betyr at det er underforsikret.
-- **Aktivastatistikk**-vinduet. Velg **Total forsikringsverdi**-feltet for å vise **Fors.dekningsposter**-vinduet.  
-- **Over-/underdekning**-rapporten.  
-- **Forsikring - analyse**-rapporten.
+### <a name="overunder-coverage"></a><span data-ttu-id="f8624-151">Over-/underdekning</span><span class="sxs-lookup"><span data-stu-id="f8624-151">Over/Under Coverage</span></span>
+<span data-ttu-id="f8624-152">Du kan kontrollere om aktiva er over- eller underforsikret på følgende måter:</span><span class="sxs-lookup"><span data-stu-id="f8624-152">You can check if fixed assets are over- or under-insured in the following ways:</span></span>
+- <span data-ttu-id="f8624-153">Vinduet **Forsikringsstatistikk**.</span><span class="sxs-lookup"><span data-stu-id="f8624-153">The **Insurance Statistics** window.</span></span> <span data-ttu-id="f8624-154">Et positivt beløp i feltet **Over-/underforsikret** betyr at aktivaet er overforsikret.</span><span class="sxs-lookup"><span data-stu-id="f8624-154">A positive amount in the **Over/Under Insured** field means that the fixed asset is over-insured.</span></span> <span data-ttu-id="f8624-155">Et negativt beløp betyr at det er underforsikret.</span><span class="sxs-lookup"><span data-stu-id="f8624-155">A negative amount means that it is underinsured.</span></span>
+- <span data-ttu-id="f8624-156">**Aktivastatistikk**-vinduet.</span><span class="sxs-lookup"><span data-stu-id="f8624-156">The **Fixed Asset Statistics** window.</span></span> <span data-ttu-id="f8624-157">Velg **Total forsikringsverdi**-feltet for å vise **Fors.dekningsposter**-vinduet.</span><span class="sxs-lookup"><span data-stu-id="f8624-157">Choose the **Total Value Insured** field to view the **Ins. Coverage Ledger Entries** window.</span></span>  
+- <span data-ttu-id="f8624-158">**Over-/underdekning**-rapporten.</span><span class="sxs-lookup"><span data-stu-id="f8624-158">The **Over/Under Coverage** report.</span></span>  
+- <span data-ttu-id="f8624-159">**Forsikring - analyse**-rapporten.</span><span class="sxs-lookup"><span data-stu-id="f8624-159">The **Insurance Analysis** report.</span></span>
 
-### <a name="uninsured-fixed-assets"></a>Aktiva ikke forsikret
-Hvis du vil sjekke om du har glemt å tilordne et aktiva til en forsikringspolise, kan du skrive ut eller forhåndsvise rapporten **Forsikring - aktiva ikke fors.**. Denne rapporten viser aktiva som det ikke er bokført noen beløp for i forsikringsdekningsposten.
+### <a name="uninsured-fixed-assets"></a><span data-ttu-id="f8624-160">Aktiva ikke forsikret</span><span class="sxs-lookup"><span data-stu-id="f8624-160">Uninsured Fixed Assets</span></span>
+<span data-ttu-id="f8624-161">Hvis du vil sjekke om du har glemt å tilordne et aktiva til en forsikringspolise, kan du skrive ut eller forhåndsvise rapporten **Forsikring - aktiva ikke fors.**.</span><span class="sxs-lookup"><span data-stu-id="f8624-161">To check if you have forgotten to assign a fixed asset to an insurance policy, you can print or preview the **Insurance - Uninsured FAs** report.</span></span> <span data-ttu-id="f8624-162">Denne rapporten viser aktiva som det ikke er bokført noen beløp for i forsikringsdekningsposten.</span><span class="sxs-lookup"><span data-stu-id="f8624-162">This report displays fixed assets for which amounts have not been posted to the insurance coverage ledger.</span></span>
 
-## <a name="to-view-insurance-coverage-ledger-entries"></a>Slik viser du forsikringsdekningsposter
-Du kan vise postene du har opprettet i forsikringsdekningsposten.  
+## <a name="to-view-insurance-coverage-ledger-entries"></a><span data-ttu-id="f8624-163">Slik viser du forsikringsdekningsposter</span><span class="sxs-lookup"><span data-stu-id="f8624-163">To view insurance coverage ledger entries</span></span>
+<span data-ttu-id="f8624-164">Du kan vise postene du har opprettet i forsikringsdekningsposten.</span><span class="sxs-lookup"><span data-stu-id="f8624-164">You can view the entries that you have made in the insurance coverage ledger.</span></span>  
 
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Forsikring** og velger deretter den relaterte koblingen.  
-2. Velg den relevante forsikringspolisen, og velg deretter handlingen **Fors.dekningsposter**.
+1. <span data-ttu-id="f8624-165">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Forsikring** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="f8624-165">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="f8624-166">Velg den relevante forsikringspolisen, og velg deretter handlingen **Fors.dekningsposter**.</span><span class="sxs-lookup"><span data-stu-id="f8624-166">Select the relevant insurance policy, and then choose the **Coverage Ledger Entries** action.</span></span>
 
-## <a name="to-view-the-total-insurance-value-of-fixed-assets"></a>Slik viser du den totale forsikringsverdien for aktiva:
-Et dedikert matrisevindu viser forsikringsverdiene som er registrert for hver forsikringspolise for hvert aktiva som resultat av forsikringsrelaterte beløp du har bokført.
+## <a name="to-view-the-total-insurance-value-of-fixed-assets"></a><span data-ttu-id="f8624-167">Slik viser du den totale forsikringsverdien for aktiva:</span><span class="sxs-lookup"><span data-stu-id="f8624-167">To view the total insurance value of fixed assets</span></span>
+<span data-ttu-id="f8624-168">Et dedikert matrisevindu viser forsikringsverdiene som er registrert for hver forsikringspolise for hvert aktiva som resultat av forsikringsrelaterte beløp du har bokført.</span><span class="sxs-lookup"><span data-stu-id="f8624-168">A dedicated matrix window shows the insurance values that are registered for each insurance policy for each fixed asset as a result of insurance-related amounts that you have posted.</span></span>
 
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Forsikring** og velger deretter den relaterte koblingen.  
-2. Velg den relevante forsikringspolisen, og velg deretter handlingen **Total forsikr.verdi per aktiva**.
-3. Fyll ut feltene etter behov  
-4. velg **Vis matrise**.  
-5. Hvis du vil se de underliggende forsikringsdekningspostene, velger du en verdi i matrisen.
+1. <span data-ttu-id="f8624-169">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Forsikring** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="f8624-169">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="f8624-170">Velg den relevante forsikringspolisen, og velg deretter handlingen **Total forsikr.verdi per aktiva**.</span><span class="sxs-lookup"><span data-stu-id="f8624-170">Select the relevant insurance policy, and then choose the **Total Value Insures per FA** action.</span></span>
+3. <span data-ttu-id="f8624-171">Fyll ut feltene etter behov</span><span class="sxs-lookup"><span data-stu-id="f8624-171">Fill in the fields as necessary</span></span>  
+4. <span data-ttu-id="f8624-172">velg **Vis matrise**.</span><span class="sxs-lookup"><span data-stu-id="f8624-172">choose the **Show Matrix** action.</span></span>  
+5. <span data-ttu-id="f8624-173">Hvis du vil se de underliggende forsikringsdekningspostene, velger du en verdi i matrisen.</span><span class="sxs-lookup"><span data-stu-id="f8624-173">To see the underlying insurance coverage ledger entries, choose a value in the matrix.</span></span>
 
-## <a name="to-correct-insurance-coverage-entries"></a>Slik korrigerer du forsikringsdekningsposter  
-Hvis et aktiva er knyttet til feil forsikringspolise, kan du korrigere den ved å opprette to reklassifiseringsposter fra forsikringskladden.  
+## <a name="to-correct-insurance-coverage-entries"></a><span data-ttu-id="f8624-174">Slik korrigerer du forsikringsdekningsposter</span><span class="sxs-lookup"><span data-stu-id="f8624-174">To correct insurance coverage entries</span></span>  
+<span data-ttu-id="f8624-175">Hvis et aktiva er knyttet til feil forsikringspolise, kan du korrigere den ved å opprette to reklassifiseringsposter fra forsikringskladden.</span><span class="sxs-lookup"><span data-stu-id="f8624-175">If a fixed asset has been attached to the wrong insurance policy, you can correct it by creating two reclassification entries from the insurance journal.</span></span>  
 
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Forsikringskladder** og velger deretter den relaterte koblingen.
-2. Opprett én kladdelinje for aktivaet og den riktige forsikringspolisen der verdien i **Beløp**-feltet er positivt.
-3. Opprett en ny kladdelinje for aktivaet og den gale forsikringspolisen der verdien i **Beløp**-feltet er negativt.  
-4. Velg handlingen **Bokfør**.
+1. <span data-ttu-id="f8624-176">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Forsikringskladder** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="f8624-176">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance Journals**, and then choose the related link.</span></span>
+2. <span data-ttu-id="f8624-177">Opprett én kladdelinje for aktivaet og den riktige forsikringspolisen der verdien i **Beløp**-feltet er positivt.</span><span class="sxs-lookup"><span data-stu-id="f8624-177">Create one journal line for the fixed asset and the correct insurance policy where the value in the **Amount** field is positive.</span></span>
+3. <span data-ttu-id="f8624-178">Opprett en ny kladdelinje for aktivaet og den gale forsikringspolisen der verdien i **Beløp**-feltet er negativt.</span><span class="sxs-lookup"><span data-stu-id="f8624-178">Create another journal line for the fixed asset and the incorrect insurance policy where the value in the **Amount** field is negative.</span></span>  
+4. <span data-ttu-id="f8624-179">Velg handlingen **Bokfør**.</span><span class="sxs-lookup"><span data-stu-id="f8624-179">Choose the **Post** action.</span></span>
 
-Aktivaet frigjøres fra den gale forsikringspolisen på den andre linjen, og knyttes til den riktige forsikringspolisen på den første linjen.
+<span data-ttu-id="f8624-180">Aktivaet frigjøres fra den gale forsikringspolisen på den andre linjen, og knyttes til den riktige forsikringspolisen på den første linjen.</span><span class="sxs-lookup"><span data-stu-id="f8624-180">The fixed asset will be detached from the incorrect insurance policy, on the second line, and attached to the correct insurance policy, on the first line.</span></span>
 
-## <a name="see-also"></a>Se også
-[Administrere aktiva](fa-manage.md)  
-[Definere aktiva](fa-setup.md)  
-[Finans](finance-setup.md)  
-[Velkommen til Dynamics NAV](across-get-started.md)
+## <a name="see-also"></a><span data-ttu-id="f8624-181">Se også</span><span class="sxs-lookup"><span data-stu-id="f8624-181">See Also</span></span>
+[<span data-ttu-id="f8624-182">Administrere aktiva</span><span class="sxs-lookup"><span data-stu-id="f8624-182">Manage Fixed Assets</span></span>](fa-manage.md)  
+[<span data-ttu-id="f8624-183">Definere aktiva</span><span class="sxs-lookup"><span data-stu-id="f8624-183">Set Up Fixed Assets</span></span>](fa-setup.md)  
+[<span data-ttu-id="f8624-184">Finans</span><span class="sxs-lookup"><span data-stu-id="f8624-184">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="f8624-185">Velkommen til Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f8624-185">Welcome to Dynamics NAV</span></span>](across-get-started.md)
 

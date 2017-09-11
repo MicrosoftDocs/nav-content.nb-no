@@ -9,70 +9,70 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f657509fc2195674db81f47bc5ae31b7ba1aa40e
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 154fcaef89af0f6a131f4bcf0e9cf9a3f85f5903
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-make-predictive-cash-flow-forecasts"></a>Prediktive kontantstrømprognoser
-Kontantstrømprognoser hjelper deg med å sikre at selskapet har nok kontanter til å dekke sine økonomiske forpliktelser, og er nyttig for å identifisere justeringer. Hvis du for eksempel har et kontantoverskudd, kan du betale ned litt gjeld, og du verdsetter en tidlig advarsel hvis tidsfrister nærmer seg. 
+# <a name="how-to-make-predictive-cash-flow-forecasts"></a><span data-ttu-id="08eeb-102">Prediktive kontantstrømprognoser</span><span class="sxs-lookup"><span data-stu-id="08eeb-102">How to: Make predictive cash flow forecasts</span></span>
+<span data-ttu-id="08eeb-103">Kontantstrømprognoser hjelper deg med å sikre at selskapet har nok kontanter til å dekke sine økonomiske forpliktelser, og er nyttig for å identifisere justeringer.</span><span class="sxs-lookup"><span data-stu-id="08eeb-103">Cash flow forecasts help you ensure that your company has enough cash available to meet its financial obligations, and are useful for identifying adjustments.</span></span> <span data-ttu-id="08eeb-104">Hvis du for eksempel har et kontantoverskudd, kan du betale ned litt gjeld, og du verdsetter en tidlig advarsel hvis tidsfrister nærmer seg.</span><span class="sxs-lookup"><span data-stu-id="08eeb-104">For example, if you have a cash surplus you might pay off some debts, and you'll appreciate an early warning if times look tight.</span></span> 
 
-Cortana Intelligence bruker Azure Machine Learning-tjenesten for å gjøre pålitelige, prediktive prognoser. Prognoser fra Cortana Intelligence kan for eksempel hjelpe deg med å forutse, og unngå, kontantunderskudd. Tjenesten kombinerer historisk informasjon med gjeldende bokføringer for kunde og leverandør, inkludert bokføringer med forfallsdatoer som er i fremtiden. Disse omfatter:
-* Bestillinger
-* Ordrer
-* Bokførte salgs og kjøpsfakturaer
-* Kreditnotaer
+<span data-ttu-id="08eeb-105">Cortana Intelligence bruker Azure Machine Learning-tjenesten for å gjøre pålitelige, prediktive prognoser.</span><span class="sxs-lookup"><span data-stu-id="08eeb-105">Cortana Intelligence uses the Azure Machine Learning service to make reliable, predictive forecasts.</span></span> <span data-ttu-id="08eeb-106">Prognoser fra Cortana Intelligence kan for eksempel hjelpe deg med å forutse, og unngå, kontantunderskudd.</span><span class="sxs-lookup"><span data-stu-id="08eeb-106">For example, forecasts from Cortana Intelligence can help you predict, and avoid, cash deficits.</span></span> <span data-ttu-id="08eeb-107">Tjenesten kombinerer historisk informasjon med gjeldende bokføringer for kunde og leverandør, inkludert bokføringer med forfallsdatoer som er i fremtiden.</span><span class="sxs-lookup"><span data-stu-id="08eeb-107">The service combines historical information with current postings for payables and receivables, including postings with due dates that are in the future.</span></span> <span data-ttu-id="08eeb-108">Disse omfatter:</span><span class="sxs-lookup"><span data-stu-id="08eeb-108">These include:</span></span>
+* <span data-ttu-id="08eeb-109">Bestillinger</span><span class="sxs-lookup"><span data-stu-id="08eeb-109">Purchase orders</span></span>
+* <span data-ttu-id="08eeb-110">Ordrer</span><span class="sxs-lookup"><span data-stu-id="08eeb-110">Sales orders</span></span>
+* <span data-ttu-id="08eeb-111">Bokførte salgs og kjøpsfakturaer</span><span class="sxs-lookup"><span data-stu-id="08eeb-111">Posted sales and purchase invoices</span></span>
+* <span data-ttu-id="08eeb-112">Kreditnotaer</span><span class="sxs-lookup"><span data-stu-id="08eeb-112">Credit memos</span></span>
 
-## <a name="before-you-start"></a>Før du begynner  
-Det er noen ting du må gjøre før du kan bruke Cortana Intelligence for kontantstrømprognoser: 
-* Hvis du ikke allerede bruker kontantstrømprognoser, må du konfigurere:
-    * Én eller flere oppsett i **Kontantstrømoppsett**. 
-    * Kontoer for leverandører, kunder, salgsordrer og bestillinger. Cortana Intelligence bruker bokføringene i disse kontoene.
-    * Én eller flere kontantstrømprognoser i **Kontantstrømprognose**. Husk å ta med bestillinger, salgsordrer, kunder og leverandører som kilde.  
-    Hvis du vil ha mer informasjon, kan du søke etter _kontantstrømprognoser_ i hjelpesystemet. 
-* Kjenn URL-API og API-nøkkel som skal brukes for webtjenesten for prediksjonsanalyse.  
-    Du kan bruke Azure Machine Learning eller en annen tjeneste, hvis du har en. En offentlig modell kalt _Forecasting Model for Microsoft Dynamics NAV_ er også tilgjengelig på Internett i Cortana Intelligence Gallery. Hvis du vil bruke modellen, følger du denne fremgangsmåten:
+## <a name="before-you-start"></a><span data-ttu-id="08eeb-113">Før du begynner</span><span class="sxs-lookup"><span data-stu-id="08eeb-113">Before you start</span></span>  
+<span data-ttu-id="08eeb-114">Det er noen ting du må gjøre før du kan bruke Cortana Intelligence for kontantstrømprognoser:</span><span class="sxs-lookup"><span data-stu-id="08eeb-114">There are a few things to do before you can use Cortana Intelligence for cash flow forecasts:</span></span> 
+* <span data-ttu-id="08eeb-115">Hvis du ikke allerede bruker kontantstrømprognoser, må du konfigurere:</span><span class="sxs-lookup"><span data-stu-id="08eeb-115">If you aren't already using cash flow forecasts, you will need to set up:</span></span>
+    * <span data-ttu-id="08eeb-116">Én eller flere oppsett i **Kontantstrømoppsett**.</span><span class="sxs-lookup"><span data-stu-id="08eeb-116">One or more setups in **Cash Flow Setups**.</span></span> 
+    * <span data-ttu-id="08eeb-117">Kontoer for leverandører, kunder, salgsordrer og bestillinger.</span><span class="sxs-lookup"><span data-stu-id="08eeb-117">Accounts for payables, receivables, sales orders, and purchase orders.</span></span> <span data-ttu-id="08eeb-118">Cortana Intelligence bruker bokføringene i disse kontoene.</span><span class="sxs-lookup"><span data-stu-id="08eeb-118">Cortana Intelligence uses the postings in these accounts.</span></span>
+    * <span data-ttu-id="08eeb-119">Én eller flere kontantstrømprognoser i **Kontantstrømprognose**.</span><span class="sxs-lookup"><span data-stu-id="08eeb-119">One or more cash flow forecasts in **Cash Flow Forecast**.</span></span> <span data-ttu-id="08eeb-120">Husk å ta med bestillinger, salgsordrer, kunder og leverandører som kilde.</span><span class="sxs-lookup"><span data-stu-id="08eeb-120">Be sure to include purchase orders, sales orders, receivables, and payables as sources.</span></span>  
+    <span data-ttu-id="08eeb-121">Hvis du vil ha mer informasjon, kan du søke etter _kontantstrømprognoser_ i hjelpesystemet.</span><span class="sxs-lookup"><span data-stu-id="08eeb-121">For more information, search for _cash flow forecasts_ in the Help system.</span></span> 
+* <span data-ttu-id="08eeb-122">Kjenn URL-API og API-nøkkel som skal brukes for webtjenesten for prediksjonsanalyse.</span><span class="sxs-lookup"><span data-stu-id="08eeb-122">Know the API URL and API key for the predictive web service to use.</span></span>  
+    <span data-ttu-id="08eeb-123">Du kan bruke Azure Machine Learning eller en annen tjeneste, hvis du har en.</span><span class="sxs-lookup"><span data-stu-id="08eeb-123">You can use Azure Machine Learning or another service, if you have one.</span></span> <span data-ttu-id="08eeb-124">En offentlig modell kalt _Forecasting Model for Microsoft Dynamics NAV_ er også tilgjengelig på Internett i Cortana Intelligence Gallery.</span><span class="sxs-lookup"><span data-stu-id="08eeb-124">Alternatively, a public model named _Forecasting model for Microsoft Dynamics NAV_ is available online in the Cortana Intelligence Gallery.</span></span> <span data-ttu-id="08eeb-125">Hvis du vil bruke modellen, følger du denne fremgangsmåten:</span><span class="sxs-lookup"><span data-stu-id="08eeb-125">To use the model, follow these steps:</span></span>
 
-    1. Åpne en nettleser, og gå til [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352)
-    2. Søk etter _Forecasting Model for Microsoft Dynamics NAV_, og åpne deretter modellen i Azure Machine Learning Studio.
-    3. Bruke Microsoft-kontoen til å registrere deg for et arbeidsområde, og kopier deretter modellen.
-    4. Kjør modellen, og publisere den som en webtjeneste.
-    5. Noter URL-API og API-nøkkel. Du vil bruke disse legitimasjonene når du konfigurerer Cortana Intelligence i Microsoft Dynamics NAV.  
+    1. <span data-ttu-id="08eeb-126">Åpne en nettleser, og gå til [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352)</span><span class="sxs-lookup"><span data-stu-id="08eeb-126">In a browser, go to the [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352)</span></span>
+    2. <span data-ttu-id="08eeb-127">Søk etter _Forecasting Model for Microsoft Dynamics NAV_, og åpne deretter modellen i Azure Machine Learning Studio.</span><span class="sxs-lookup"><span data-stu-id="08eeb-127">Search for _Forecasting Model for Microsoft Dynamics NAV_, and then open the model in Azure Machine Learning Studio.</span></span>
+    3. <span data-ttu-id="08eeb-128">Bruke Microsoft-kontoen til å registrere deg for et arbeidsområde, og kopier deretter modellen.</span><span class="sxs-lookup"><span data-stu-id="08eeb-128">Use your Microsoft account to sign up for a workspace, and then copy the model.</span></span>
+    4. <span data-ttu-id="08eeb-129">Kjør modellen, og publisere den som en webtjeneste.</span><span class="sxs-lookup"><span data-stu-id="08eeb-129">Run the model, and publish it as a web service.</span></span>
+    5. <span data-ttu-id="08eeb-130">Noter URL-API og API-nøkkel.</span><span class="sxs-lookup"><span data-stu-id="08eeb-130">Make a note of the API URL and API key.</span></span> <span data-ttu-id="08eeb-131">Du vil bruke disse legitimasjonene når du konfigurerer Cortana Intelligence i Microsoft Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="08eeb-131">You will use these credentials when you set up Cortana Intelligence in Microsoft Dynamics NAV.</span></span>  
 
-* Vurdere hvor ofte du vil beregne prognosen. Azure Machine Learning-tjenesten har begrensninger med hensyn til bruk. Hvis du for eksempel har mange varer, kan det være bedre å beregne sjeldnere. 
-* Vær tilordnet rollesenteret for regnskapsfører. 
+* <span data-ttu-id="08eeb-132">Vurdere hvor ofte du vil beregne prognosen.</span><span class="sxs-lookup"><span data-stu-id="08eeb-132">Consider how often to calculate the forecast.</span></span> <span data-ttu-id="08eeb-133">Azure Machine Learning-tjenesten har begrensninger med hensyn til bruk.</span><span class="sxs-lookup"><span data-stu-id="08eeb-133">The Azure Machine Learning service has limitations regarding use.</span></span> <span data-ttu-id="08eeb-134">Hvis du for eksempel har mange varer, kan det være bedre å beregne sjeldnere.</span><span class="sxs-lookup"><span data-stu-id="08eeb-134">For example, if you have a lot of items, it might be better to calculate less frequently.</span></span> 
+* <span data-ttu-id="08eeb-135">Vær tilordnet rollesenteret for regnskapsfører.</span><span class="sxs-lookup"><span data-stu-id="08eeb-135">Be assigned to the Accountant role center.</span></span> 
 
-## <a name="set-up-cortana-intelligence"></a>Konfigurer Cortana Intelligence
-Du kan bruke en assistert oppsettsveiledning til å definere kontantstrømprognoser. Veiledningen hjelper deg med å angi informasjon, for eksempel hvor ofte prognosen skal oppdateres, kontoene som den skal baseres på, informasjon om når du betaler skatt, og om du vil bruke Cortana Intelligence.  
+## <a name="set-up-cortana-intelligence"></a><span data-ttu-id="08eeb-136">Konfigurer Cortana Intelligence</span><span class="sxs-lookup"><span data-stu-id="08eeb-136">Set up Cortana Intelligence</span></span>
+<span data-ttu-id="08eeb-137">Du kan bruke en assistert oppsettsveiledning til å definere kontantstrømprognoser.</span><span class="sxs-lookup"><span data-stu-id="08eeb-137">You can use an assisted setup guide to set up cash flow forecasts.</span></span> <span data-ttu-id="08eeb-138">Veiledningen hjelper deg med å angi informasjon, for eksempel hvor ofte prognosen skal oppdateres, kontoene som den skal baseres på, informasjon om når du betaler skatt, og om du vil bruke Cortana Intelligence.</span><span class="sxs-lookup"><span data-stu-id="08eeb-138">The guide helps you specify things like how often to update the forecast, the accounts to base it on, information about when you pay taxes, and whether to use Cortana Intelligence.</span></span>  
 
-Hvis du allerede bruker kontantstrømprognoser og bare vil aktivere Cortana Intelligence, kan du også bruke en manuell prosess. Når du logger på, viser en melding på et blått felt øverst i arbeidsområdet. Hvis du vil definere Cortana Intelligence umiddelbart, kan du velge **Ja,takk**. Meldingen viser bare én gang. Hvis du lukker den, kan du bruke den manuelle prosessen for å definere Cortana Intelligence.  
+<span data-ttu-id="08eeb-139">Hvis du allerede bruker kontantstrømprognoser og bare vil aktivere Cortana Intelligence, kan du også bruke en manuell prosess.</span><span class="sxs-lookup"><span data-stu-id="08eeb-139">If you are already using cash flow forecasts and just want to turn on Cortana Intelligence, you can also use a manual process.</span></span> <span data-ttu-id="08eeb-140">Når du logger på, viser en melding på et blått felt øverst i arbeidsområdet.</span><span class="sxs-lookup"><span data-stu-id="08eeb-140">When you sign in, a notification displays in a blue bar at the top of the workspace.</span></span> <span data-ttu-id="08eeb-141">Hvis du vil definere Cortana Intelligence umiddelbart, kan du velge **Ja,takk**.</span><span class="sxs-lookup"><span data-stu-id="08eeb-141">To set up Cortana Intelligence right away, choose **Yes please**.</span></span> <span data-ttu-id="08eeb-142">Meldingen viser bare én gang.</span><span class="sxs-lookup"><span data-stu-id="08eeb-142">The message displays only once.</span></span> <span data-ttu-id="08eeb-143">Hvis du lukker den, kan du bruke den manuelle prosessen for å definere Cortana Intelligence.</span><span class="sxs-lookup"><span data-stu-id="08eeb-143">If you close it, use the manual process to set up Cortana Intelligence.</span></span>  
 
-**Tips:** Ta hensyn til lengden på periodene som tjenesten vil bruke i beregningene. Jo mer data du angir, jo mer nøyaktig vil forutsigelsene være. Vær også oppmerksom på store avvik i perioder. De vil også ha innvirkning på forutsigelser. Hvis Cortana Intelligence ikke finner nok data eller dataene varierer mye, vil ikke tjenesten utføre en forutsigelse. 
+<span data-ttu-id="08eeb-144">**Tips:** Ta hensyn til lengden på periodene som tjenesten vil bruke i beregningene.</span><span class="sxs-lookup"><span data-stu-id="08eeb-144">**Tip:** Consider the length of the periods that the service will use in its calculations.</span></span> <span data-ttu-id="08eeb-145">Jo mer data du angir, jo mer nøyaktig vil forutsigelsene være.</span><span class="sxs-lookup"><span data-stu-id="08eeb-145">The more data you provide, the more accurate the predictions will be.</span></span> <span data-ttu-id="08eeb-146">Vær også oppmerksom på store avvik i perioder.</span><span class="sxs-lookup"><span data-stu-id="08eeb-146">Also, watch out for large variances in periods.</span></span> <span data-ttu-id="08eeb-147">De vil også ha innvirkning på forutsigelser.</span><span class="sxs-lookup"><span data-stu-id="08eeb-147">They will also impact predictions.</span></span> <span data-ttu-id="08eeb-148">Hvis Cortana Intelligence ikke finner nok data eller dataene varierer mye, vil ikke tjenesten utføre en forutsigelse.</span><span class="sxs-lookup"><span data-stu-id="08eeb-148">If Cortana Intelligence does not find enough data, or the data varies a lot, the service will not make a prediction.</span></span> 
 
-Slik bruker du den assisterte oppsettsveiledningen:
-1. I rollesenter for regnskapsfører, under diagrammet **Kontantstrømprognose**, velger du handlingen **Åpne assistert oppsett**.
-2. Fyll ut feltene etter behov i hvert trinn av veiledningen.
+<span data-ttu-id="08eeb-149">Slik bruker du den assisterte oppsettsveiledningen:</span><span class="sxs-lookup"><span data-stu-id="08eeb-149">To use the assisted setup guide:</span></span>
+1. <span data-ttu-id="08eeb-150">I rollesenter for regnskapsfører, under diagrammet **Kontantstrømprognose**, velger du handlingen **Åpne assistert oppsett**.</span><span class="sxs-lookup"><span data-stu-id="08eeb-150">In the Accountant role center, under the **Cash Flow Forecast** chart, choose the **Open Assisted Setup** action.</span></span>
+2. <span data-ttu-id="08eeb-151">Fyll ut feltene etter behov i hvert trinn av veiledningen.</span><span class="sxs-lookup"><span data-stu-id="08eeb-151">Fill in the fields as necessary in each step of the guide.</span></span>
 
-Slik bruker du en manuell prosess:
-1. Søk etter **Kontantstrømoppsett**, og velg deretter den relaterte koblingen.
-2. Vis hurtigfanen **Cortana Intelligence**, og fyll deretter ut feltene etter behov.
+<span data-ttu-id="08eeb-152">Slik bruker du en manuell prosess:</span><span class="sxs-lookup"><span data-stu-id="08eeb-152">To use a manual process:</span></span>
+1. <span data-ttu-id="08eeb-153">Søk etter **Kontantstrømoppsett**, og velg deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="08eeb-153">Search for **Cash Flow Setup**, and then choose the related link.</span></span>
+2. <span data-ttu-id="08eeb-154">Vis hurtigfanen **Cortana Intelligence**, og fyll deretter ut feltene etter behov.</span><span class="sxs-lookup"><span data-stu-id="08eeb-154">Expand the **Cortana Intelligence** FastTab, and then fill in the fields as necessary.</span></span>
 
-## <a name="turn-on-cortana-intelligence-for-cash-flow-forecasts"></a>Aktivere Cortana Intelligence for kontantstrømprognoser
-1. Søk etter **Kontantstrømprognoser**, og velg deretter den relaterte koblingen.
-2. Velg handlingen **Kontantstrømforslag**.
-3. På siden **Kontantstrømforslag** velger du handlingen **Foreslå forslagslinjer**.  
-4. Under **Kildetyper som skal inkluderes**, merker du av for **Cortana Intelligence-prognose**.
+## <a name="turn-on-cortana-intelligence-for-cash-flow-forecasts"></a><span data-ttu-id="08eeb-155">Aktivere Cortana Intelligence for kontantstrømprognoser</span><span class="sxs-lookup"><span data-stu-id="08eeb-155">Turn on Cortana Intelligence for cash flow forecasts</span></span>
+1. <span data-ttu-id="08eeb-156">Søk etter **Kontantstrømprognoser**, og velg deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="08eeb-156">Search for **Cash Flow Forecasts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="08eeb-157">Velg handlingen **Kontantstrømforslag**.</span><span class="sxs-lookup"><span data-stu-id="08eeb-157">Choose the **Cash Flow Worksheet** action.</span></span>
+3. <span data-ttu-id="08eeb-158">På siden **Kontantstrømforslag** velger du handlingen **Foreslå forslagslinjer**.</span><span class="sxs-lookup"><span data-stu-id="08eeb-158">On the **Cash Flow Worksheet** page, choose the **Suggest Worksheet Lines** action.</span></span>  
+4. <span data-ttu-id="08eeb-159">Under **Kildetyper som skal inkluderes**, merker du av for **Cortana Intelligence-prognose**.</span><span class="sxs-lookup"><span data-stu-id="08eeb-159">Under **Source Types to Include**, choose the **Cortana Intelligence Forecast** check box.</span></span>
 
-## <a name="investigate-a-cash-flow-forecast"></a>Undersøke en kontantstrømprognose
-Hvis du vil undersøke dataene bak prognosen, inkludert avviket, velger du kolonnen **Cortana Intelligence**. Den første raden i tabellen viser avviket. De andre radene er ordnet etter kildedokument.  
+## <a name="investigate-a-cash-flow-forecast"></a><span data-ttu-id="08eeb-160">Undersøke en kontantstrømprognose</span><span class="sxs-lookup"><span data-stu-id="08eeb-160">Investigate a cash flow forecast</span></span>
+<span data-ttu-id="08eeb-161">Hvis du vil undersøke dataene bak prognosen, inkludert avviket, velger du kolonnen **Cortana Intelligence**.</span><span class="sxs-lookup"><span data-stu-id="08eeb-161">To take a good look at the data behind the forecast, including the variance, choose the **Cortana Intelligence** column.</span></span> <span data-ttu-id="08eeb-162">Den første raden i tabellen viser avviket.</span><span class="sxs-lookup"><span data-stu-id="08eeb-162">The first row in the table displays the variance.</span></span> <span data-ttu-id="08eeb-163">De andre radene er ordnet etter kildedokument.</span><span class="sxs-lookup"><span data-stu-id="08eeb-163">The other rows are arranged by source document.</span></span>  
 
-Du kan for eksempel se hvordan prognosen:    
-* Håndterer bekreftede salg og innkjøp 
-* Trekker fra tilgodehavende og legger til skyldig beløp
-* Hopper over dupliserte salgsordrer og bestillinger
+<span data-ttu-id="08eeb-164">Du kan for eksempel se hvordan prognosen:</span><span class="sxs-lookup"><span data-stu-id="08eeb-164">For example, you can see how the forecast:</span></span>    
+* <span data-ttu-id="08eeb-165">Håndterer bekreftede salg og innkjøp</span><span class="sxs-lookup"><span data-stu-id="08eeb-165">Handles confirmed sales and purchases</span></span> 
+* <span data-ttu-id="08eeb-166">Trekker fra tilgodehavende og legger til skyldig beløp</span><span class="sxs-lookup"><span data-stu-id="08eeb-166">Subtracts payables and adds receivables</span></span>
+* <span data-ttu-id="08eeb-167">Hopper over dupliserte salgsordrer og bestillinger</span><span class="sxs-lookup"><span data-stu-id="08eeb-167">Skips duplicate sales orders and purchase orders</span></span>
 
-## <a name="see-also"></a>Se også  
-[Arbeide med Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="08eeb-168">Se også</span><span class="sxs-lookup"><span data-stu-id="08eeb-168">See Also</span></span>  
+[<span data-ttu-id="08eeb-169">Arbeide med Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="08eeb-169">Work With Dynamics NAV</span></span>](ui-work-product.md)
 

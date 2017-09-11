@@ -1,1 +1,1 @@
-Du kan ikke endre innholdet i dette vinduet.
+<span data-ttu-id="f5cba-101">Du kan ikke endre innholdet i dette vinduet.</span><span class="sxs-lookup"><span data-stu-id="f5cba-101">You cannot change the contents of this window.</span></span>

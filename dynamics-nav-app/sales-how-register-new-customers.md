@@ -9,50 +9,50 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 191a9d0b38425c2e36400050afa4fa89ccd2556a
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 73e0e3a0ad91e6834f69bde098be880903057ddb
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-register-new-customers"></a>Registrere nye kunder
-Kunder er kilden til dine inntekter. Hver kunde du selger til, må være registrert som et kundekort.
+# <a name="how-to-register-new-customers"></a><span data-ttu-id="1cf27-102">Registrere nye kunder</span><span class="sxs-lookup"><span data-stu-id="1cf27-102">How to: Register New Customers</span></span>
+<span data-ttu-id="1cf27-103">Kunder er kilden til dine inntekter.</span><span class="sxs-lookup"><span data-stu-id="1cf27-103">Customers are the source of your income.</span></span> <span data-ttu-id="1cf27-104">Hver kunde du selger til, må være registrert som et kundekort.</span><span class="sxs-lookup"><span data-stu-id="1cf27-104">Each customer who you sell to must be registered as a customer card.</span></span>
 
-Før du kan registrere nye kunder, må du definere forskjellige salgskoder som du kan velge fra når du fyller ut kundekort. Hvis du vil ha mer informasjon, kan du se [Definere salg](sales-setup-sales.md).
+<span data-ttu-id="1cf27-105">Før du kan registrere nye kunder, må du definere forskjellige salgskoder som du kan velge fra når du fyller ut kundekort.</span><span class="sxs-lookup"><span data-stu-id="1cf27-105">Before you can register new customers, you must set up various sales codes that you can select from when you fill customer cards.</span></span> <span data-ttu-id="1cf27-106">Hvis du vil ha mer informasjon, kan du se [Definere salg](sales-setup-sales.md).</span><span class="sxs-lookup"><span data-stu-id="1cf27-106">For more information, see [Set Up Sales](sales-setup-sales.md).</span></span>
 
-Kundekort inneholder informasjonen som er nødvendig for å selge produkter til kunden. Hvis du vil ha mer informasjon, kan du se [Fakturere salg](sales-how-invoice-sales.md) og [Registrere nye produkter](inventory-how-register-new-products.md).
+<span data-ttu-id="1cf27-107">Kundekort inneholder informasjonen som er nødvendig for å selge produkter til kunden.</span><span class="sxs-lookup"><span data-stu-id="1cf27-107">Customer cards hold the information that is required to sell products to the customer.</span></span> <span data-ttu-id="1cf27-108">Hvis du vil ha mer informasjon, kan du se [Fakturere salg](sales-how-invoice-sales.md) og [Registrere nye produkter](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="1cf27-108">For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md) and [How to: Register New Products](inventory-how-register-new-products.md).</span></span>
 
-**Merk**: Hvis det finnes kundemaler for ulike kundetyper, vises et vindu når du oppretter et nytt kundekort der du kan velge en passende mal. Hvis det bare finnes én kundemal, brukes alltid denne malen i nye kundekort.
+<span data-ttu-id="1cf27-109">**Merk**: Hvis det finnes kundemaler for ulike kundetyper, vises et vindu når du oppretter et nytt kundekort der du kan velge en passende mal.</span><span class="sxs-lookup"><span data-stu-id="1cf27-109">**Note**: If customer templates exist for different customer types, then a window appears when you create a new customer card from where you can select an appropriate template.</span></span> <span data-ttu-id="1cf27-110">Hvis det bare finnes én kundemal, brukes alltid denne malen i nye kundekort.</span><span class="sxs-lookup"><span data-stu-id="1cf27-110">If only one customer template exists, then new customer cards always use that template.</span></span>
 
-## <a name="to-create-a-new-customer-card"></a>Opprette et nytt kundekort
-1. På Hjem-siden velger du handlingen **Kunder** for å åpne listen over eksisterende kunder.  
-2. I vinduet **Kunder** velger du handlingen **Ny**.
+## <a name="to-create-a-new-customer-card"></a><span data-ttu-id="1cf27-111">Opprette et nytt kundekort</span><span class="sxs-lookup"><span data-stu-id="1cf27-111">To create a new customer card</span></span>
+1. <span data-ttu-id="1cf27-112">På Hjem-siden velger du handlingen **Kunder** for å åpne listen over eksisterende kunder.</span><span class="sxs-lookup"><span data-stu-id="1cf27-112">On the Home page, choose the **Customers** action to open the list of existing customers.</span></span>  
+2. <span data-ttu-id="1cf27-113">I vinduet **Kunder** velger du handlingen **Ny**.</span><span class="sxs-lookup"><span data-stu-id="1cf27-113">In the **Customers** window, choose the **New** action.</span></span>
 
-    Hvis det bare finnes én kundemal, åpnes et nytt kundekort med noen felt som er fylt ut med informasjon fra malen.
+    <span data-ttu-id="1cf27-114">Hvis det bare finnes én kundemal, åpnes et nytt kundekort med noen felt som er fylt ut med informasjon fra malen.</span><span class="sxs-lookup"><span data-stu-id="1cf27-114">If only one customer template exists, then a new customer card opens with some fields filled with information from the template.</span></span>
 
-    Hvis det finnes mer enn én kundemal, åpnes et vindu der du kan velge en kundemal. I det tilfellet følger du de to neste trinnene.
-3. I vinduet **Velg en mal for en ny kunde** velger du malen som du vil bruke for det nye kundekortet.
-4. Velg **OK**-knappen. Det åpnes et nytt kundekort med noen felt som er fylt ut med informasjon fra malen.  
-5. Fortsette med å fylle ut eller endre feltet på kundekortet etter behov. Velg et felt som skal inneholde en kort beskrivelse av feltet eller kobling til mer informasjon.
+    <span data-ttu-id="1cf27-115">Hvis det finnes mer enn én kundemal, åpnes et vindu der du kan velge en kundemal.</span><span class="sxs-lookup"><span data-stu-id="1cf27-115">If more than one customer template exists, then a window opens from which you can select a customer template.</span></span> <span data-ttu-id="1cf27-116">I det tilfellet følger du de to neste trinnene.</span><span class="sxs-lookup"><span data-stu-id="1cf27-116">In that case, follow the next two steps.</span></span>
+3. <span data-ttu-id="1cf27-117">I vinduet **Velg en mal for en ny kunde** velger du malen som du vil bruke for det nye kundekortet.</span><span class="sxs-lookup"><span data-stu-id="1cf27-117">In the **Select a template for a new customer** window, choose the template that you want to use for the new customer card.</span></span>
+4. <span data-ttu-id="1cf27-118">Velg **OK**-knappen.</span><span class="sxs-lookup"><span data-stu-id="1cf27-118">Choose the **OK** button.</span></span> <span data-ttu-id="1cf27-119">Det åpnes et nytt kundekort med noen felt som er fylt ut med informasjon fra malen.</span><span class="sxs-lookup"><span data-stu-id="1cf27-119">A new customer card opens with some fields filled with information from the template.</span></span>  
+5. <span data-ttu-id="1cf27-120">Fortsette med å fylle ut eller endre feltet på kundekortet etter behov.</span><span class="sxs-lookup"><span data-stu-id="1cf27-120">Proceed to fill or change fields on the customer card as necessary.</span></span> <span data-ttu-id="1cf27-121">Velg et felt som skal inneholde en kort beskrivelse av feltet eller kobling til mer informasjon.</span><span class="sxs-lookup"><span data-stu-id="1cf27-121">Choose a field to read a short description of the field or link to more information.</span></span>
 
-I hurtigfanen **Salgspriser** kan du vise spesialpriser eller rabatter som skal gis til kunden hvis bestemte kriterier oppfylles, for eksempel vare, minimumsordreantall eller sluttdato. Hver rad representerer en spesialpris eller linjerabatt. Hver kolonne representerer et vilkår som må brukes for å garantere spesialprisen du angir i feltet **Enhetspris**, eller linjerabatten du angir i feltet **Linjerabatt-%**. Hvis du vil ha mer informasjon, kan du se [Registrere avtaler om salgspris, rabatt og betaling](sales-how-record-sales-price-discount-payment-agreements.md).
+<span data-ttu-id="1cf27-122">I hurtigfanen **Salgspriser** kan du vise spesialpriser eller rabatter som skal gis til kunden hvis bestemte kriterier oppfylles, for eksempel vare, minimumsordreantall eller sluttdato.</span><span class="sxs-lookup"><span data-stu-id="1cf27-122">On the **Sales Prices** FastTab, you can view special prices or discounts that you grant for the customer if certain criteria are met, such as item, minimum order quantity, or ending date.</span></span> <span data-ttu-id="1cf27-123">Hver rad representerer en spesialpris eller linjerabatt.</span><span class="sxs-lookup"><span data-stu-id="1cf27-123">Each row represents a special price or line discount.</span></span> <span data-ttu-id="1cf27-124">Hver kolonne representerer et vilkår som må brukes for å garantere spesialprisen du angir i feltet **Enhetspris**, eller linjerabatten du angir i feltet **Linjerabatt-%**.</span><span class="sxs-lookup"><span data-stu-id="1cf27-124">Each column represents a criterion that must apply to warrant the special price that you enter in the **Unit Price** field, or the line discount that you enter in the **Line Discount %** field.</span></span> <span data-ttu-id="1cf27-125">Hvis du vil ha mer informasjon, kan du se [Registrere avtaler om salgspris, rabatt og betaling](sales-how-record-sales-price-discount-payment-agreements.md).</span><span class="sxs-lookup"><span data-stu-id="1cf27-125">For more information, see [Record Sales Price, Discount, and Payment Agreements](sales-how-record-sales-price-discount-payment-agreements.md).</span></span>
 
-Kunden er nå registrert, og kundekortet er klart til å brukes på salgsdokumenter.
+<span data-ttu-id="1cf27-126">Kunden er nå registrert, og kundekortet er klart til å brukes på salgsdokumenter.</span><span class="sxs-lookup"><span data-stu-id="1cf27-126">The customer is now registered, and the customer card is ready to be used on sales documents.</span></span>
 
-Hvis du vil bruke dette kundekortet som en mal når du oppretter nye kundekort, kan du lagre det som en mal. Hvis du vil ha mer informasjon, kan du se følgende avsnitt:
+<span data-ttu-id="1cf27-127">Hvis du vil bruke dette kundekortet som en mal når du oppretter nye kundekort, kan du lagre det som en mal.</span><span class="sxs-lookup"><span data-stu-id="1cf27-127">If you want to use this customer card as a template when you create new customer cards, you can save it as a template.</span></span> <span data-ttu-id="1cf27-128">Hvis du vil ha mer informasjon, kan du se følgende avsnitt:</span><span class="sxs-lookup"><span data-stu-id="1cf27-128">For more information, see the following section.</span></span>
 
-## <a name="to-save-the-customer-card-as-a-template"></a>Lagre kundekortet som en mal
-1. I vinduet **Kundekort** velger du handlingen **Lagre som mal**. **Kundemal**  -vinduet åpnes og viser kundekortet som en mal.
-2. Fyll ut feltene etter behov. Velg et felt som skal inneholde en kort beskrivelse av feltet eller kobling til mer informasjon.
-3. Hvis du vil bruke dimensjoner i maler, velger du handlingen **Dimensjoner**. **Dimensjonsmaler**-vinduet åpnes med alle dimensjonskoder som er definert for kunden.
-4. Rediger eller angi dimensjonskoder som skal gjelde for nye kundekort som opprettes ved hjelp av malen.  
-5. Når du har fullført den nye kundemalen, kan du velge **OK**-knappen.
+## <a name="to-save-the-customer-card-as-a-template"></a><span data-ttu-id="1cf27-129">Lagre kundekortet som en mal</span><span class="sxs-lookup"><span data-stu-id="1cf27-129">To save the customer card as a template</span></span>
+1. <span data-ttu-id="1cf27-130">I vinduet **Kundekort** velger du handlingen **Lagre som mal**.</span><span class="sxs-lookup"><span data-stu-id="1cf27-130">In the **Customer Card** window, choose the **Save as Template** action.</span></span> <span data-ttu-id="1cf27-131">**Kundemal**  -vinduet åpnes og viser kundekortet som en mal.</span><span class="sxs-lookup"><span data-stu-id="1cf27-131">The **Customer Template** window opens showing the customer card as a template.</span></span>
+2. <span data-ttu-id="1cf27-132">Fyll ut feltene etter behov.</span><span class="sxs-lookup"><span data-stu-id="1cf27-132">Fill in the fields as necessary.</span></span> <span data-ttu-id="1cf27-133">Velg et felt som skal inneholde en kort beskrivelse av feltet eller kobling til mer informasjon.</span><span class="sxs-lookup"><span data-stu-id="1cf27-133">Choose a field to read a short description of the field or link to more information.</span></span>
+3. <span data-ttu-id="1cf27-134">Hvis du vil bruke dimensjoner i maler, velger du handlingen **Dimensjoner**.</span><span class="sxs-lookup"><span data-stu-id="1cf27-134">To reuse dimensions in templates, choose the **Dimensions** action.</span></span> <span data-ttu-id="1cf27-135">**Dimensjonsmaler**-vinduet åpnes med alle dimensjonskoder som er definert for kunden.</span><span class="sxs-lookup"><span data-stu-id="1cf27-135">The **Dimension Templates** window opens showing any dimension codes that are set up for the customer.</span></span>
+4. <span data-ttu-id="1cf27-136">Rediger eller angi dimensjonskoder som skal gjelde for nye kundekort som opprettes ved hjelp av malen.</span><span class="sxs-lookup"><span data-stu-id="1cf27-136">Edit or enter dimension codes that will apply to new customer cards created by using the template.</span></span>  
+5. <span data-ttu-id="1cf27-137">Når du har fullført den nye kundemalen, kan du velge **OK**-knappen.</span><span class="sxs-lookup"><span data-stu-id="1cf27-137">When you have completed the new customer template, choose the **OK** button.</span></span>
 
-Kundemalen legges til i listen over kundemaler, slik at du kan bruke den til å opprette nye kundekort.
+<span data-ttu-id="1cf27-138">Kundemalen legges til i listen over kundemaler, slik at du kan bruke den til å opprette nye kundekort.</span><span class="sxs-lookup"><span data-stu-id="1cf27-138">The customer template is added to the list of customer templates, so that you can use it to create new customer cards.</span></span>
 
-## <a name="see-also"></a>Se også  
-[Håndtere salg](sales-manage-sales.md)    
-[Definere salg](sales-setup-sales.md)    
-[Arbeide med Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="1cf27-139">Se også</span><span class="sxs-lookup"><span data-stu-id="1cf27-139">See Also</span></span>  
+<span data-ttu-id="1cf27-140">[Håndtere salg](sales-manage-sales.md)  </span><span class="sxs-lookup"><span data-stu-id="1cf27-140">[Manage Sales](sales-manage-sales.md)  </span></span>  
+<span data-ttu-id="1cf27-141">[Definere salg](sales-setup-sales.md)  </span><span class="sxs-lookup"><span data-stu-id="1cf27-141">[Set Up Sales](sales-setup-sales.md)  </span></span>  
+[<span data-ttu-id="1cf27-142">Arbeide med Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="1cf27-142">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

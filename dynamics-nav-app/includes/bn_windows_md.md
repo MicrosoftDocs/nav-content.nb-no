@@ -1,1 +1,1 @@
-Hvis du vil se emnene for vinduet i denne delen, velger du underoppføringene i innholdsfortegnelsen.
+<span data-ttu-id="895d1-101">Hvis du vil se emnene for vinduet i denne delen, velger du underoppføringene i innholdsfortegnelsen.</span><span class="sxs-lookup"><span data-stu-id="895d1-101">To see the window topics in this section, choose the subentries in the table of contents.</span></span>

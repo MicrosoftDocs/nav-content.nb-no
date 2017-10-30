@@ -1,32 +1,38 @@
 ---
-title: "Bokføre avslutningsposten for årsslutt"
+title: "Se gjennom og bokføre avslutningsposten for årsslutt"
+description: "Beskriver hvordan du åpner kladden du angav i kjørselen Lukk resultatregnskapet, og deretter ser gjennom og bokfører avslutningsposten for årsslutt."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a8fdb459a2b98066bb93bb47cc0bd9721b992d94
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
+ms.date: 03/29/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: eeffd585b18c2b839db7be3f89d19497080b10ef
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-post-year-end-closing-entry"></a>Bokføre avslutningsposten for årsslutt
-Som en del av avslutning av tablåene for et regnskapsår, kjører du kjørselen Lukk resultatregnskapet for å overføre årets resultat til en konto i balansen og lukke resultatregnskapskontiene. Når du kjører den satsvise jobben Lukk resultatregnskapet, må du åpne kladden du angav i kjørselen, og deretter se gjennom og bokføre postene.
+# <a name="how-to-post-the-year-end-closing-entry"></a>Bokføre avslutningsposten for årsslutt
+Når du har brukt den satsvise jobben **Lukk resultatregnskapet** til å generere avslutningsposten eller -postene for årsslutt, må du åpne kladden du angav i kjørselen, og deretter se gjennom og bokføre postene.
 
 ## <a name="to-post-the-year-end-closing-entry"></a>Bokføre avslutningsposten for årsslutt
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Finanskladd** og velger deretter den relaterte koblingen.
+1. Velg ikonet ![Søk etter side eller rapport](media/ui-search/search_small.png "Søk etter side eller rapport"), angi **Finanskladd**, og velg deretter den relaterte koblingen.
 2. I **Bunkenavn**-feltet i vinduet **Finanskladd**, velger du bunken som inneholder avslutningspostene.
 3. Se gjennom postene.
 4. Velg handlingen **Bokfør** for å bokføre kladden.
 
-**Merk**: Det vises en feilmelding hvis feil blir oppdaget. Hvis bokføringen lykkes, fjernes de bokførte postene fra kladden. Når bokføringen er fullført, posteres en oppføring på hver resultatregnskapskonto, slik at saldoen blir null og årsresultatet overføres til balansen.
+> [!NOTE]  
+>   Det vises en feilmelding hvis feil blir oppdaget. Hvis bokføringen lykkes, fjernes de bokførte postene fra kladden. Når bokføringen er fullført, posteres en oppføring på hver resultatregnskapskonto, slik at saldoen blir null og årsresultatet overføres til balansen.
 
 ## <a name="see-also"></a>Se også
-[Lukk bøker](year-close-books.md)  
-[Lukk resultatregnskapet](year-close-income-statement.md)  
 [Lukke regnskapsperioder](year-close-account-periods.md)  
+[Avslutte tablåer](year-close-books.md)  
+[Lukk resultatregnskapet](year-close-income-statement.md)  
+[Arbeide med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+

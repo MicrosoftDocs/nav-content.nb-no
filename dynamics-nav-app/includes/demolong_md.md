@@ -1,1 +1,1 @@
-Cronus Norge AS demonstrasjonsdatabase
+Demonstrasjonsdatabasen CRONUS Norge AS

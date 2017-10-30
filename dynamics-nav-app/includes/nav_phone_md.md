@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV-telefonklient
+Telefonklient for Microsoft Dynamics NAV

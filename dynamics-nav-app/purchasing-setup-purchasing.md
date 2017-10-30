@@ -1,38 +1,40 @@
 ---
-title: "Definere kjøp"
+title: "Oversikt over oppgaver for å definere kjøp"
+description: "Beskriver oppgaver for å definere selskapets innkjøpspolicyer og definere kjøpsprosessene."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b70e775b4fb5fe716279e5f475f7be214f49f65e
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: procurement, supply, vendor order
+ms.date: 03/29/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 46de426a91eb46ec40ce95592ae12e4adda3f9f6
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="set-up-purchasing"></a>Definere kjøp
+# <a name="setting-up-purchasing"></a>Definere kjøp
 Før du kan håndtere kjøpsprosesser, må du konfigurere regler og verdier som definerer selskapets kjøpsprinsipper.
 
-Først må du definere det generelle oppsettet, for eksempel hvilke kjøpsdokumenter som kreves, og hvordan verdiene i dem skal bokføres. Dette generelle oppsettet foretas vanligvis én gang under den første implementeringen.
+Du må definere det generelle oppsettet, for eksempel hvilke kjøpsdokumenter som kreves, og hvordan verdiene i dem skal bokføres. Dette generelle oppsettet foretas vanligvis én gang under den første implementeringen.
 
-En separat serie med oppgaver relatert til oppretting av hoveddata for leverandører, er å registrere leverandørenes rabatt- og prisavtaler i vinduer koblet til leverandørkortene.
+En egen rekke oppgaver relatert til registrering av nye leverandører er å registrere alle spesialpris eller rabattavtaler som du har med hver leverandør.
 
-Den periodiske aktiviteten for å opprette leverandørkort for nye leverandører beskrives i avsnittet Håndtere kjøp. Hvis du vil ha mer informasjon, kan du se [Registrere nye leverandører](purchasing-how-register-new-vendors.md).
+Finansrelatert kjøpsoppsett, for eksempel betalingsmåte og valutaer, beskrives i avsnittet Finansoppsett. Hvis du vil ha mer informasjon, kan du se [Konfigurere finans](finance-setup-finance.md).
 
-Finansrelatert kjøpsoppsett, for eksempel betalingsmåte og valutaer, beskrives i avsnittet Finansoppsett. Hvis du vil ha mer informasjon, kan du se [Konfigurere finans](finance-setup-setup-finance-setup.md).
-
-|Hvis du vil |Se |
-|---|----|
-|Angi de forskjellige rabattene og alternative prisene som leverandør gir deg avhengig av vare, antall og/eller dato.|[Registrere avtaler om kjøpspris, rabatt og betaling](purchasing-how-record-purchase-price-discount-payment-agreements.md)|
-|Prioritere leverandører.|[Prioritere leverandører](purchasing-how-prioritize-vendors.md)|
-|Definere innkjøpere.|[Definere innkjøpere](purchasing-how-setup-purchasers.md)|
+| Hvis du vil | Se |
+| --- | --- |
+| Opprett et leverandørkort for hver leverandør som du kjøper fra.|[Registrere nye leverandører](purchasing-how-register-new-vendors.md) |
+| Angi de forskjellige rabattene og spesialprisene som leverandør gir deg avhengig av vare, antall og/eller dato. |[Registrere avtaler om kjøpspris, rabatt og betaling](purchasing-how-record-purchase-price-discount-payment-agreements.md) |
+| Prioritere leverandører |[Prioritere leverandører](purchasing-how-prioritize-vendors.md) |
+| Definere innkjøpere |[Definere innkjøpere](purchasing-how-setup-purchasers.md) |
 
 ## <a name="see-also"></a>Se også
-[Håndtere kjøp](purchasing-manage-purchasing.md)
+[Innkjøp](purchasing-manage-purchasing.md)  
+[Arbeide med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

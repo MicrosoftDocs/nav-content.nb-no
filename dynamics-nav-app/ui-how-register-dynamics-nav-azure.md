@@ -10,11 +10,11 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 225773f7f686dd6e9a79f759d520d66f7e7b9d0a
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: d41b96ab5807402a342991d5c5bc2d672db09e2f
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-register-dynamics-nav-in-the-azure-management-portal"></a>Registrere Dynamics NAV i Azure-administrasjonsportalen
@@ -24,17 +24,16 @@ Du kan bruke veiledningen **Konfigurer Azure-administrasjonsportalen** for å re
 
 Poenget med registreringen er at Dynamics NAV og tjenesten som du vil koble til, må du ha kjenne til Azure AD-detaljene (Azure Active Directory) om hverandre.
 
-## <a name="to-register-dynamics-nav-in-the-azure-management-portal"></a>Slik registrerer du Dynamics NAV i Azure-administrasjonsportalen
-1. Logg på Azure-administrasjonsportalen på [https://portal.azure.com](https://portal.azure.com).
-    Hvis du ikke er kjent med Azure-administrasjonsportalen, finner du veiledning i [Azure-dokumentasjonsbiblioteket](https://azure.microsoft.com/en-us/documentation/articles).
+## <a name="to-register-dynamics-nav-in-the-azure-management-portal"></a>Registrere Dynamics NAV i Azure-administrasjonsportalen
+1. Logge på Azure-administrasjonsportalen på [https://portal.azure.com](https://portal.azure.com). Hvis du ikke kjenner Azure-administrasjonsportalen, kan du finne hjelp i vinduet [Azure dokumentasjonen library ](https://azure.microsoft.com/en-us/documentation/articles).
 2. I den venstre navigasjonsruten velger du **Flere tjenester**, og deretter velger du **Appregistreringer**.
 3. I den øverste menyen velger du **Legg til**, og deretter fyller du ut feltene i **Opprett rute** med følgende informasjon:
-    - **Navn**: Angi et navn for Dynamics NAV-løsning, for eksempel *Dynamics NAV*.
+    - **Navn**: Angi et navn for Dynamics NAV-løsningen, for eksempel *Dynamics NAV*.
     - **Programtypen**: Velg **Nettapp*/API**.
-    - **URL-adresse for pålogging**: Skriv inn URL-adressen for Dynamics NAV-nettleserklienten, for eksempel *https://MinServer:8080/DynamicsNAV/WebClient/OAuthLanding.htm*.
+    - **URL-adresse for pålogging**: Skriv inn URL-adressen for Dynamics NAV-nettleserklienten, for eksempel *https://MyServer:8080/DynamicsNAV/WebClient/OAuthLanding.htm*.
         OAuthLanding.htm-fil er en fil som hjelper deg med å administrere utveksling av data mellom Dynamics NAV og andre tjenester via Azure AD.
 4. Velg **Opprett**-knappen.
-    Dette legger Dynamics NAV til i **Appregistrering**-ruten, så du kan nå legge til innstillinger i den.
+    Dette legger Dynamics NAV til i **Appregistrering-ruten**, så du kan nå legge til innstillinger i den.
 5. I **Appregistrering**-listen velger du den nye appen. Hvis dette ikke åpner **Innstillinger**-ruten, vil du se en handling for å åpne **Innstillinger**.
 6. I **Innstillinger**-ruten i delen **API-tilgang**, velger du **Nøkler**.
 7. I **Nøkler**-ruten angir du en beskrivelse og når du vil la nøkkelen utløpe, og velg deretter **Lagre**.
@@ -47,7 +46,7 @@ Poenget med registreringen er at Dynamics NAV og tjenesten som du vil koble til,
 
 Du har nå registrert Dynamics NAV i Azure-administrasjonsportalen, du har gitt tilgang til relevante tjenester, og du har trukket ut informasjonen du trenger i Dynamics NAV.  
 
-## <a name="to-add-the-information-to-dynamics-nav"></a>Slik legger du til informasjonen i Dynamics NAV
+## <a name="to-add-the-information-to-dynamics-nav"></a>Hvis du vil legge til informasjonen om Dynamics NAV
 1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Veiviser for installasjon av Azure AD-app** og velger deretter den relaterte koblingen.
 2. Velg **Neste** i veiviseren.
 3. I **Klient-ID**-feltet angir du hvilket innhold du kopierte fra **applikasjons-ID**-feltet tidligere.

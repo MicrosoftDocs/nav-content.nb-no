@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Development Environment
+Utviklingsmiljø for Microsoft Dynamics NAV

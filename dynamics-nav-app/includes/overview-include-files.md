@@ -11,11 +11,11 @@ ms.prod: dynamics-nav-2017
 ms.assetid: 0745a889-d9ba-4023-a4a8-dba74097ddd0
 caps.latest.revision: 15
 manager: edupont
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: de7a6d3d4e50e03bc48041b71b9573d0027bee56
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: a5f30fe205b2f7fc591a799b4a06c28568a97ac3
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -28,14 +28,14 @@ Denne tabellen inneholder INCLUDE-uttrykk som er knyttet til innholdet i Inklude
 |`[!INCLUDE[bn_windows_md](includes/bn_windows_md.md)]`|Hvis du vil se emnene for vinduet i denne delen, velger du underoppføringene i innholdsfortegnelsen.|
 |`[!INCLUDE[bp_fieldnoneditable_md](includes/bp_fieldnoneditable_md.md)]`|Du kan ikke endre innholdet i dette feltet.|
 |`[!INCLUDE[bp_supcli_head_md](includes/bp_supcli_head_md.md)]`|Støttede visningsmål|
-|`[!INCLUDE[bp_supcli_rtc_md](includes/bp_supcli_rtc_md.md)]`|Bare Microsoft Dynamics NAV Windows-klient|
+|`[!INCLUDE[bp_supcli_rtc_md](includes/bp_supcli_rtc_md.md)]`|Bare Windows-klient for Microsoft Dynamics NAV|
 |`[!INCLUDE[bp_tabledescription_md](includes/bp_tabledescription_md.md)]`|Description| 
 |`[!INCLUDE[bp_tablefield_md](includes/bp_tablefield_md.md)]`|Felt|
 |`[!INCLUDE[bp_tableoption_md](includes/bp_tableoption_md.md)]`|Alternativ|
 |`[!INCLUDE[bp_windownoneditable_md](includes/bp_windownoneditable_md.md)]`|Du kan ikke endre innholdet i dette vinduet.|
 |`[!INCLUDE[crm_md](includes/crm_md.md)]`|Microsoft Dynamics CRM|
-|`[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]`|Dynamics 365 for Financials|
-|`[!INCLUDE[d365fin_md](includes/d365fin_md.md)]`|Financials|
+|`[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]`|Dynamics NAV|
+|`[!INCLUDE[d365fin_md](includes/d365fin_md.md)]`|Dynamics NAV|
 |`[!INCLUDE[demo_md](includes/demo_md.md)]`|CRONUS|
 |`[!INCLUDE[demolong_md](includes/demolong_md.md)]`|Eksempeldatabasen CRONUS Danmark A/S|
 |`[!INCLUDE[demolonglight_md](includes/demolonglight_md.md)]`|CRONUS-demonstrasjonsdatabase|
@@ -45,24 +45,24 @@ Denne tabellen inneholder INCLUDE-uttrykk som er knyttet til innholdet i Inklude
 |`[!INCLUDE[nav_5_md](includes/nav_5_md.md)]`|Microsoft Dynamics NAV 5.0|
 |`[!INCLUDE[nav_2009_long_md](includes/nav_2009_long_md.md)]`|Microsoft Dynamics NAV 2009|
 |`[!INCLUDE[nav_2009_short_md](includes/nav_2009_short_md.md)]`|Microsoft Dynamics NAV|
-|`[!INCLUDE[nav_admin_md](includes/nav_admin_md.md)]`|Microsoft Dynamics NAV Server Administrasjonsverktøy|
+|`[!INCLUDE[nav_admin_md](includes/nav_admin_md.md)]`|Administrasjonsverktøy for Microsoft Dynamics NAV Server|
 |`[!INCLUDE[nav_current_long_md](includes/nav_current_long_md.md)]`|Microsoft Dynamics NAV 2013|
 |`[!INCLUDE[nav_current_short_md](includes/nav_current_short_md.md)]`|Microsoft Dynamics NAV|
-|`[!INCLUDE[nav_dev_long_md](includes/nav_dev_long_md.md)]`|Microsoft Dynamics NAV Development Environment|
+|`[!INCLUDE[nav_dev_long_md](includes/nav_dev_long_md.md)]`|Utviklingsmiljø for Microsoft Dynamics NAV|
 |`[!INCLUDE[nav_dev_shell_md](includes/nav_dev_shell_md.md)]`|Utviklingsskall for Microsoft Dynamics NAV 2017|
 |`[!INCLUDE[nav_dev_short_md](includes/nav_dev_short_md.md)]`|utviklingsmiljø|
-|`[!INCLUDE[nav_phone_md](includes/nav_phone_md.md)]`|Microsoft Dynamics NAV-telefonklient|
+|`[!INCLUDE[nav_phone_md](includes/nav_phone_md.md)]`|Telefonklient for Microsoft Dynamics NAV|
 |`[!INCLUDE[nav_prov_long_md](includes/nav_prov_long_md.md)]`|Microsoft Dynamics NAV Provisioning Tools for Microsoft Azure|
 |`[!INCLUDE[nav_prov_short_md](includes/nav_prov_short_md.md)]`|klargjøringsverktøy|
 |`[!INCLUDE[nav_server_instance_md](includes/nav_server_instance_md.md)]`|DynamicsNAV100|
 |`[!INCLUDE[nav_server_md](includes/nav_server_md.md)]`|Microsoft Dynamics NAV Server|
-|`[!INCLUDE[nav_setup_md](includes/nav_setup_md.md)]`|Installasjon av Microsoft Dynamics NAV 2017|
+|`[!INCLUDE[nav_setup_md](includes/nav_setup_md.md)]`|Installasjonsprogram for Microsoft Dynamics NAV 2017|
 |`[!INCLUDE[nav_shell_md](includes/nav_shell_md.md)]`|Administrasjonsskall for Microsoft Dynamics NAV 2017|
-|`[!INCLUDE[nav_tablet_md](includes/nav_tablet_md.md)]`|Microsoft Dynamics NAV Tablet-klient|
+|`[!INCLUDE[nav_tablet_md](includes/nav_tablet_md.md)]`|Nettbrettklient for Microsoft Dynamics NAV|
 |`[!INCLUDE[nav_uni_app_md](includes/nav_uni_app_md.md)]`|Microsoft Dynamics NAV-universalapp|
-|`[!INCLUDE[nav_web_md](includes/nav_web_md.md)]`|Microsoft Dynamics NAV webklient|
-|`[!INCLUDE[nav_web_server_md](includes/nav_web_server_md.md)]`|Microsoft Dynamics NAV webserverkomponenter|
-|`[!INCLUDE[nav_windows_md](includes/nav_windows_md.md)]`|Microsoft Dynamics NAV Windows-klient|
+|`[!INCLUDE[nav_web_md](includes/nav_web_md.md)]`|Webklient for Microsoft Dynamics NAV|
+|`[!INCLUDE[nav_web_server_md](includes/nav_web_server_md.md)]`|Webserverkomponenter for Microsoft Dynamics NAV|
+|`[!INCLUDE[nav_windows_md](includes/nav_windows_md.md)]`|RapidStart-tjenester for Microsoft Dynamics NAV|
 |`[!INCLUDE[nav7long_md](includes/nav7long_md.md)]`|Microsoft Dynamics NAV 2013|
 |`[!INCLUDE[nav2009_md](includes/nav2009_md.md)]`|Microsoft Dynamics NAV 2009|
 |`[!INCLUDE[nav2009r2_md](includes/nav2009r2_md.md)]`|Microsoft Dynamics NAV 2009 R2|

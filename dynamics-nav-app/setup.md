@@ -1,39 +1,61 @@
 ---
-title: Konfigurere Dynamics NAV
-author: SorenGP
-ms.custom: na
-ms.date: 09/23/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+title: "Oversikt over oppgaver for å definere Dynamics NAV"
+description: "Gir en oversikt over oppgaver for å definere, initialisere og konfigurere Dynamics NAV etter behov."
+author: edupont04
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7facfd820a6a555ccf57ef04fd7207939238f3ae
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: configure, initialize
+ms.date: 09/01/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 6426940765b8de876957d5a9d50998dc7615a19d
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="setting-up-dynamics-nav"></a>Konfigurere Dynamics NAV
+[!INCLUDE[d365fin](includes/d365fin_md.md)] inneholder standardkonfigurasjoner for de fleste forretningsprosesser, men du kan endre konfigurasjonen slik at den passer til behovene for bedriften.
 
-# <a name="set-up-your-dynamics-nav"></a>Konfigurere Dynamics NAV
-Dynamics NAV inneholder en standardkonfigurasjon for de fleste forretningsprosesser, men du kan endre konfigurasjonen slik at den passer til behovene for din virksomhet.
-På Hjem-siden har du tilgang til assisterte oppsettsveiledninger som hjelper deg med å konfigurere enkelte scenarioer. Hvis du vil ha mer informasjon, kan du se [Velkommen til Dynamics NAV](across-get-started.md).  
+Kontoplanen er for eksempel forhåndsutfylt med en rekke posteringskontoer som er klar til bruk. Du kan selvsagt endre kontoplanen til dine behov. Hvis du vil ha mer informasjon, kan du se [Finans](finance.md).
 
-Tabellen nedenfor beskriver en sekvens av oppgaver, og har koblinger til emnene som beskriver dem.
+På Hjem-siden har du tilgang til assisterte oppsettsveiledninger som hjelper deg med å konfigurere enkelte scenarioer og legger til funksjoner i [!INCLUDE[d365fin](includes/d365fin_md.md)]. Hvis du vil ha informasjon om hvordan du får tilgang til definerer vinduer manuelt, kan du se [Bli klar til å gjøre forretninger](ui-get-ready-business.md).
 
-| Hvis du vil                                                                  | Se                      |
-|---------------------------------------------------------------------|--------------------------|
-|Definere kjerneprosesser for økonomi|[Finans](finance-setup-setup-finance-setup.md)|
-|Definere bankvesen.|[Definere bankvesen](bank-setup-banking.md)|
-|Definere salgsprosesser.|[Definere salg](sales-setup-sales.md)|
-|Definere kjøpsprosesser.|[Definere kjøp](purchasing-setup-purchasing.md)|
-|Installere utvidelser.|[Tilpasse Dynamics NAV ved hjelp av utvidelser](ui-extensions.md)|
-|Få tilgang til Azure-tjenester ved å registrere Dynamics NAV|[Registrere Dynamics NAV i Azure-administrasjonsportalen](ui-how-register-dynamics-nav-azure.md)|
+Noe funksjonalitet, både generelle eller for bestemte forretningsprosesser, kan defineres manuelt i tillegg til det assistert oppsettet. Nedenfor vises noen av funksjonaliteten som du kan du kan angi manuelt.
 
-##<a name="see-also"></a>Se også
-[Finans](finance-setup.md)  
+| Hvis du vil | Se |
+| --- | --- |
+| Sett opp betalingsmåter, valutaer og kontoplanen, og definer regler og standarder for håndtering av finanstransaksjoner. |[Konfigurere finans](finance-setup-finance.md) |
+| Sett opp din egen og leverandørenes bank kontoer og aktivere tjenester for import og eksport av bankfilene. |[Konfigurere banktjenester](bank-setup-banking.md) |
+| Konfigurere regler og verdier som definerer selskapets policyer for salg, registrere nye kunder og definere hvordan du kommuniserer med kundene. |[Sette opp salg](sales-setup-sales.md) |
+| Konfigurere regler og verdier som definerer selskapets innkjøpspolicyer, registrere nye leverandører og prioritere leverandørene for betalingsbehandling. |[Definere kjøp](purchasing-setup-purchasing.md) |
+| Konfigurere regler og verdier som definerer firmaets lager, sette opp steder Hvis du beholder lager i flere lagre og kategorisere elementer for å forbedre søk og sortering. |[Definere lager](inventory-setup-inventory.md) |
+| Konfigurer ressurser, timelister og jobber til å administrere prosjekter. |[Konfigurere prosjektstyring](projects-setup-projects.md) |
+| Konfigurere hvordan du forsikrer, vedlikeholder og avskrivner aktiva, og hvordan du registrerer kostnadene for aktiva i bedriftsbøkene. |[Definere aktiva](fa-setup.md) |
+|Definere generelle regler og verdier for lagerprosesser og den spesifikke håndteringen på hver lokasjon.|[Definere lagerstyring](warehouse-setup-warehouse.md)|
+|Klargjør produksjonsstykklister og ruter til å definere hvordan sluttvarer produseres, og klargjør produksjonsressurser eller arbeidssentre til å utføre de nødvendige operasjonene.|[Definere produksjon](production-configure-production-processes.md)|
+| Definer unike identifikasjonskodene for poster, for eksempel kort, bilag og kladdelinjer, til å spore dem i systemet. |[Opprette nummerserier](ui-create-number-series.md) |
+| Sett opp vinduet **Oppsett for SMTP-e-post** for å sende og motta e-postmeldinger fra dokumenter i [!INCLUDE[d365fin](includes/d365fin_md.md)]. |[Konfigurere e-post](madeira-how-setup-email.md) |
+| Definer unike identifikasjonskoder. |[Opprette nummerserier](ui-create-number-series.md) |
+
+Noen områder krever at du er administrator i [!INCLUDE[d365fin](includes/d365fin_md.md)]-abonnement. Hvis du vil ha mer informasjon, se [Oppsett og administrasjon i Dynamics NAV](admin-setup-and-administration.md).  
+
+## <a name="see-also"></a>Se også
+[Finans](finance.md)  
 [Salg](sales-manage-sales.md)  
-[Kjøp](purchasing-manage-purchasing.md)  
-[Velkommen til Dynamics NAV](across-get-started.md)  
+[Innkjøp](purchasing-manage-purchasing.md)  
+[Lager](inventory-manage-inventory.md)    
+[Prosjektstyring](projects-manage-projects.md)  
+[Anleggsmidler](fa-manage.md)    
+[Monteringsstyring](assembly-assemble-items.md)  
+[Produksjon](production-manage-manufacturing.md)  
+[Lagerstyring](warehouse-manage-warehouse.md)  
+[Arbeide med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Oppsett og administrasjon i [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
+[Velkommen til [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
+
+##
 

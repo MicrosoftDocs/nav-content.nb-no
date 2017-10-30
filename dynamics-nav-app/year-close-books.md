@@ -1,21 +1,24 @@
 ---
-title: "Lukk bøker"
+title: "Oversikt over oppgavene for lukking av tablåer"
+description: "Finn ut hvordan du lukker tablåene for et regnskapsår eller en regnskapsperiode, og hva som skjer etter at du har lukket ved utgangen av året."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ad75bfd18936df07e0fe9dcc5ed6bb94360ea965
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
+ms.date: 03/29/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d709f8bfb5da3a0ebf5b44f3246fa3ccaa69c77f
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="close-books"></a>Lukk bøker
+# <a name="closing-the-books"></a>Lukke tablåene
 Når du har kontrollert at alle kontiene er oppdatert og har fordelt kost og inntekt, kan du lukke tablåene for et regnskapsår eller en periode.
 
 Du trenger ikke å avslutte et år, men hvis du gjør det, blir det enklere å arbeide i systemet, ettersom du kan dra nytte av de gode filtreringsalternativene. Du trenger heller ikke å bekymre deg om å miste detaljer i transaksjoner når du avslutter, ettersom alle detaljer beholdes, selv etter at du har avsluttet året.
@@ -25,14 +28,12 @@ Prosessen for å avslutte tablået omfatter disse hovedoppgaver:
 
 1. Avslutte regnskapsperioden.
 
-    Et regnskapsår er definert som én eller flere åpne perioder, som definert på siden **Regnskapsperioder**. Et vanlig regnskapsår består av 12 perioder på én måned hver, men du kan også velge en annen metode for å definere et år.
+    Et regnskapsår er definert som én eller flere åpne perioder, som definert i **Regnskapsperioder**-vinduet. Et vanlig regnskapsår består av 12 perioder på én måned hver, men du kan også velge en annen metode for å definere et år.
 
     Hvis du vil ha mer informasjon, kan du se [Avslutte regnskapsperioder](year-close-account-periods.md).
-
 2. Registrere etterposter.
 
     Når du lukker et regnskapsår, må du angi flere administrative transaksjoner (for eksempel forhåndsbetalte og påløpte varer). Disse transaksjonene kalles justeringsposter. Det finnes ingen spesielle regler for bokføring av disse postene, og de (som andre poster) har en avmerking i **Etterpost**-feltet hvis de ble bokført på en dato i et lukket regnskapsår. Selv om et regnskapsår er avsluttet, kan du bokføre finansposter i det.
-
 3. Overføre saldi fra resultatregnskapskontiene til balansen.
 
     Når et regnskapsår er lukket og alle etterposter er bokført, må resultatregnskapskontiene lukkes og nettoinntekten for året overføres til en konto under eiernes egenkapital i balansen. Bruk kjørselen Lukk resultatregnskapet til dette formålet. Kjørselen behandler alle finanskonti av typen Resultatregnskap og oppretter poster som tilbakefører saldiene. Disse postene er plassert i en kladd de kan bokføres fra. Kjørselen bokfører dem ikke automatisk, med unntak av når en tilleggsrapporteringsvaluta brukes. Når en tilleggsrapporteringsvaluta brukes, bokfører kjørselen direkte mot Finans.
@@ -52,5 +53,6 @@ Deretter genereres det en avslutningspost, men den bokføres ikke automatisk. Du
 Du kan bokføre i et tidligere regnskapsår, selv etter at resultatkontoene er avsluttet, hvis du kjører kjørselen Lukk resultatregnskapet på nytt etterpå.
 
 ## <a name="see-also"></a>Se også
-[Åpne et nytt regnskapsår](finance-setup-how-open-new-fiscal-year.md)
+[Åpne et nytt regnskapsår](finance-how-open-new-fiscal-year.md)  
+[Arbeide med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

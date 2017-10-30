@@ -1,25 +1,28 @@
 ---
-title: Opprette segmenter
+title: Opprette segmenter.
+description: "Beskriver hvordan du oppretter et segment for eksempel for en gruppe med kontakter i Dynamics NAV, for å sende direktereklame til flere kontakter."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 62b9e2c54e7229e9c9e8fdd51f56ee874b34ab40
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 930f03d18612cd161137c92121e91b91aa1a21ac
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-create-segments"></a>Opprette segmenter
 Du kan opprette segmenter for å velge en gruppe kontakter, hvis du for eksempel vil opprette en samhandling med flere kontakter, blant annet utsendinger.
 
 ## <a name="to-create-a-segment"></a>Slik oppretter du et segment
-1. Velg **Aktive segmenter** på Hjem-siden. Du kan også gå til øvre høyre hjørne og velge ikonet **Søk etter side eller rapport**, angi **Segmenter** og deretter velge den relaterte koblingen.
+1. Velg **Aktive segmenter** på Hjem-siden. Eller velg ikonet ![Søk etter side eller rapport](media/ui-search/search_small.png "Søk etter side eller rapport"), angi **Segmenter**, og velg deretter den relaterte koblingen.
 2. Velg handlingen **Ny**.
 3. I inndelingen **Generelt**, i **Nr.** -feltet, angir du et nummer på segmentet.
 
@@ -28,7 +31,8 @@ Du kan opprette segmenter for å velge en gruppe kontakter, hvis du for eksempel
 
 Nå kan du legge til koblinger i segmentet. Hvis du vil ha mer informasjon, kan du se [Legge til kontakter i segmenter](marketing-add-contact-segment.md).
 
-##<a name="see-also"></a>Se også
+## <a name="see-also"></a>Se også
 [Håndtere segmenter](marketing-segments.md)  
 [Håndtere salgsmuligheter](marketing-manage-sales-opportunities.md)  
+[Arbeide med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

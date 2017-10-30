@@ -1,41 +1,44 @@
 ---
-title: Definere salg
+title: "Oversikt over oppgaver for å konfigurere salgsprosesser"
+description: "Gir en oversikt over oppgaver for å definere regler og verdier som definerer salgsprinsipper og -prosesser."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a02a3c4dd4586925412fd4cdc451a9c57842f839
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: trade, sell, configure
+ms.date: 08/23/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 300f281cc409e08a253f060e97bb9a80340176bf
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="set-up-sales"></a>Definere salg
-
+# <a name="setting-up-sales"></a>Sette opp salg
 Før du kan håndtere salgsprosesser, må du konfigurere regler og verdier som definerer selskapets salgsprinsipper.
 
-Først må du definere det generelle oppsettet, for eksempel hvilke salgsdokumenter som kreves, og hvordan dokumentenes verdier skal bokføres. Dette generelle oppsettet foretas vanligvis én gang under den første implementeringen.
+Du må definere det generelle oppsettet, for eksempel hvilke salgsdokumenter som kreves, og hvordan dokumentenes verdier skal bokføres. Dette generelle oppsettet foretas vanligvis én gang under den første implementeringen.
 
-En egen rekke oppgaver relatert til oppretting av hoveddata for kunder består i å registrere kundenes rabatt- og prisavtaler i vinduer som er tilknyttet kundekortene.
+En egen rekke oppgaver relatert til registrering av nye kunder er å registrere alle spesialpris eller rabattavtaler som du har med hver kunde.
 
-Den periodiske aktiviteten for å opprette kundekort for nye kunder beskrives i avsnittet Håndtere salg. Hvis du vil ha mer informasjon, kan du se [Registrere nye kunder](sales-how-register-new-customers.md).
+Finansrelatert salgsoppsett, for eksempel betalingsmåte og valutaer, beskrives i avsnittet Finansoppsett. Hvis du vil ha mer informasjon, kan du se [Konfigurere finans](finance-setup-finance.md).
 
-Finansrelatert salgsoppsett, for eksempel betalingsmåte og valutaer, beskrives i avsnittet Finansoppsett. Hvis du vil ha mer informasjon, kan du se [Konfigurere finans](finance-setup-setup-finance-setup.md).
+| Hvis du vil | Se |
+| --- | --- |
+| Opprett et kundekort for hver kunde du selger til. |[Registrere nye kunder](sales-how-register-new-customers.md) |
+| Lar kunder betale via PayPal ved å velge PayPal-logoen på salgsdokumenter. |[Aktiver kundebetalinger gjennom PayPal](sales-how-enable-payment-service-extensions.md) |
+| Angi ulike rabatter og spesialpriser som du gir kundene, avhengig av vare, antall og/eller dato. |[Registrere avtaler om salgspris, rabatt og betaling](sales-how-record-sales-price-discount-payment-agreements.md) |
+| Definere selgere, slik at du kan tilordne dem til kundekontakter eller måle selgernes prestasjoner som et grunnlag for beregning av salgsprovisjon eller bonus. |[Definere selgere](sales-how-setup-salespeople.md) |
+| Angi for hver enkelt kunde eller for alle kunder hvordan salgsdokumenter sendes som standard når du velger **Konter og send**-handlingen. |[Definere en profil for dokumentsending](sales-how-setup-document-send-profiles.md) |
+| Angi at e-post skal inneholde et sammendrag av informasjonen i salgsdokumentet som sendes. |[Sende dokumenter i e-post](ui-how-send-documents-email.md). |
+|Bruke en EU-webtjeneste for å bekrefte kundens organisasjonsnummer.|[Bekrefte organisasjonsnumre](sales-how-to-verify-vat-registration-numbers.md)|
+|Angi informasjon om de ulike transportørene du benytter, inkludert en kobling til pakkesporingstjenesten.|[Definere transportører](sales-how-to-set-up-shipping-agents.md)|
 
-|Hvis du vil |Se |
-|---|----|
-|Lar kunder betale via PayPal ved å velge PayPal-logoen på salgsdokumenter.|[Aktiver kundebetalinger gjennom PayPal](sales-how-enable-customer-payments-paypal.md)|
-|Angi ulike rabatter og alternative priser som du gir kunden, avhengig av vare, antall og/eller dato.|[Registrere avtaler om salgspris, rabatt og betaling](sales-how-record-sales-price-discount-payment-agreements.md)|
-|Definere selgere, slik at du kan tilordne dem til kundekontakter eller måle selgernes prestasjoner som et grunnlag for beregning av salgsprovisjon eller bonus.|[Definere selgere](sales-how-setup-salespeople.md)|
-|Angi for hver enkelt kunde eller for alle kunder hvordan salgsdokumenter sendes som standard når du velger **Konter og send**-handlingen.|[Definere en profil for dokumentsending](sales-how-setup-document-send-profiles.md)|
-|Angi at e-post skal inneholde et sammendrag av informasjonen i salgsdokumentet som sendes.|[Sende dokumenter i e-post](ui-how-send-documents-email.md).|
-
-## <a name="see-also"></a>Se også  
-[Håndtere salg](sales-manage-sales.md)
+## <a name="see-also"></a>Se også
+[Salg](sales-manage-sales.md)  
+[Arbeide med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

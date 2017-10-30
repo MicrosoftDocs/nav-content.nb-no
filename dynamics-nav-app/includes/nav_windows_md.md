@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Windows-klient
+RapidStart-tjenester for Microsoft Dynamics NAV

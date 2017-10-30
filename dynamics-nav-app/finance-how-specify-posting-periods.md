@@ -1,35 +1,37 @@
 ---
 title: "Angi bokføringsperioder"
+description: "Du angir start- og sluttdatoer for bokføring for å definere når brukere kan bokføre i Finans."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+manager: edupont
+editor: 
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7a332fa1e463b0c5c44c256d5d57803d6d1f48fe
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: user setup
+ms.date: 06/02/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f5b0f52ecf52329471f33a7533165cb86a54267f
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-specify-posting-periods"></a>Angi bokføringsperioder
-Når du spesifiserer bokføringsperioder, begrenser du perioden det er tillatt å bokføre i.
+Bruk bokføringsperioder til å angi når brukere kan postere til finans.  
 
 ## <a name="to-specify-posting-periods"></a>Slik angir du bokføringsperioder
-1. I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Finansoppsett** og velger deretter den relaterte koblingen.
-2. I vinduet **Finansoppsett** angir du en dato i feltet **Bokf. tillatt fra** for å angi begynnelsen av perioden.
-3. Angi en dato feltet **Bokf. tillatt til** for å angi slutten på perioden.
+1. Velg ikonet ![Søk etter side eller rapport](media/ui-search/search_small.png "Søk etter side eller rapport"), angi **Finansoppsett**, og velg deretter den relaterte koblingen.  
+2. I vinduet **Finansoppsett** definerer du perioden ved å angi datoer i feltene **Bokf. tillatt fra** og **Bokf. tillatt til**.  
 
-Datoene du angir her, gjelder selskapet og alle brukere.
-
-**Merk**: Hvis du vil definere forskjellige bokføringsperioder for forskjellige brukere, kan du definere perioder for hver bruker i **Brukeroppsett**-vinduet. Hvis du angir datoer i vinduet **Brukeroppsett**, vil ikke datoene som er angitt i vinduet **Finansoppsett**, gjelde for disse brukerne.
-
+> [!NOTE]  
+>   Disse bokføringsperiodene gjelder for selskapet og for alle brukere. For å tillate unntak kan du definere forskjellige bokføringsperioder for bestemte brukere i vinduet **Brukeroppsett**. Disse bokføringsperiodene overstyrer innstillingene angitt i **Finansoppsett**-vinduet. Hvis du vil ha mer informasjon, kan du se delen «Slik definerer du tidsbegrensninger for brukere» i [Administrere brukere og tillatelser](ui-how-users-permissions.md).
 
 ## <a name="see-also"></a>Se også
-[Finans](finance-setup.md)  
-[Fullføre prosesser ved periodens slutt](year-how-complete-period-end-processes.md)
+[Finans](finance.md)  
+[Fullføre prosesser ved periodens slutt](year-how-complete-period-end-processes.md)  
+[Arbeide med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

@@ -1,36 +1,38 @@
 ---
-title: "Håndtere salgsmuligheter"
+title: "Håndtere salgsmuligheter og interessenter"
+description: "Beskriver håndtering av innkommende interessenter eller salgsmuligheter i Dynamics NAV og tilknytningen av salgsmuligheten til en selger for å holde rede på potensielt salg."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: d5190546b3a403310ac76830aadbc2dbd14b5d00
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 92b20d0ef49e3ed5d10ec218c62463a29c5163ea
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="manage-sales-opportunities"></a>Håndtere salgsmuligheter
+# <a name="managing-sales-opportunities"></a>Håndtere salgsmuligheter
 Enhver innkommende interessent kan regnes som en salgsmulighet. Du kan opprette muligheter og tildele dem til en selger, slik at du kan holde oversikt over potensielt salg.
 
 Før du kan begynne å bruke administrasjon av muligheter, må du definere salgssykluser og salgssyklusfaser. Når du oppretter en salgsmulighet, bør du legge inn informasjon om kontakt, selger, salgssyklus og datoer, i tillegg til estimatene for salgsverdien for muligheten og sannsynligheten for at den blir vellykket.
 
-Tabellen nedenfor beskriver en oppgavesekvens med koblinger til emnene de beskrives i. Disse oppgavene vises i rekkefølgen de vanligvis utføres i.
+Tabellen nedenfor beskriver en sekvens av oppgaver, og har koblinger til emnene som beskriver dem. 
 
-|Hvis du vil |Se |
-|---|-----|
-|Konfigurer salgssyklusene du vanligvis følger, og de ulike fasene i hver enkelt salgssyklus for salgsmulighet.|[Definere salgssykluser for salgsmuligheter og syklusfaser](marketing-how-setup-opportunity-sales-cycles-stages.md)|
-|Opprette salgsmuligheter fra kontaktene.|[Opprette salgsmuligheter](marketing-how-create-opportunities.md)|
-|Flytte en salgsmulighet gjennom salgssyklusen til fullføring|[Behandle salgsmuligheter](marketing-processing-sales-opportunities.md)|
+| Til | Se |
+| --- | --- |
+| Konfigurer salgssyklusene du vanligvis følger, og de ulike fasene i hver enkelt salgssyklus for salgsmulighet. |[Definere salgssykluser for salgsmuligheter og syklusfaser](marketing-how-setup-opportunity-sales-cycles-stages.md) |
+| Opprette salgsmuligheter fra kontaktene. |[Opprette salgsmuligheter](marketing-how-create-opportunities.md) |
+| Flytt en salgsmulighet gjennom salgssyklusen til fullføring. |[Behandle salgsmuligheter](marketing-processing-sales-opportunities.md) |
 
-
-##<a name="see-also"></a>Se også  
-[Håndtere salg](sales-manage-sales.md)  
+## <a name="see-also"></a>Se også
+[Salg](sales-manage-sales.md)  
 [Opprette og administrere kontakter](marketing-contacts.md)  
-[Arbeide med Dynamics NAV](ui-work-product.md)
+[Arbeide med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

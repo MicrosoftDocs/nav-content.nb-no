@@ -7,22 +7,22 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 647ebd5d4f47a367c86fc02057e28c514a433aec
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: cf4202c3b7186eb1dd4633f74d2d48664458455e
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
 # <a name="using-dynamics-nav-as-your-business-inbox-in-outlook"></a>Bruke Dynamics NAV som innboks for virksomheten i Outlook
 Dynamics NAV gjør det mulig å behandle forretningssamhandlinger med kunder og leverandører, direkte i Microsoft Outlook. Med Dynamics NAV-tillegget for Outlook kan du se økonomiske data relatert til kunder og leverandører, i tillegg til å opprette og sende økonomiske dokumenter, for eksempel tilbud og fakturaer.  
 
-Noen firmaer som bruker Office 365 begrenser brukernes tillatelse til å distribuere tillegg. Du må derfor passe på at du har et Office 365-abonnement som inkluderer e-post og som lar deg distribuere tillegg. Du kan registrere deg for en 1 måned gratis prøveversjon av Office 365 [her](https://products.office.com/try).  
+Enkelte selskaper som bruker Office 365, begrenser brukernes tillatelser til å distribuere tillegg. Så du må kontrollere at du har et Office 365-abonnement som inkluderer e-post og lar deg distribuere tillegg. Du kan registrere deg for en 1 måned gratis prøveversjon av Office 365 [her](https://products.office.com/try).  
 
 ## <a name="get-the-add-in"></a>Få tillegget
-I Dynamics NAV er en av de assisterte oppsettsveiledningene **Konfigurer Office-tillegg**. Veiledningen hjelper deg med å konfigurere en tilkobling mellom Office 365-kontoen og Dynamics NAV. Dynamics NAV-tillegget legges deretter automatisk til i Outlook.  
+I Dynamics NAV er én av de assisterte oppsettsveiledningene **Konfigurer Office-tillegg**. Veiledningen hjelper deg med å konfigurere en tilkobling mellom Office 365-kontoen og Dynamics NAV. Dynamics NAV-tillegget legges deretter automatisk til i Outlook.  
 
 Nye tillegget blir lagt til Outlook-båndet og i Outlook Web Access, og du kan se det i tilleggsbåndet, like over brødteksten i e-postmeldingen.  
 
@@ -44,7 +44,7 @@ I Dokumentkoblinger-tillegget kan du endre og utføre handlinger med dokumentet,
 
 ## <a name="see-also"></a>Se også
 [Velkommen til Dynamics NAV](across-get-started.md)  
-[Finans](finance-setup.md)  
+[Finans](finance.md)  
 [Håndtere salg](sales-manage-sales.md)  
 [Håndtere kjøp](purchasing-manage-purchasing.md)  
 

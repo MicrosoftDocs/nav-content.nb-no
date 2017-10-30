@@ -1,21 +1,24 @@
 ---
-title: Samhandlinger og segmenter
+title: "Holde rede på segmenter og relaterte samhandlinger"
+description: "Finn ut hvordan du oppretter segmenter for å definere grupper med kontakter og angi samhandlinger for segmenter."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: c66dff69fa31458e94f7de5fa4b524656141a5f6
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: b4fb4abfdfe69856d0e26e20d30f3adcaf2fd665
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="interactions-and-segments"></a>Samhandlinger og segmenter
+# <a name="managing-interactions-for-segments"></a>Administrere samhandlinger for segmenter
 Vinduet **Segment** er en type forslag der du kan:
 
 * Opprette segmenter.
@@ -40,12 +43,12 @@ Når du velger **Logg** i vinduet **Segment**, registrerer programmet samhandlin
 
 I vinduet **Loggførte segmenter** kan du avgjøre om du vil opprette et oppfølgingssegment som inneholder nøyaktig den samme kontakten som segmentet du har loggført.
 
-
-##<a name="see-also"></a>Se også
+## <a name="see-also"></a>Se også
 [Opprette segmenter](marketing-how-create-segment.md)  
 [Opprette samhandlinger for segmenter](marketing-how-create-interactions.md)  
 [Håndtere segmenter](marketing-segments.md)  
 [Registrere samhandlinger med kontakter](marketing-interactions.md)  
 [Håndtere salgsmuligheter](marketing-manage-sales-opportunities.md)  
-[Opprette og administrere kontakter](marketing-contacts.md)
+[Opprette og administrere kontakter](marketing-contacts.md)  
+[Arbeide med Dynamics NAV](ui-work-product.md)
 

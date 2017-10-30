@@ -1,45 +1,67 @@
 ---
-title: "Økonomimodulen og kontoplanen"
+title: Informasjon om Finans og kontoplan
+description: Beskriver Finans, kontoplanen og kontokategoriene.
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 9965ddcad214e97c5e4858824395d6f651b3c003
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: analysis, history, track
+ms.date: 06/02/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 348a1bcbe6908c7bfd84e99245363e733414aeae
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="the-general-ledger-and-the-chart-of-accounts"></a>Økonomimodulen og kontoplanen
-Økonomimodulen lagrer dine økonomiske data, og kontoplanen viser kontoene som alle finansposter bokføres til. Dynamics NAV inneholder en standard kontoplan som er klar til å støtte forretningsvirksomheten din.
+# <a name="understanding-the-general-ledger-and-the-coa"></a>Forstå Finans og kontoplanen
+Økonomimodulen lagrer dine økonomiske data, og kontoplanen viser kontoene som alle finansposter bokføres til. [!INCLUDE[d365fin](includes/d365fin_md.md)] inneholder en standard kontoplan som er klar til å støtte forretningsvirksomheten din.
 
 ## <a name="general-ledger-setup-and-general-posting-setup"></a>Finansoppsett og generelt bokføringsoppsett
-Økonomimodulen er kjernen av forretningsprosessene og konfigurasjonen av hvordan dataene posteres til økonomimodulen.
-I vinduet **Finansoppsett** angir du hvordan du håndterer bestemte regnskapssaker i firmaet. Dette inkluderer for eksempel detaljopplysninger om fakturaavrunding, adresseformater og om du vil bruke en tilleggsrapporteringsvaluta.
-I vinduet **Generelt bokføringsoppsett** angir du hvordan du vil definere kombinasjoner av firma- og varebokføringsgrupper. Fyll ut en linje for hver kombinasjon av firma- og varebokføringsgrupper.  
+Oppsettet av finans er i kjernen av økonomiske prosesser fordi den definerer hvordan du kan legge inn data.  
+
+I vinduet **Finansoppsett** angir du hvordan du håndterer bestemte regnskapssaker i firmaet, for eksempel:  
+
+* Detaljopplysninger om fakturaavrunding  
+* Adresseformater  
+* Finansrapportering  
+
+I vinduet **Generelt bokføringsoppsett** angir du hvordan du vil definere kombinasjoner av firma- og varebokføringsgrupper. Bokføringsgrupper tilordner enheter som kunder, leverandører, varer, ressurser og salgs- og kjøpsdokumenter til finanskonti. Fyll ut en linje for hver kombinasjon av firma- og varebokføringsgrupper. Hvis du vil ha mer informasjon, kan du se [Oppsett av bokføringsgrupper](finance-posting-groups.md)  
 
 ## <a name="the-chart-of-accounts"></a>Kontoplanen
-Kontoplanen viser alle kontoer. Herfra kan du åpne ulike rapporter som viser finansposter og saldoer, og du kan avslutte resultatregnskapet. For hver konto kan du åpne finanskortet og legge til eller endre innstillinger. Du kan også vise en liste over bokføringsgrupper som du posterer til kontoen.  
+Kontoplanen viser alle finanskontoer. Fra kontoplanen kan du gjøre ting som:  
 
-Dynamics NAV hindrer deg i å slette en finanskonto som lagrer data som er nødvendige i kontoplanen.  
+* Vise rapporter som viser finansposter og saldoer.  
+* Lukke resultatregnskapet.  
+* Åpne Finanskonto-kortet for å legge til eller endre innstillinger.  
+* Vise en liste over bokføringsgrupper som du posterer til kontoen.
+* Vise separate debet- og kreditsaldoer for én konto  
+
+Du kan legge til, endre eller slette finanskontoer. For å unngå avvik kan du imidlertid ikke slette en finanskonto hvis dataene fra den er brukt i kontoplanen.  
 
 ## <a name="account-categories"></a>Kontokategorier
-Med kontokategorier kan du tilordne finanskontoer til kategoriene som en personlig tilpasning av strukturen i kontoutskrifter.  
+Du kan tilpasse strukturen i kontoutskrifter ved å tilordne finanskontoer til kontokategorier.  
 
-Vinduet **Finanskontokategorier** viser eksisterende hovedkategorier og underkategorier og finanskonti som du har tilordnet hver kategori. Du kan opprette nye underkategorier og tilordne disse kategoriene til eksisterende kontoer.  
+Vinduet **Finanskontokategorier** viser dine kategorier og underkategorier og finanskonti som er tilordnet til dem. Du kan opprette nye underkategorier og tilordne disse kategoriene til eksisterende kontoer.  
 
-Du kan gruppere kontokategoriene ved å rykke inn individuelle underkategorier. Dette gjør det enkelt for deg å få en oversikt, fordi hver gruppering viser den totale saldoen. Du kan for eksempel opprette underkategorier for ulike typer aktiva, og deretter opprette kategorigrupper for anleggsmidler kontra omløpsmidler. Du kan opprette en kategorigruppe ved å rykke inn andre underkategorier under en linje i vinduet **Finanskontokategorier**.  
+Du kan opprette en kategorigruppe ved å rykke inn andre underkategorier under en linje i vinduet **Finanskontokategorier**. Dette gjør det enkelt for deg å få en oversikt, fordi hver gruppering viser den totale saldoen. Du kan opprette underkategorier for ulike typer aktiva, og deretter opprette kategorigrupper for aktiva kontra omløpsmidler.  
 
-For hver underkategori kan du angi om kontoer i denne kategorien skal inkluderes i bestemte typer finansrapporter. Kontokategoriene bidra til å definere oppsettet for regnskapsoppgjør. Standard saldoutdrag har for eksempel én enkelt oppføring for kontanter under aktiva. Hvis du vil at saldoutdraget skal ha underoppføringene for håndkasse og sjekkontoen, kan du legge til to nye underkategorier, angi rapportdefinisjonen Kontantkontoer for hver av dem, og rykker dem inn under underkategorien Kontanter. Når du har generert kontokontoskjemaer basert på endringene, vil det neste utdraget deretter vise en total saldo for kontanter og to linjer med saldoer for håndkasse og sjekkontoen.     
+Du kan angi om kontoene i hver underkategori må inkluderes i bestemte typer rapporter. Kontokategoriene bidra til å definere oppsettet for regnskapsoppgjør.  
 
-##<a name="see-also"></a>Se også
-[Finans](finance-setup.md)  
-[Definere eller endre kontoplanen](finance-setup-setup-chart-accounts.md)  
-[Kontoskjemaer](finance-setup-account-schedule.md)  
+Standard saldoutdrag har for eksempel en underkategori for kontanter under gjeldende aktiva. Hvis du vil at saldoutdraget skal ta hensyn til håndkasse og sjekker, kan du:  
+
+1. Legge til to nye underkategorier. Én for håndkassen og én for sjekkontoen.  
+2. Angi den ekstra rapportdefinisjonen **Kontantkontoer** for disse underkategoriene.  
+3. Rykk inn dem under **Kontanter**-underkategori.  
+
+Neste gang du genererer kontoskjemaer, vil utdraget vise en total saldo for kontanter og to linjer med saldoer for håndkasse og sjekkontoen.  
+
+## <a name="see-also"></a>Se også
+[Finans](finance.md)  
+[Definere eller endre kontoplanen](finance-setup-chart-accounts.md)  
+[Forretningsintelligens](bi.md)  
 

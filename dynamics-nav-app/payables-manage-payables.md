@@ -1,39 +1,43 @@
 ---
-title: "Administrere skyldige beløp"
+title: "Oversikt over oppgaver for å behandle leverandørgjeld"
+description: "Gir en oversikt over oppgavene for å behandle leverandørgjeld, for eksempel betale kreditorer eller utligne utgående betalinger mot poster for å lukke fakturaer eller kreditnotaer."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 50a68e1eaf0d6057420635f85b473639e39caa5a
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: vendor payment, creditor, debt, balance due, AP
+ms.date: 06/28/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: a4940bddd22b4b310550606be6a2e96fc2b6bef0
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/23/2017
 
 ---
+# <a name="managing-payables"></a>Administrere skyldige beløp
+En viktig del av håndtering av leverandørgjeld er å betale dine leverandører eller refundere de ansatte for utgifter. Du kan bruke funksjoner til å legge til betalingslinjer for forfalte kjøpsfakturaer i vinduet **Utbetalingskladd**. Du kan sende transaksjoner til banken din ved å eksportere flere betalingskladdelinjer til en fil og deretter laste opp filen til banken. Du kan også betale med sjekk, inkludert å overføre sjekker som elektroniske betalinger.
 
-# <a name="manage-payables"></a>Administrere skyldige beløp
-Det er en sentral aktivitet i håndtering av leverandørgjeld å betale leverandører. Du kan bruke funksjoner til å automatisk fylle ut vinduet **Betalingskladd** med betalingslinjer for forfalte kjøpsfakturaer. Hvis du raskt vil utføre involvert banktransaksjoner, kan du eksportere flere betalingskladdelinjer til en fil, som du deretter laste opp til banken for behandling. Du kan også betale med sjekk, inkludert å overføre sjekker som elektroniske betalinger.
+En annen vanlig oppgave er å utligne utgående betalinger mot deres relaterte leverandør- eller ansattposter for å kunne lukke de beslektede kjøpsfakturaene, kjøpskreditnotaene eller ansattkontoene som betalt. Du kan gjøre dette i vinduet **Betalingsavstemmingskladd** ved å importere en bankkontoutdragsfil for hurtig å registrere betalinger. Betaling brukes til å åpne leverandør-, kunde- eller ansattpostoppføringer ved å sammenligne betalingstekst for oppføringsinformasjon. Det finnes ulike måter å se gjennom og endre treff før du bokfører kladden. Du kan velge å lukke alle åpne bankposter relatert til de utlignede postene når du bokfører kladden. Bankkontoen avstemmes automatisk når alle betalinger er utlignet.
 
-En annen vanlig oppgave er å utligne utgående betalinger mot deres relaterte leverandørposter og dermed lukke de beslektede kjøpsfakturaene eller kjøpskreditnotaene som betalt. Du kan utføre dette arbeidet i vinduet **Betalingsavstemmingskladd** ved å importere en bankkontoutdragsfil for hurtig å registrere betalinger i Dynamics NAV. En funksjon for automatisk utligning utligner betalingene til deres tilknyttede åpne leverandør- eller kundeposter, basert på datasamsvar mellom betalingstekst og postinformasjonen. Du kan bruke ulike funksjoner til å se gjennom og endre automatiske utligninger før du bokfører kladden. Du kan velge å lukke alle åpne bankposter relatert til de utlignede postene når du bokfører kladden. Dette betyr at bankkontoen avstemmes automatisk når alle betalinger er utlignet.
-
-Du kan også bruke utgående betalinger manuelt i vinduet **Betalingskladd** eller fra de relaterte leverandørpostene.
+Du kan også bruke utgående betalinger manuelt i vinduet **Betalingskladd** eller fra de relaterte leverandør- eller ansattpostene.
 
 Tabellen nedenfor beskriver en sekvens av oppgaver i leverandørgjeld, og har koblinger til emnene som beskriver dem.
 
-|Hvis du vil |Se |
-|---|----|
-|Generere forfalte leverandørbetalinger prioritert i henhold til kontantrabatter og forfalte straffegebyrer. Du kan også eksportere betalingene til en bankfil ved bokføring.|[Foreta betalinger](payables-make-payments.md)|
-|Utligne leverandørbetalinger automatisk på ubetalte kjøpsfakturaer ved å importere en bankkontoutdragsfil.|[Bruke betalinger automatisk og avstemme bankkonti](receivables-apply-payments-auto-reconcile-bank-accounts.md)|
-|Utligne leverandørbetalinger på ubetalte fakturaer manuelt.|[Utligne leverandørbetalinger manuelt](payables-how-apply-purchase-transactions-manually.md)|
+| Til | Se |
+| --- | --- |
+| Generer forfalte leverandørbetalinger eller ansattrefusjoner, forbered sjekkutbetalinger og eksporter betalinger til en bankfil ved bokføring. |[Utføre betalinger](payables-make-payments.md) |
+| Utligne leverandørbetalinger automatisk på ubetalte kjøpsfakturaer ved å importere en bankkontoutdragsfil. |[Utligne betalinger automatisk og avstemme bankkonti](receivables-apply-payments-auto-reconcile-bank-accounts.md) |
+| Utligne leverandørbetalinger på ubetalte fakturaer manuelt. |[Avstemme leverandørbetalinger manuelt](payables-how-apply-purchase-transactions-manually.md) |
+|Sikre riktig lagerverdisetting ved å tilordne ekstra varekost, for eksempel frakt, fysisk håndtering, forsikring og transport, som du pådrar deg ved innkjøp.|[Bruke varegebyr til å gjøre rede for ekstra handelskostnader](payables-how-assign-item-charges.md)|
 
 ## <a name="see-also"></a>Se også
-[Håndtere kjøp](purchasing-manage-purchasing.md)  
+[Innkjøp](purchasing-manage-purchasing.md)  
 [Håndtere fordringer](receivables-manage-receivables.md)  
-[Arbeide med Dynamics NAV](ui-work-product.md)  
-[På tvers av forretningsområder](ui-across-business-areas.md)
+[Bruke varegebyr til å gjøre rede for ekstra handelskostnader](payables-how-assign-item-charges.md)  
+[Generelle forretningsfunksjoner](ui-across-business-areas.md)  
+[Arbeide med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

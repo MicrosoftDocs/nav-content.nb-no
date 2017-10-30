@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Tablet-klient
+Nettbrettklient for Microsoft Dynamics NAV

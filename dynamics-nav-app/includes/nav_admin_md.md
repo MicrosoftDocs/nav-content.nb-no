@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Server Administrasjonsverktøy
+Administrasjonsverktøy for Microsoft Dynamics NAV Server

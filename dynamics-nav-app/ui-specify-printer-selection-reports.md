@@ -1,40 +1,51 @@
 ---
-title: Angi skrivervalg for rapporter
+title: "Definere rapporter som skal skrives ut på bestemte skrivere"
+description: Finn ut hvordan du angir en skriver for en rapport og bruker vinduet Skrivervalg.
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 55b48aef2bc108ced7f581f0ff6c11263ee467df
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: online printing
+ms.date: 03/29/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4c31738da8ca833c06d976d26b9cb170a05fd46e
 ms.contentlocale: nb-no
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
 # <a name="specify-printer-selection-for-reports"></a>Angi skrivervalg for rapporter
-Du kan definere rapporter slik at de må skrives ut på en bestemt skriver. Her er noen av bruksområdene for skrivervalg: 
+Denne siden er tom, fordi du ikke har satt opp bestemte skrivere for bestemte rapporter. Vi arbeider med å løse dette.
 
-- Du kan skrive ut rapporter på papir med et spesielt brevhode for selskapet.
-- Du kan skrive ut rapporter på ulike papirstørrelser.
-- Du kan skrive ut rapporter på standardskriveren for en bestemt ansatt.
+I mellomtiden, når du vil skrive ut en rapport, må du laste ned rapporten som et PDF-dokument først ved å velge **Send til**-knappen. Du kan deretter velge hvilken type fil du laster ned rapporten som, og her du skal velge **PDF-dokument**. Nå kan du enten åpne i PDF-dokumentet høyre plassering og skriver det ut, eller lagre det og skrive det ut senere.
 
-Du bruker vinduet **Skrivervalg** til å angi ulike verdier for å få forskjellig utskrift. Hvis du angir et bestemt skrivervalg, har dette forrang over et mer generelt skrivervalg. Du kan for eksempel angi et skrivervalg som har verdier i feltene **Bruker-ID**, **Rapport-ID** og **Skrivernavn**. Dette skrivervalget overstyrer skrivervalget som har tomme oppføringer i **Bruker-ID**- eller **Rapport-ID**-feltet. 
+<!--
 
-Tabellen nedenfor beskriver kombinasjonen av verdier som må angis når du konfigurerer skrivervalg for en rapport.
+You can set up reports so that they must be printed on a specific printer. The following are some uses of printer selection:
 
-|Hvis du vil                                                 |Angi følgende verdier                                             |
+- You can print reports on special company letterhead.
+- You can print reports on different paper sizes.
+- You can print reports on the default printer of a specified employee.
+
+You use the **Printer Selections** window to set different values to obtain different output. If you set a specific printer selection, then it takes precedence over a more general printer selection. For example, you can set a printer selection that has values in the **User ID**, **Report ID**, and **Printer Name** fields. This printer selection takes precedence over a printer selection that has blank entries in the **User ID** or **Report ID** fields.
+
+The following table describes the combination of values to specify when you set up printer selections for a report.
+
+|To                                                 |Set the following values                                             |
 |---------------------------------------------------|---------------------------------------------------------------------|
-|Skrive ut en rapport på en bestemt skriver for alle brukere |Angi verdier i feltene **Rapport-ID** og **Skrivernavn**, og la **Bruker-ID**-feltet stå tomt.|
-|Skrive ut alle rapporter på en bestemt skriver til en bestemt bruker|Angi verdier i feltene **Bruker-ID** og **Skrivernavn**, og la **Rapport-ID**-feltet stå tomt.|
-|Angi standardskriver for alle rapporter|Angi en verdi i **Skrivernavn**-feltet, og la feltene **Bruker-ID** og **Rapport-ID** stå tomme.|
-|Skrive ut en bestemt rapport på brukerens standardskriver|Angi en verdi i **Rapport-ID**-feltet, og la feltene **Skrivernavn** og **Bruker-ID** stå tomme.|
-|Skrive ut en bestemt rapport på en bestemt skriver til en bestemt bruker|Angi verdier i alle tre feltene.|
+|Print a report to a specific printer for all users |Specify values in the **Report ID** and **Printer Name** fields and leave the **User ID** field blank.|
+|Print all reports to a specific printer for a specific user|Specify values in the **User ID** and **Printer Name** fields and leave the **Report ID** field blank.|
+|Set the default printer for all reports|Specify a value in the **Printer Name** field and leave the **User ID** and **Report ID** fields blank.|
+|Print a specific report to the user’s default printer|Specify a value in the **Report ID** field and leave the **Printer Name** and **User ID** fields blank.|
+|Print a specific report to a specific printer for a specific user|Specify values in all three fields.|
+-->
 
 ## <a name="see-also"></a>Se også
-[Arbeide med Dynamics NAV](ui-work-product.md)
+[Arbeide med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Utføre kjørsler](ui-how-run-batch-jobs.md)  
+[Sende dokumenter i e-post](ui-how-send-documents-email.md)  
 

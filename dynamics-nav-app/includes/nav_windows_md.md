@@ -1,1 +1,1 @@
-<span data-ttu-id="a896e-101">Microsoft Dynamics NAV Windows-klient</span><span class="sxs-lookup"><span data-stu-id="a896e-101">Microsoft Dynamics NAV Windows client</span></span>
+<span data-ttu-id="ec0b8-101">RapidStart-tjenester for Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="ec0b8-101">Microsoft Dynamics NAV Windows client</span></span>

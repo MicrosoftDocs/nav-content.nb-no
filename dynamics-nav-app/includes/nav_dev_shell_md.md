@@ -1,1 +1,1 @@
-<span data-ttu-id="e364a-101">Utviklingsskall for Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="e364a-101">Microsoft Dynamics NAV 2017 Development Shell</span></span>
+<span data-ttu-id="a850e-101">Utviklingsskall for Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="a850e-101">Microsoft Dynamics NAV 2017 Development Shell</span></span>

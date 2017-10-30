@@ -1,1 +1,1 @@
-<span data-ttu-id="bfce0-101">utviklingsmiljø</span><span class="sxs-lookup"><span data-stu-id="bfce0-101">development environment</span></span>
+<span data-ttu-id="a708d-101">utviklingsmiljø</span><span class="sxs-lookup"><span data-stu-id="a708d-101">development environment</span></span>

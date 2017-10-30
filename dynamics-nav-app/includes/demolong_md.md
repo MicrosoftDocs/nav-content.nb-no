@@ -1,1 +1,1 @@
-<span data-ttu-id="69b3e-101">Cronus Norge AS</span><span class="sxs-lookup"><span data-stu-id="69b3e-101">CRONUS International Ltd.</span></span> <span data-ttu-id="69b3e-102">demonstrasjonsdatabase</span><span class="sxs-lookup"><span data-stu-id="69b3e-102">demonstration database</span></span>
+<span data-ttu-id="59a3e-101">Demonstrasjonsdatabasen CRONUS Norge AS</span><span class="sxs-lookup"><span data-stu-id="59a3e-101">CRONUS International Ltd. demonstration database</span></span>

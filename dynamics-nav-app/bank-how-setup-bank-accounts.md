@@ -1,31 +1,57 @@
 ---
 title: Opprette bankkonti
+description: Du kan avstemme bankkonti i Dynamics NAV med kontoutdrag fra banken.
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 10fe32d2153d92aea0f9e6db8ebfb0e465fc04f4
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: feed, stream
+ms.date: 09/26/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 3581615fe94006aa9245f5e66fe6cf475b22acfb
 ms.contentlocale: nb-no
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="how-to-set-up-bank-accounts"></a><span data-ttu-id="663b5-103">Opprette bankkonti</span><span class="sxs-lookup"><span data-stu-id="663b5-103">How to: Set Up Bank Accounts</span></span>
+<span data-ttu-id="663b5-104">Du bruker bankkonti i [!INCLUDE[d365fin](includes/d365fin_md.md)] til å holde orden på banktransaksjonene dine.</span><span class="sxs-lookup"><span data-stu-id="663b5-104">You use bank accounts in the [!INCLUDE[d365fin](includes/d365fin_md.md)] to keep track of your banking transactions.</span></span> <span data-ttu-id="663b5-105">Konti kan utstedes i norske kroner eller i fremmed valuta.</span><span class="sxs-lookup"><span data-stu-id="663b5-105">Accounts can be denominated in your local currency or in a foreign currency.</span></span> <span data-ttu-id="663b5-106">Når du har opprettet bankkonti, kan du bruke mulighetene for utskriving av sjekker (gjelder ikke Norge).</span><span class="sxs-lookup"><span data-stu-id="663b5-106">After you have set up bank accounts, you can also use the check printing option.</span></span>
 
-# <a name="how-to-set-up-bank-accounts"></a><span data-ttu-id="e6691-102">Opprette bankkonti</span><span class="sxs-lookup"><span data-stu-id="e6691-102">How to: Set Up Bank Accounts</span></span>
-<span data-ttu-id="e6691-103">Du bruker bankkonti i Dynamics NAV til å holde orden på banktransaksjonene dine.</span><span class="sxs-lookup"><span data-stu-id="e6691-103">You use bank accounts in the Dynamics NAV to keep track of your banking transactions.</span></span> <span data-ttu-id="e6691-104">Konti kan utstedes i norske kroner eller i fremmed valuta.</span><span class="sxs-lookup"><span data-stu-id="e6691-104">Accounts can be denominated in your local currency or in a foreign currency.</span></span> <span data-ttu-id="e6691-105">Når du har opprettet bankkonti, kan du bruke mulighetene for utskriving av sjekker (gjelder ikke Norge).</span><span class="sxs-lookup"><span data-stu-id="e6691-105">After you have set up bank accounts, you can also use the check printing option.</span></span>
+## <a name="to-set-up-bank-accounts"></a><span data-ttu-id="663b5-107">Slik setter du opp bankkonti</span><span class="sxs-lookup"><span data-stu-id="663b5-107">To set up bank accounts</span></span>
+1. <span data-ttu-id="663b5-108">Velg ikonet ![Søk etter side eller rapport](media/ui-search/search_small.png "Søk etter side eller rapport"), angi **Bankkonti**, og velg deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="663b5-108">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Accounts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="663b5-109">I vinduet **Bankkonti** velger du handlingen **Ny**.</span><span class="sxs-lookup"><span data-stu-id="663b5-109">In the **Bank Accounts** window, choose the **New** action.</span></span>
+3. <span data-ttu-id="663b5-110">Fyll ut feltene etter behov.</span><span class="sxs-lookup"><span data-stu-id="663b5-110">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-1. <span data-ttu-id="e6691-106">I øvre høyre hjørne velger du ikonet **Søk etter side eller rapport**, angir **Bankkonti** og velger deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="e6691-106">In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.</span></span>
-2. <span data-ttu-id="e6691-107">I vinduet **Bankkonti** velger du handlingen **Ny**.</span><span class="sxs-lookup"><span data-stu-id="e6691-107">In the **Bank Accounts** window, choose the **New** action.</span></span>
-3. <span data-ttu-id="e6691-108">Fyll ut feltene etter behov.</span><span class="sxs-lookup"><span data-stu-id="e6691-108">Fill in the fields as necessary.</span></span> <span data-ttu-id="e6691-109">Velg et felt som skal inneholde en kort beskrivelse av feltet eller kobling til mer informasjon.</span><span class="sxs-lookup"><span data-stu-id="e6691-109">Choose a field to read a short description of the field or link to more information.</span></span>
+> [!NOTE]
+> <span data-ttu-id="663b5-111">For å kunne fylle ut **Saldo**-feltet med en inngående balanse, må du bokføre en bankkontopost med det aktuelle beløpet.</span><span class="sxs-lookup"><span data-stu-id="663b5-111">To fill in the **Balance** field with an opening balance, you must post a bank account ledger entry with the amount in question.</span></span> <span data-ttu-id="663b5-112">Du kan gjøre dette ved å utføre en bankkontoavstemming.</span><span class="sxs-lookup"><span data-stu-id="663b5-112">You can do this by performing a bank account reconciliation.</span></span> <span data-ttu-id="663b5-113">Hvis du vil ha mer informasjon, kan du se [Avstemme bankkonti separat](bank-how-reconcile-bank-accounts-separately.md).</span><span class="sxs-lookup"><span data-stu-id="663b5-113">For more information, see [How to: Reconcile Bank Accounts Separately](bank-how-reconcile-bank-accounts-separately.md).</span></span> <span data-ttu-id="663b5-114">Du kan eventuelt også implementere den inngående balansen som en del av en generell dataoppretting i nye selskaper ved hjelp av det assisterte oppsettet for **Overfør forretningsdata**.</span><span class="sxs-lookup"><span data-stu-id="663b5-114">Alternatively, you can implement the opening balance as a part of general data creation in new companies by using the **Migrate Business Data** assisted setup.</span></span> <span data-ttu-id="663b5-115">Hvis du vil ha mer informasjon, kan du se [Velkommen til [!INCLUDE[d365fin](includes/d365fin_md.md)](index.md).</span><span class="sxs-lookup"><span data-stu-id="663b5-115">For more information, see [Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)](index.md).</span></span>
 
-<span data-ttu-id="e6691-110">**Merk**: Felt i hurtigfanen **Overføring** er relatert til import/eksport av bankfeeder og filer.</span><span class="sxs-lookup"><span data-stu-id="e6691-110">**Note**: Fields on the **Transfer** FastTab are related to import/export of bank feeds and files.</span></span> <span data-ttu-id="e6691-111">Hvis du vil ha mer informasjon, kan du se [Konfigurere konverteringstjenesten for bankdata](bank-how-setup-bank-data-conversion-service.md)</span><span class="sxs-lookup"><span data-stu-id="e6691-111">For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).</span></span>
+## <a name="to-set-up-your-bank-account-for-import-or-export-of-bank-files"></a><span data-ttu-id="663b5-116">Opprette din bankkonto for import eller eksport av bankfilene</span><span class="sxs-lookup"><span data-stu-id="663b5-116">To set up your bank account for import or export of bank files</span></span>
+<span data-ttu-id="663b5-117">Felt i hurtigafnen **Overføring** i vinduet **Bankkontokort** er relatert til import og eksport av bankfeeder og filer.</span><span class="sxs-lookup"><span data-stu-id="663b5-117">Fields on the **Transfer** FastTab in the **Bank Account Card** window are related to import and export of bank feeds and files.</span></span> <span data-ttu-id="663b5-118">Hvis du vil ha mer informasjon, kan du se [Konfigurere konverteringstjenesten for bankdata](bank-how-setup-bank-data-conversion-service.md)</span><span class="sxs-lookup"><span data-stu-id="663b5-118">For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="e6691-112">Se også</span><span class="sxs-lookup"><span data-stu-id="e6691-112">See Also</span></span>  
-[<span data-ttu-id="e6691-113">Definere bankvesen</span><span class="sxs-lookup"><span data-stu-id="e6691-113">Set Up Banking</span></span>](bank-setup-banking.md)  
-[<span data-ttu-id="e6691-114">Håndtere bankkonti</span><span class="sxs-lookup"><span data-stu-id="e6691-114">Manage Bank Accounts</span></span>](bank-manage-bank-accounts.md)
+1. <span data-ttu-id="663b5-119">Velg ikonet ![Søk etter side eller rapport](media/ui-search/search_small.png "Søk etter side eller rapport"), angi **Bankkonti**, og velg deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="663b5-119">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Accounts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="663b5-120">Åpne kortet for en bankkonto som du vil eksportere eller importere bankfiler for.</span><span class="sxs-lookup"><span data-stu-id="663b5-120">Open the card for a bank account that you will export or import bank files for.</span></span>
+3. <span data-ttu-id="663b5-121">Fyll ut feltene på hurtigfanen **Overføring** etter behov.</span><span class="sxs-lookup"><span data-stu-id="663b5-121">On the **Transfer** FastTab, fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+> [!NOTE]  
+>   <span data-ttu-id="663b5-122">Andre fileksporttjenester og formater krever ulike oppsettsverdier i vinduet **Bankkort**.</span><span class="sxs-lookup"><span data-stu-id="663b5-122">Different file export services and their formats require different setup values in the **Bank Account Card** window.</span></span> <span data-ttu-id="663b5-123">Du blir informert om feil eller manglende oppsettsverdier når du prøver å eksportere filen.</span><span class="sxs-lookup"><span data-stu-id="663b5-123">You will be informed about wrong or missing setup values as you try to export the file.</span></span> <span data-ttu-id="663b5-124">Les derfor de korte beskrivelsene av feltene nøye, eller se relaterte fremgangsmåteeemner.</span><span class="sxs-lookup"><span data-stu-id="663b5-124">So read the short descriptions of the fields carefully or refer to the related procedure topics.</span></span> <span data-ttu-id="663b5-125">Hvis du for eksempel eksporterer en betalingsfil for Nord-Amerika elektronisk pengeoverføring (EFT) krever at både feltet **Nr. for siste remitteringsmelding** og feltet **Transittnr.** er fylt ut.</span><span class="sxs-lookup"><span data-stu-id="663b5-125">For example, exporting a payment file for North American electronic funds transfer (EFT) requires that both the **Last Remittance Advice No.** field and the **Transit No.** field are filled in.</span></span> <span data-ttu-id="663b5-126">Hvis du vil ha mer informasjon, kan du se [Eksportere betalinger til en bankfil](payables-how-export-payments-bank-file.md).</span><span class="sxs-lookup"><span data-stu-id="663b5-126">For more information, see [How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md).</span></span>
+
+## <a name="to-set-up-vendor-bank-accounts-for-export-of-bank-files"></a><span data-ttu-id="663b5-127">Opprette dine leverandørbankkonti for import eller eksport av bankfilene</span><span class="sxs-lookup"><span data-stu-id="663b5-127">To set up vendor bank accounts for export of bank files</span></span>
+<span data-ttu-id="663b5-128">Felt i hurtigafnen **Overføring** i vinduet **Leverandørs bankkort** er relatert til eksport av bankfeeder og filer.</span><span class="sxs-lookup"><span data-stu-id="663b5-128">Fields on the **Transfer** FastTab in the **Vendor Bank Account Card** window are related to export of bank feeds and files.</span></span> <span data-ttu-id="663b5-129">Hvis du vil ha mer informasjon, kan du se [Konfigurere tjeneste for konvertering av bankdata](bank-how-setup-bank-data-conversion-service.md) og [Eksportere betalinger til en bankfil](payables-how-export-payments-bank-file.md).</span><span class="sxs-lookup"><span data-stu-id="663b5-129">For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md) and [How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md).</span></span>
+
+1. <span data-ttu-id="663b5-130">Velg ikonet ![Søk etter side eller rapport](media/ui-search/search_small.png "Søk etter side eller rapport"), angi **Leverandører**, og velg deretter den relaterte koblingen.</span><span class="sxs-lookup"><span data-stu-id="663b5-130">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="663b5-131">Åpne kortet for en leverandør med en bankkonto som du vil eksportere betalingsbankfiler til.</span><span class="sxs-lookup"><span data-stu-id="663b5-131">Open the card for a vendor whose bank account you will export payment bank files to.</span></span>
+3. <span data-ttu-id="663b5-132">Velg **Bankkonti**-handlingen.</span><span class="sxs-lookup"><span data-stu-id="663b5-132">Choose the **Bank Accounts** action.</span></span>
+3. <span data-ttu-id="663b5-133">I vinduet **Leverandørs bankkort**, i hurtigfanen **Overføring**, fyller du ut feltene etter behov.</span><span class="sxs-lookup"><span data-stu-id="663b5-133">In the **Vendor Bank Account Card** window, on the **Transfer** FastTab, fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+## <a name="to-set-the-opening-balance-on-new-bank-accounts"></a><span data-ttu-id="663b5-134">Angi den inngående balansen på nye bankkonti</span><span class="sxs-lookup"><span data-stu-id="663b5-134">To set the opening balance on new bank accounts</span></span>
+
+
+## <a name="see-also"></a><span data-ttu-id="663b5-135">Se også</span><span class="sxs-lookup"><span data-stu-id="663b5-135">See Also</span></span>
+[<span data-ttu-id="663b5-136">Konfigurere banktjenester</span><span class="sxs-lookup"><span data-stu-id="663b5-136">Setting Up Banking</span></span>](bank-setup-banking.md)  
+[<span data-ttu-id="663b5-137">Håndtere bankkonti</span><span class="sxs-lookup"><span data-stu-id="663b5-137">Managing Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+<span data-ttu-id="663b5-138">[Arbeide med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="663b5-138">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

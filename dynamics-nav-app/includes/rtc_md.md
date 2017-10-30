@@ -1,1 +1,1 @@
-<span data-ttu-id="b3497-101">Rolletilpasset klient</span><span class="sxs-lookup"><span data-stu-id="b3497-101">RoleTailored client</span></span>
+<span data-ttu-id="cb1d7-101">Rolletilpasset klient</span><span class="sxs-lookup"><span data-stu-id="cb1d7-101">RoleTailored client</span></span>

@@ -1,1 +1,1 @@
-<span data-ttu-id="64b05-101">klargjøringsverktøy</span><span class="sxs-lookup"><span data-stu-id="64b05-101">provisioning tools</span></span>
+<span data-ttu-id="61478-101">klargjøringsverktøy</span><span class="sxs-lookup"><span data-stu-id="61478-101">provisioning tools</span></span>

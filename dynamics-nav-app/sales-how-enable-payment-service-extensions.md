@@ -12,18 +12,18 @@ ms.search.keywords: online payment
 ms.date: 07/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 71ff4af2fa3c0d1020a24de4325aafe17978f715
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: f56df1759d375548b7415234c9b303a49e50687d
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="how-to-enable-customer-payments-through-payment-services"></a>Aktivere kundebetalinger gjennom betalingstjenester
-Som et alternativ til å samle inn betalinger via bankoverføring eller kredittkort, kan kundene betale via egne kontoer med betalingstjenester, som Microsoft Pay, PayPal eller WorldPay.  
+Som et alternativ til å samle inn betalinger via bankoverføring eller kredittkort, kan kundene betale via egne kontoer med betalingstjenester, som PayPal og WorldPay.  
 
 Når du har aktivert en betalingstjeneste i [!INCLUDE[d365fin](includes/d365fin_md.md)], en kobling til tjenesten er tilgjengelig på salgsdokumenter som du sender via e-post til kundene dine. Kunder kan bruke koblingen for å gå til tjenesten og betale fakturaen, direkte fra salgsdokumentet. Hvis du ikke vil inkludere koblingen, for eksempel kan Hvis en kunde betaler kontant, du fjerne tjenesten fra fakturaen før bokføring.  
 
-Tilleggene Microsoft Pay, PayPal Payments Standard og WorldPay Payments Standard er installert i [!INCLUDE[d365fin](includes/d365fin_md.md)], og er klar til å aktivere.  
+PayPal betalinger Standard og WorldPay betalinger Standard tilleggene som er installert i [!INCLUDE[d365fin](includes/d365fin_md.md)], og er klar til å aktivere.  
 
 ## <a name="to-enable-a-payment-service-in-included365finincludesd365finmdmd"></a>Slik aktiverer du en betalingstjeneste i [!INCLUDE[d365fin](includes/d365fin_md.md)]
 1. Velg ikonet ![Søk etter side eller rapport](media/ui-search/search_small.png "Søk etter side eller rapport"), angi **Betalingstjenester**, og velg deretter den relaterte koblingen.  

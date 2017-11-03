@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: aa7c996097b40d5b451c0eaad5599662779245c0
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: f9d0de1d1956d90584a4cc84a724ad9c75791272
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="multiple-interest-rates-overview"></a>Oversikt over flere rentesatser
@@ -32,5 +32,5 @@ Hvis det ikke finnes flere rentesatser, bruker [!INCLUDE[navnow](../../includes/
  Flere rentesatser brukes for forskjellige perioder for forsinkede betalinger handelstransaksjoner. For eksempel angir en offentlig myndighet maksimal rente som kan pålegges for en kunde. Denne rentesatsen kan endres to ganger i året, 1. januar og 1. juli. Rentesatsen mellom bedrifter (B2B) avtales av partene, og det er ingen begrensning for denne kundegruppen. Annonsert sats er vanligvis 4 % mer enn vanlig bankrente.  
 
 ## <a name="see-also"></a>Se også  
- [Innkreve utestående saldi](../../receivables-collect-outstanding-balances.md) [Administrere renter](manage-finance-charges.md)
+ [Innkreve utestående saldi](../../receivables-collect-outstanding-balances.md)
 

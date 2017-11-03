@@ -12,16 +12,16 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 889cf2defc40a21a0db258c857f676396676a319
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 6af5648e72d214a90ca08221baa1ae899a07a9e9
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="how-to-set-up-customers-for-ehf"></a>Sette opp kunder for EHF
 Hvis du vil opprette dokumenter i Elektronisk Handelsformat (EHF) for kunder i offentlig sektor, må du legge til EHF-informasjon for de aktuelle kundene.  
 
-Dette emnet beskriver bare felt som gjelder EHF. Hvis du vil ha mer informasjon om hvordan du konfigurerer kunder generelt, se [Registrere nye kunder](how-to-register-new-customers.md).  
+Dette emnet beskriver bare felt som gjelder EHF. Hvis du vil ha mer informasjon om hvordan du konfigurerer kunder generelt, se [Registrere nye kunder](../../sales-how-register-new-customers.md).  
 
 ## <a name="to-set-up-a-customer-that-uses-elektronisk-handelsformat"></a>Slik definerer du en kunde som bruker Elektronisk Handelsformat:  
 

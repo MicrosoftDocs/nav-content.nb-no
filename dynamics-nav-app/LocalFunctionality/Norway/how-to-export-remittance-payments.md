@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 239965f741daec70d512fe2ce4ff07526d07aa08
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 8a59eefe0789a07a1f514e19afff9ac509db3be9
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="how-to-export-remittance-payments"></a>Eksportere remitteringsoppdrag
@@ -26,7 +26,7 @@ Du kan bruke funksjonen for eksport av remitteringsoppdrag til å eksportere bet
 
 Du eksporterer betalinger til en bankfil ved å velge **Eksporter betalinger**-knappen i **Utbetalingskladd**-vinduet. Prosessen kan være forskjellig avhengig av eksportformatet du velger:  
 
-- Betalinger ved hjelp av SEPA-betalingsstandarden eksporteres direkte til en fil når du velger **Eksporter betalinger**-knappen. Hvis du vil ha mer informasjon, kan du se [Eksportere betalinger til en bankfil](how-to-export-payments-to-a-bank-file.md).  
+- Betalinger ved hjelp av SEPA-betalingsstandarden eksporteres direkte til en fil når du velger **Eksporter betalinger**-knappen. Hvis du vil ha mer informasjon, kan du se [Utføre betalinger](../../payables-make-payments.md).  
 
 - Betalinger ved hjelp av lokale betalingsstandarder som **Telepay**, eksporteres med enten **Remittering - les ut (bank)**- eller **Remittering - les ut (BBS)**-rapporten som åpnes automatisk når du velger **Eksporter betalinger**-knappen.  
 

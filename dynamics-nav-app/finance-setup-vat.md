@@ -12,10 +12,10 @@ ms.search.keywords: VAT, posting, tax, value-added tax
 ms.date: 04/20/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a69658de867730f17137971e75a99a0badfee9f2
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 97a346156b16784fb9ef5a382a7c1407685f7606
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 
@@ -142,6 +142,9 @@ Følg disse trinnene for å opprette koder for import-mva:
 Det er viktig at organisasjonsnumrene du har for kunder, leverandører og kontakter, er gyldige. For eksempel selskaper noen ganger endre status for mva-ansvar, og i noen land kan skattemyndighetene ber deg om å gi rapporter, for eksempel rapporten EU-salgslisten som listen mva registreringsnumre du bruker når du gjør forretninger. 
   
 EU-kommisjonen gir tjenesten EU-mva-nummer validering på webområdet sitt, som er felles og gratis. [!INCLUDE[d365fin](includes/d365fin_md.md)] kan spare deg for et trinn, og du kan bruke tjenesten VIES til å validere og spore mva-numre for kunder, leverandører og kontakter direkte fra kunde-, leverandør- og kontaktkort. Tjenesten i [!INCLUDE[d365fin](includes/d365fin_md.md)] kalles **Tjeneste for validering av EU-organisasjonsnr.**. Tjenesten er tilgjengelig på siden **Tjenestetilkoblinger**, og du kan begynne å bruke den med en gang. Tjenestetilkoblingen er gratis, og registrering er ikke nødvendig.
+
+> [!Note]
+> Aktivere EU-organisasjonsnr. Valideringstjeneste, du må ha administratortilgang.
 
 Når du bruker tjenestetilkoblingen vår, registrerer vi en logg over mva-numre og bekreftelser for hver kunde, leverandør eller kontakt i **Organisasjonsnummerlogg**, så du kan enkelt spore dem. Loggen er spesifikk for hver kunde. Loggen er for eksempel nyttig for å bevise at du har bekreftet at gjeldende mva-nummeret er riktig. Når du godkjenner et mva-nummer, gjenspeiler kolonnen **ID for forespørsel** i loggen at du har gjort noe. 
 

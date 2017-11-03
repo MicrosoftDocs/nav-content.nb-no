@@ -12,24 +12,29 @@ ms.search.keywords: integration, synchronize, map
 ms.date: 06/06/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f3c9cff4094395a1f06ba04ba2476de76c4a04a1
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 3f26a80427a2a1c38949ca94848751527383d7f9
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
-# <a name="managing-your-customer-relationships-using-dynamics-365-for-sales-from-inside-dynamics-nav"></a>Administrere kunderelasjoner ved hjelp av Dynamics 365 for Sales fra Dynamics NAV
+# <a name="managing-customers-and-sales-created-in-dynamics-365-for-sales"></a>Behandle kunder og Salg som er opprettet i Dynamics 365 for Sales
 Hvis du bruker Dynamics 365 for Sales til kundeengasjement, kan du bruke [!INCLUDE[d365fin](includes/d365fin_md.md)] for ordrebehandling og økonomi og få sømløs integrasjon i kundeemne-til-kontanter-prosessen.
 
 Når programmet er konfigurert til å integrere med Dynamics 365 for Sales, har du tilgang til salgstall fra [!INCLUDE[d365fin](includes/d365fin_md.md)] og motsatt vei i noen tilfeller. Denne integrasjonen gjør at du kan arbeide med og synkronisere datatyper som er felles for begge tjenester, for eksempel kunder, kontakter og salgsinformasjon, og hold dataene oppdaterte på begge lokasjoner.  
 
-Selgeren i Dynamics 365 for Sales kan for eksempel bruke prislister fra [!INCLUDE[d365fin](includes/d365fin_md.md)] når de oppretter en salgsordre. Når de legger til varen på salgsordrelinjen i Dynamics 365 for Sales, kan de også se lagernivået (tilgjengelighet) av varen fra [!INCLUDE[d365fin](includes/d365fin_md.md)]. Disse dataene er publisert som en del av den assisterte installasjonsveiledningen **Tilkoblingsoppsett for Dynamics 365**.  
+Selgeren i Dynamics 365 for Sales kan for eksempel bruke prislister fra [!INCLUDE[d365fin](includes/d365fin_md.md)] når de oppretter en salgsordre. Når de legger til varen på salgsordrelinjen i Dynamics 365 for Sales, kan de også se lagernivået (tilgjengelighet) av varen fra [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+I motsetning kan ordrebehandlere i [!INCLUDE[d365fin](includes/d365fin_md.md)] håndtere de spesielle egenskapene til ordre som er automatisk eller manuelt overført fra Dynamics 365 for Sales, for eksempel automatisk oppretting og bokføring av gyldige ordrelinjer for varer eller ressurser som er som angitt i Sales som varer som ikke finnes i produktkatalogen. Hvis du vil ha mer informasjon, kan du se delen "Håndtere spesielle ordredata".  
+
+> [!NOTE]
+> Før du kan integrere med Dynamics 365 for Sales, må du gjøre noen tekniske forberedelser. Hvis du vil ha mer informasjon, se [Konfigurere en Dynamics CRM-tilkobling](https://msdn.microsoft.com/en-us/dynamics-nav/how-to-set-up-a-dynamics-crm-connection) og [Forberede Dynamics CRM for integrering](https://msdn.microsoft.com/en-us/dynamics-nav/how-to-prepare-dynamics-crm-for-integration) på MSDN.
 
 ## <a name="setting-up-the-connection"></a>Definere tilkoblingen
-Fra startsiden kan du få tilgang til **Tilkoblingsoppsett for Dynamics 365** assistert oppsettguide som hjelper deg med å konfigurere tilkoblingen. Når dette er gjort, vil du ha en sømløs kobling i Dynamics 365 for Sales-oppføringer med [!INCLUDE[d365fin](includes/d365fin_md.md)]-poster.  
+Fra startsiden kan du få tilgang til **Tilkoblingsoppsett for Dynamics 365 for Sales** assistert oppsettguide som hjelper deg med å konfigurere tilkoblingen. Når dette er gjort, vil du ha en sømløs kobling i Dynamics 365 for Sales-oppføringer med [!INCLUDE[d365fin](includes/d365fin_md.md)]-poster.  
 
 > [!NOTE]  
->   Det følgende forklarer det assisterte oppsettet, men du kan utføre de samme oppgavene manuelt i vinduet **Konfigurasjon for Dynamics 365-tilkobling**.
+> Det følgende forklarer det assisterte oppsettet, men du kan utføre de samme oppgavene manuelt i vinduet **Konfigurasjon for Dynamics 365 for Sales-tilkobling**.
 
 Du kan velge hvilke data som skal synkroniseres mellom de to tjenestene i den assisterte oppsettguiden. Du kan også angi at du vil importere din eksisterende Dynamics 365 for Sales-løsning. I så fall må du angi en administrativ brukerkonto.
 
@@ -75,6 +80,13 @@ Til slutten av den assisterte oppsettguiden, kan du velge **Kjør full synkronis
 Hvis du vil kontrollere fremdriften for individuelle prosjekter i en fullstendig synkronisering, detaljer for den **Status for jobben køen**, **til Int. tabellen Jobbstatus**, eller **fra Int. tabellen Jobbstatus** i den **CRM Full synkronisering. Se gjennom** vindu.
 
 Fra vinduet **Tilkoblingsoppsett for Dynamics 365** kan du få detaljer om fullstendig synkronisering når som helst. Herfra kan du også åpne **Tilordninger for integreringstabell**-vinduet for å se detaljer om tabellene i Dynamics NAV og i Dynamics 365 for Sales-løsningen som må synkroniseres.
+
+## <a name="handling-special-sales-order-data"></a>Håndtere spesielle ordredata
+Ordrer i Dynamics 365 for Sales blir automatisk overført til [!INCLUDE[d365fin](includes/d365fin_md.md)] hvis du merker av for **Opprette ordrer automatisk** i vinduet **Tilkoblingsoppsett for Microsoft Dynamics 365 for Sales**. For slike ordrer blir **Navn**-feltet i den opprinnelige ordren overført og tilordnet feltet **Eksternt dokumentnummer** på ordren i [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+Dette kan også fungere hvis den opprinnelige ordren inneholder produkter som ikke er i produktkatalogen, det vil si varer eller ressurser som ikke er registrert i et produkt. I så fall må du fylle ut feltene **Produkt som ikke er i produktkatalogen** og **Nummer på produktet som ikke er i produktkatalogen** i **Salgsoppsett**-vinduet, slik at alle slike ikke-registrerte produktsalg er tilordnet til en bestemt vare/ressurs for finansanalyse.
+
+Hvis varebeskrivelsen i den opprinnelige ordren er svært lang, kan en ekstra ordrelinje av typen merknaden opprettes som har plass til hele teksten i ordren i [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 ## <a name="see-also"></a>Se også
 [Forbindelser](marketing-relationship-management.md)  

@@ -1,6 +1,6 @@
 ---
-title: "Installere utvidelser for Ã¥ tilpasse Dynamics NAV"
-description: "Finn ut hvordan du legger til funksjoner og tilpasser Dynamics NAV ved Ã¥ installere utvidelser."
+title: "Installere utvidelser for å tilpasse Dynamics NAV"
+description: "Finn ut hvordan du legger til funksjoner og tilpasser Dynamics NAV ved å installere utvidelser."
 documentationcenter: 
 author: edupont04
 ms.prod: dynamics-nav-2017
@@ -19,56 +19,56 @@ ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="customizing-dynamics-nav-using-extensions"></a>Tilpasse Dynamics NAV ved hjelp av utvidelser
-Du kan endre [!INCLUDE[d365fin](includes/d365fin_md.md)] ved Ã¥ installere utvidelser som for eksempel legger til funksjonalitet, endrer virkemÃ¥te eller gir deg tilgang til nye elektroniske tjenester.
-NÃ¥r du starter [!INCLUDE[d365fin](includes/d365fin_md.md)] for fÃ¸rste gang, er noen utvidelser allerede installert for deg. Over tid gjÃ¸res flere utvidelser tilgjengelig for deg, og du kan deretter velge om du vil bruke utvidelsen eller ikke.
+Du kan endre [!INCLUDE[d365fin](includes/d365fin_md.md)] ved å installere utvidelser som for eksempel legger til funksjonalitet, endrer virkemåte eller gir deg tilgang til nye elektroniske tjenester.
+Når du starter [!INCLUDE[d365fin](includes/d365fin_md.md)] for første gang, er noen utvidelser allerede installert for deg. Over tid gjøres flere utvidelser tilgjengelig for deg, og du kan deretter velge om du vil bruke utvidelsen eller ikke.
 
 Microsoft tilbyr for eksempel en utvidelse som kan gi integrering med PayPal Payments Standard. Denne utvidelsen er installert som standard.
-Hvis en annen utvidelse gjÃ¸res tilgjengelig som gir integrasjon med en annen betalingstjenesten, kan du installere den nye utvidelsen og deretter velger hvilke av de to tjenestene du vil bruke.  
+Hvis en annen utvidelse gjøres tilgjengelig som gir integrasjon med en annen betalingstjenesten, kan du installere den nye utvidelsen og deretter velger hvilke av de to tjenestene du vil bruke.  
 
-Du administrerer utvidelsene i vinduet **Administrasjon av utvidelse**. Du kan gÃ¥ til dette vinduet fra Hjem. Du kan ogsÃ¥ velge ikonet **SÃ¸k etter side eller en rapport** ![SÃ¸k etter side eller rapport](media/ui-search/search_small.png "SÃ¸k etter side eller rapport") i Ã¸vre hÃ¸yre hjÃ¸rne, angi **Utvidelse**, og deretter velger du den beslektede koblingen.  
+Du administrerer utvidelsene i vinduet **Administrasjon av utvidelse**. Du kan gå til dette vinduet fra Hjem. Du kan også velge ikonet **Søk etter side eller en rapport** ![Søk etter side eller rapport](media/ui-search/search_small.png "Søk etter side eller rapport") i øvre høyre hjørne, angi **Utvidelse**, og deretter velger du den beslektede koblingen.  
 
 > [!NOTE]  
->   Hvis du mener at du skal ha tilgang til en utvidelse, men ikke finner funksjonaliteten, kontrollerer du vinduet **Administrasjon av utvidelse**. Hvis utvidelsen ikke er oppfÃ¸rt der, kan du installere den, som beskrevet i delen nedenfor.  
+>   Hvis du mener at du skal ha tilgang til en utvidelse, men ikke finner funksjonaliteten, kontrollerer du vinduet **Administrasjon av utvidelse**. Hvis utvidelsen ikke er oppført der, kan du installere den, som beskrevet i delen nedenfor.  
 
 ## <a name="installing-an-extension"></a>Installere en utvidelse
-Du kan fÃ¥ nye utvidelser fra markedsplassen pÃ¥ [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1). Her kan du se alle tilgjengelige utvidelser for [!INCLUDE[d365fin](includes/d365fin_md.md)], og du kan fÃ¥ apper, utvidelser og innholdspakker for andre Microsoft-produkter. Definer de aktuelle filtrene, ta en titt pÃ¥ informasjonen for hver utvidelse, og fÃ¥ en utvidelse for [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Du kan få nye utvidelser fra markedsplassen på [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1). Her kan du se alle tilgjengelige utvidelser for [!INCLUDE[d365fin](includes/d365fin_md.md)], og du kan få apper, utvidelser og innholdspakker for andre Microsoft-produkter. Definer de aktuelle filtrene, ta en titt på informasjonen for hver utvidelse, og få en utvidelse for [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 > [!NOTE]  
->   Logg pÃ¥ [AppSource.microsoft.com](https://appsource.microsoft.com/) ved Ã¥ bruke e-postkontoen du bruker med [!INCLUDE[d365fin](includes/d365fin_md.md)]. Bruk samme e-postkonto for andre tjenester og produkter for en problemfri opplevelse.  
+>   Logg på [AppSource.microsoft.com](https://appsource.microsoft.com/) ved å bruke e-postkontoen du bruker med [!INCLUDE[d365fin](includes/d365fin_md.md)]. Bruk samme e-postkonto for andre tjenester og produkter for en problemfri opplevelse.  
 
-Du kan ogsÃ¥ gÃ¥ til markedsplassen fra [!INCLUDE[d365fin](includes/d365fin_md.md)]. I vinduet **Administrasjon av utvidelse** kan du se utvidelsene som er installert, og du kan Ã¥pne **Markedsplass for utvidelser**-siden som viser [!INCLUDE[d365fin](includes/d365fin_md.md)]-utvidelsene som for Ã¸yheblikket er tilgjengelige i AppSource. Hvis du velger *Flere apper*-koblingen, kommer du til [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).  
+Du kan også gå til markedsplassen fra [!INCLUDE[d365fin](includes/d365fin_md.md)]. I vinduet **Administrasjon av utvidelse** kan du se utvidelsene som er installert, og du kan åpne **Markedsplass for utvidelser**-siden som viser [!INCLUDE[d365fin](includes/d365fin_md.md)]-utvidelsene som for øyheblikket er tilgjengelige i AppSource. Hvis du velger *Flere apper*-koblingen, kommer du til [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).  
 
-Hvis du velger en utvidelse, kan du lese om hva utvidelsen gjÃ¸r, og du kan fÃ¥ tilgang til hjelp for utvidelsen for Ã¥ finne ut mer. NÃ¥r du skaffer en utvidelse, mÃ¥ du godta vilkÃ¥rene for bruk. Hvis du fÃ¥r utvidelsen fra webomrÃ¥det for AppSource, logges du pÃ¥ [!INCLUDE[d365fin](includes/d365fin_md.md)] for Ã¥ fullfÃ¸re installasjonen.  
+Hvis du velger en utvidelse, kan du lese om hva utvidelsen gjør, og du kan få tilgang til hjelp for utvidelsen for å finne ut mer. Når du skaffer en utvidelse, må du godta vilkårene for bruk. Hvis du får utvidelsen fra webområdet for AppSource, logges du på [!INCLUDE[d365fin](includes/d365fin_md.md)] for å fullføre installasjonen.  
 
-NÃ¥r du installerer en utvidelse, mÃ¥ du kanskje konfigurere den, for eksempel angi en konto for bruk med utvidelsen **PayPal-betalingsstandard for [!INCLUDE[d365fin](includes/d365fin_md.md)]**.
-Andre utvidelser legger for eksempel ganske enkelt til felt pÃ¥ en eksisterende side, eller de legger til en ny side.   
+Når du installerer en utvidelse, må du kanskje konfigurere den, for eksempel angi en konto for bruk med utvidelsen **PayPal-betalingsstandard for [!INCLUDE[d365fin](includes/d365fin_md.md)]**.
+Andre utvidelser legger for eksempel ganske enkelt til felt på en eksisterende side, eller de legger til en ny side.   
 
-Hvis du avinstallerer en utvidelse og du deretter ombestemmer deg, kan du installere den pÃ¥ nytt. NÃ¥r du avinstallerer en utvidelse som du har brukt, beholdes dataene, slik at hvis du installerer utvidelsen pÃ¥ nytt, er dataene fremdeles tilgjengelige.  
+Hvis du avinstallerer en utvidelse og du deretter ombestemmer deg, kan du installere den på nytt. Når du avinstallerer en utvidelse som du har brukt, beholdes dataene, slik at hvis du installerer utvidelsen på nytt, er dataene fremdeles tilgjengelige.  
 
-Noen utvidelser leveres av Microsoft, og andre utvidelser leveres av [andre selskaper](ui-extensions-other.md). Alle utvidelser testes fÃ¸r de blir gjort tilgjengelige for deg, men vi anbefaler at du gÃ¥r til de angitte koblingene som fÃ¸lger med hver utvidelse, for Ã¥ finne ut mer om utvidelsen fÃ¸r du velger Ã¥ installere den.  
+Noen utvidelser leveres av Microsoft, og andre utvidelser leveres av [andre selskaper](ui-extensions-other.md). Alle utvidelser testes før de blir gjort tilgjengelige for deg, men vi anbefaler at du går til de angitte koblingene som følger med hver utvidelse, for å finne ut mer om utvidelsen før du velger å installere den.  
 
-Microsoft tilbyr fÃ¸lgende utvidelser:  
+Microsoft tilbyr følgende utvidelser:  
 
 * [Dynamics GP-datamigrering](ui-extensions-dynamicsgp-data-migration.md)  
 * [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
 * [Datamigrering for QuickBooks](ui-extensions-quickbooks-data-migration.md)  
 * [Salgs- og lagerprognose](ui-extensions-sales-forecast.md)  
-* [Ceridian lÃ¸nn](ui-extensions-ceridian-payroll.md)  
+* [Ceridian lønn](ui-extensions-ceridian-payroll.md)  
 * [Quickbooks Payroll-filimport](ui-extensions-quickbooks-payroll.md)  
 * [WorldPay Payments Standard](ui-extensions-worldpay-payments-standard.md)
 * [GetAddress.io UK Postcodes](ui-extensions-getaddressio.md)
 * [QuickBooks Online Data Migration](ui-extensions-quickbooks-online-data-migration.md)
-* [RegnskapsfÃ¸rerportal](ui-extensions-accountant-portal.md)  
+* [Regnskapsførerportal](ui-extensions-accountant-portal.md)  
 * [Image Analyzer](ui-extensions-image-analyzer.md)
 
 > [!NOTE]  
->  Nye utvidelser er ikke tilgjengelige i AppSource like etter at vi har kunngjort en oppdatering. Du kan fÃ¸lge med pÃ¥ utvidelsene pÃ¥ [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).
+>  Nye utvidelser er ikke tilgjengelige i AppSource like etter at vi har kunngjort en oppdatering. Du kan følge med på utvidelsene på [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).
 
-## <a name="see-also"></a>Se ogsÃ¥
+## <a name="see-also"></a>Se også
 [Aktiver kundebetalinger gjennom PayPal](sales-how-enable-payment-service-extensions.md)  
-[OverfÃ¸re forretningsdata fra andre Ã¸konomisystemer](upload-data.md)  
-[Konfigurere GetAddress.io UK Postal Code-utvidelsen](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)  
-[[!INCLUDE[d365fin](includes/d365fin_md.md)]-utvidelser fra andre leverandÃ¸rer](ui-extensions-other.md)  
+[Overføre forretningsdata fra andre økonomisystemer](upload-data.md)    
+[[!INCLUDE[d365fin](includes/d365fin_md.md)]-utvidelser fra andre leverandører](ui-extensions-other.md)  
 [Velkommen til [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 
 ##
+
 

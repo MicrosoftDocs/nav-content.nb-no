@@ -379,10 +379,4 @@
     <Node Name="" DisplayName="Designdetaljer: Varesporing" Page="design-details-item-tracking.html"/>
     <Node Name="" DisplayName="Designdetaljer: Finanskladd – bokfør linje" Page="design-details-general-journal-post-line.html"/>
   </Node>
-  <Node Name="" DisplayName="Lokal funksjonalitet" Page="index.html">
-    <Node Name="" DisplayName="Canada" Page="LocalFunctionality/Canada/canada-local-functionality.html"/>
-    <Node Name="" DisplayName="Danmark" Page="LocalFunctionality/Denmark/denmark-local-functionality.html"/>
-    <Node Name="" DisplayName="Storbritannia" Page="LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.html"/>
-    <Node Name="" DisplayName="USA" Page="LocalFunctionality/UnitedStates/united-states-local-functionality.html"/>
-  </Node>
 </Node>

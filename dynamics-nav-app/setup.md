@@ -57,5 +57,3 @@ Noen områder krever at du er administrator i [!INCLUDE[d365fin](includes/d365fi
 [Oppsett og administrasjon i [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
 [Velkommen til [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 
-##
-

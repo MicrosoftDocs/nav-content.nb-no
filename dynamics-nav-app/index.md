@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard
-ms.date: 08/23/2017
+ms.date: 02/11/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3162ca9bc53f862c1602f96ddf5eb7e9c7125005
+ms.sourcegitcommit: 3554bd08bf30f5faca43b4308a91f3c66e1baded
+ms.openlocfilehash: 30a9b0a3a283660359702788423811f756c94955
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 11/02/2017
 
 ---
 # <a name="welcome-to-included365finlongincludesd365finlongmdmd"></a>Velkommen til [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -39,7 +39,7 @@ Hjemmesider bruker en rollesentrert design for å gi rask tilgang til forretning
 
 Hver hjemmeside inneholder en **Oppsett og utvidelser**-knapp. Her har du tilgang til en liste over assistert oppsett som kan hjelpe deg med å komme i gang ved å definere utvalgte områder raskt. Hvis et område ikke er dekket av et automatisk oppsett, velger du **Manuelt oppsett** for å få tilgang til oppsettvinduer der du kan fylle ut oppsettfelt for alle områder manuelt. Hvis du vil ha mer informasjon, kan du også se [Konfigurere [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md).  
 
-| Assistert oppsett | Description |
+| Assistert oppsett | Beskrivelse |
 | --- | --- |
 | Overfør forretningsdata |Lar deg importere eksisterende firmadata, for eksempel leverandører, kunder og varer, fra Excel eller Quickbooks. |
 | Konfigurere Mitt selskap |Oppretter et nytt prøvefirma der du kan skrive inn data og prøve [!INCLUDE[d365fin](includes/d365fin_md.md)]. Hvis du gikk gjennom innføringen Komme i gang, er denne sannsynligvis allerede **Fullført**. |

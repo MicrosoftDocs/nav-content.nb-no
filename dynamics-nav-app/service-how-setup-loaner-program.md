@@ -3,7 +3,7 @@ title: "Definere utlånsobjekter"
 description: "Du kan definere utlånsobjekter som du kan låne ut til kunder for å erstatte servicevarer mens de får service."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/31/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b86c36911203aa59993dba01fa02a0551a359dd8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f5025e6dbe9f18cd39e7256c21878480f9415090
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-a-loaner-program"></a><span data-ttu-id="48009-103">Konfigurere et program for utlånsobjekter</span><span class="sxs-lookup"><span data-stu-id="48009-103">How to: Set Up a Loaner Program</span></span>

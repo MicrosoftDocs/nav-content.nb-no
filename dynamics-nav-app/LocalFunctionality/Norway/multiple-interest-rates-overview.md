@@ -3,7 +3,7 @@ title: Oversikt over flere rentesatser
 description: For hver rentenotabetingelseskode kan du angi flere rentesatser slik at du kan beregne rentebelastninger med flere rentesatser for en bestemt periode.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: f9d0de1d1956d90584a4cc84a724ad9c75791272
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f574b65316f277ca4b0f24f10f012c5ca4a18f97
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="multiple-interest-rates-overview"></a><span data-ttu-id="72724-103">Oversikt over flere rentesatser</span><span class="sxs-lookup"><span data-stu-id="72724-103">Multiple Interest Rates Overview</span></span>

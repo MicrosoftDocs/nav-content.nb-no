@@ -3,7 +3,7 @@ title: Velkommen
 description: "Skisserer de assisterte oppsettsveiledningene, videoene, hjelpeemnene og sidene og vinduene du bruker til å bli klar til å gjøre forretninger i Dynamics NAV."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: SMTP, mail, Office 365, setup, wizard, experience
 ms.date: 03/21/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 8a7683886f3f823e8bdbd47b007f58c2c65c0f2d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 602a648ebc6bdd23622caa2aaef71bf5f2269383
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="getting-ready-for-doing-business"></a><span data-ttu-id="87990-103">Bli klar til å gjøre forretninger</span><span class="sxs-lookup"><span data-stu-id="87990-103">Getting Ready for Doing Business</span></span>

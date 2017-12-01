@@ -2,7 +2,7 @@
 title: Konfigurere sending og mottak av elektroniske dokumenter
 description: "Som et alternativ til å sende forretningsdokumenter som filvedlegg via e-post, kan du sende og motta dem elektronisk."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 3ddac8fe7edaded893d7bf63538e3145dead0602
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: eb90afd791f620b0c3059d8aca6ef5100cb802eb
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-electronic-document-sending-and-receiving"></a><span data-ttu-id="fc398-103">Konfigurere sending og mottak av elektroniske dokumenter</span><span class="sxs-lookup"><span data-stu-id="fc398-103">How to: Set Up Electronic Document Sending and Receiving</span></span>

@@ -3,7 +3,7 @@ title: Opprette analyserapporter
 description: "Beskriver hvordan du oppretter nye analyserapporter for salg, kjøp og beholdning, og definerer analysemaler."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 06/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 72f1597eb226ee2a291b21faf83f582d6bdfa3f2
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 82c4c7f449600a1336502d9f67f9b8bdb1d3694d
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 #  <a name="how-to-create-analysis-reports"></a><span data-ttu-id="54c9a-103">Opprette analyserapporter</span><span class="sxs-lookup"><span data-stu-id="54c9a-103">How to: Create Analysis Reports</span></span>

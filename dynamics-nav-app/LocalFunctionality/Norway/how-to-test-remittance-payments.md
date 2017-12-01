@@ -3,7 +3,7 @@ title: Kontrollere remitteringsoppdrag
 description: "Etter at du har opprettet remitteringsoppdrag og generert forslag, kan du kontrollere at det ikke finnes feil i utbetalingskladdelinjene før du bokfører dem."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 251283bc1e26cf4cead1d9fbbe9a8bfdeb93618e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2cdf50a359d37ca833283b5c64e7440098df813f
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-test-remittance-payments"></a><span data-ttu-id="73ebd-103">Kontrollere remitteringsoppdrag</span><span class="sxs-lookup"><span data-stu-id="73ebd-103">How to: Test Remittance Payments</span></span>

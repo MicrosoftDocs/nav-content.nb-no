@@ -3,7 +3,7 @@ title: "Bokføre vrak manuelt"
 description: "Hvis det ikke produseres vrak i løpet av behandlingen, kan det angis i ferdigmeldingskladden. Merk at vrakantallet ikke øker avgangsantallet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 230cf065c08cbff3c197457f3007470a1e8f7102
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: cb97a58db906640543b6cdecdd47b69b12b8c9df
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-post-scrap-manually"></a><span data-ttu-id="3da0b-104">Bokføre vrak manuelt</span><span class="sxs-lookup"><span data-stu-id="3da0b-104">How to: Post Scrap Manually</span></span>

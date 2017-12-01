@@ -3,7 +3,7 @@ title: "Håndtere salgsmuligheter og interessenter"
 description: "Beskriver håndtering av innkommende interessenter eller salgsmuligheter i Dynamics NAV og tilknytningen av salgsmuligheten til en selger for å holde rede på potensielt salg."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 92b20d0ef49e3ed5d10ec218c62463a29c5163ea
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 002ff760a803035df35d77e80ed4d0619a58ee6d
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-sales-opportunities"></a><span data-ttu-id="b7dcc-103">Håndtere salgsmuligheter</span><span class="sxs-lookup"><span data-stu-id="b7dcc-103">Managing Sales Opportunities</span></span>

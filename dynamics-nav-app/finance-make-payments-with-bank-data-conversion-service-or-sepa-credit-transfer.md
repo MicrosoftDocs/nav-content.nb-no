@@ -2,7 +2,7 @@
 title: Velg metoden for elektroniske betalinger
 description: "Behandle betalinger til leverandører i -vinduet ved å eksportere en fil sammen med betalingsinformasjonen fra kladdelinjene."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: baafa833fb170fb05f866aac91a05085545aaf97
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 5502f9c50f00456b7a3b04a1cdce25e647671b29
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer"></a><span data-ttu-id="000a9-103">Betale med tjenesten for bankdatakonvertering eller SEPA-kredittoverføring</span><span class="sxs-lookup"><span data-stu-id="000a9-103">Make Payments with Bank Data Conversion Service or SEPA Credit Transfer</span></span>

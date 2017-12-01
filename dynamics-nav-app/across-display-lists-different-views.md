@@ -3,7 +3,7 @@ title: Justere hvor mange detaljer som vises i lister
 description: "Du kan vise lister i detaljerte visninger som gir mer informasjon, eller som fliser som det går raskt å se gjennom."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: personalization
 ms.date: 06/02/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e634e992e8ab52b1396391b530b2f0b8716366f3
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 89bd2992ff81d6b756b2125e10bb7a757180f38b
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="displaying-lists-in-different-ways"></a><span data-ttu-id="1caea-103">Vise lister på ulike måter</span><span class="sxs-lookup"><span data-stu-id="1caea-103">Displaying Lists in Different Ways</span></span>

@@ -3,7 +3,7 @@ title: "Definere transportører"
 description: "Du kan definere en kode for hver enkelt transportør og angi opplysninger om dem."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: aa35d295c4c4f527a55394ca3777b978bd33e0b9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 5212c0be8e0efdaa088500edc9ac71c46783eba7
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-shipping-agents"></a><span data-ttu-id="d47b3-103">Definere transportører</span><span class="sxs-lookup"><span data-stu-id="d47b3-103">How to: Set Up Shipping Agents</span></span>

@@ -3,7 +3,7 @@ title: Definere dokumentutskrift
 description: "I [!INCLUDE[navnow](../../includes/navnow_md.md)] kan du skrive ut salgsrapportene som bruker de nødvendige girospesifikasjonene, ved bruk av forskjellige papirtyper og -skuffer."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 435c7f029d525526fb3e0af505dfb85c1fc0aa2d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 45763924608879e1d2ccb28fa0fc3e342c104aaa
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-document-printing"></a><span data-ttu-id="90733-103">Definere dokumentutskrift</span><span class="sxs-lookup"><span data-stu-id="90733-103">How to: Set Up Document Printing</span></span>

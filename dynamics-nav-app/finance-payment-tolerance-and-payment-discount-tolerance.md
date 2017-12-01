@@ -3,7 +3,7 @@ title: Betalingstoleranse og Toleransegrense for kontantrabatt
 description: "Du kan konfigurere betalingstoleranse til å lukke en faktura når betalingen ikke fullt ut dekker fakturabeløpet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/10/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1cd3d0ea7e1543707dbc197eec02d0691dd8e42c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 3ca90dff771ff7075077e1a1e6aaf2655a248f5c
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-work-with-payment-tolerances-and-payment-discount-tolerances"></a><span data-ttu-id="ecdf9-103">Arbeide med betalingstoleranser og toleransegrenser for kontantrabatt</span><span class="sxs-lookup"><span data-stu-id="ecdf9-103">How to: Work with Payment Tolerances and Payment Discount Tolerances</span></span>

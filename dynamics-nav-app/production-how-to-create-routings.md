@@ -3,7 +3,7 @@ title: Opprette ruter
 description: "En rute inneholder hoveddata som gjenspeiler prosesskravene for en gitt produsert vare. Når en produksjonsordre opprettes for denne varen, styrer varens rute planleggingen av operasjoner som vist i vinduet **Prod.ordrerute** under produksjonsordren."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/04/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 49cce1f32f1d66dc17c0d9758937541ef1baaae7
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7f5aba039f8956c8f4f88a57e71aed4adda0d573
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-routings"></a><span data-ttu-id="b0406-104">Opprette ruter</span><span class="sxs-lookup"><span data-stu-id="b0406-104">How to: Create Routings</span></span>

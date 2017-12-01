@@ -3,7 +3,7 @@ title: "Gjøre rede for kostnader"
 description: "Kostregnskap brukes til å hjelpe deg med å forstå kostnadene ved å drive et selskap. Se følgende emner for å komme i gang med kostregnskap."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ff831c7c2983ed5fd5bbb2dd90d30c2783e97d31
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6bcf5fa61b1ce6ceb750f00559d69662fd34bf94
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="accounting-for-costs"></a><span data-ttu-id="fc6bf-104">Gjøre rede for kostnader</span><span class="sxs-lookup"><span data-stu-id="fc6bf-104">Accounting for Costs</span></span>

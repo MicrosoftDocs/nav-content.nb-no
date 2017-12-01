@@ -3,7 +3,7 @@ title: "Definere prosesser for servicehåndtering"
 description: "Lær hvordan du konfigurerer prosesser som sørger for at kundene dine er tilfreds med kundeservicen."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: service, number sequences, setup, warnings, fee, contracts, 
 ms.date: 08/22/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e6f141d2d053f46b81108b9922ad4b1094674293
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fc347a14b4ed49b89b63947b05b97e5bfeab6b1b
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-configure-service-processes"></a><span data-ttu-id="e0607-103">Konfigurere serviceprosesser</span><span class="sxs-lookup"><span data-stu-id="e0607-103">How to: Configure Service Processes</span></span>

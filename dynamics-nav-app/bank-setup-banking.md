@@ -3,7 +3,7 @@ title: Definere bankvesen
 description: "Du bruker bankkort til å holde oversikt over bankkontiene dine og definere bankfeeder for å utveksle data."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: feed, stream, data exchange, AMC, link
 ms.date: 06/02/2016
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e1325a62d771502f1ba0d28cfa4efb5682297349
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9bc92a5e2e506fdfa221497ac3aa5c6b101226b1
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-banking"></a><span data-ttu-id="20a85-103">Konfigurere banktjenester</span><span class="sxs-lookup"><span data-stu-id="20a85-103">Setting Up Banking</span></span>

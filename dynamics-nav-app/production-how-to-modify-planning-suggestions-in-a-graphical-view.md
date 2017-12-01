@@ -3,7 +3,7 @@ title: Endre planleggingsforslag i en grafisk visning
 description: "En typisk planleggingsaktivitet er å endre eller legge til planleggingsforslagslinjer for å endre de foreslåtte forsyningsordrene før du utfører dem, ved å kjøre funksjonen **Utfør handlingsmelding**. Et alternativ til å gjøre dette i planleggingsforslaget er å bruke en grafisk visning."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8c409a414166a200e6847a9646a99a61962e22db
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ae69e6461f405f2e245c50d5c4da4aa7f7d36b98
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-modify-planning-suggestions-in-a-graphical-view"></a><span data-ttu-id="7bda3-104">Endre planleggingsforslag i en grafisk visning</span><span class="sxs-lookup"><span data-stu-id="7bda3-104">How to: Modify Planning Suggestions in a Graphical View</span></span>

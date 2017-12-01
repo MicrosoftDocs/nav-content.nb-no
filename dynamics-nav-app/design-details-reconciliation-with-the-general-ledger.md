@@ -3,7 +3,7 @@ title: Designdetaljer - Avstemming med konti i Finans
 description: "Dette emnet beskriver avstemming mot Finans når du bokfører lagertransaksjoner, for eksempel følgesedler, produksjonsavgang eller nedjusteringer."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, reconciliation, general ledger, inventory
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e962cdb35e9267f4b320073c018256153463d492
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 13ca78e712a9f551da8fbfe9903eddd386028eb9
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-reconciliation-with-the-general-ledger"></a><span data-ttu-id="e2608-103">Designdetaljer: Avstemming med konti i Finans</span><span class="sxs-lookup"><span data-stu-id="e2608-103">Design Details: Reconciliation with the General Ledger</span></span>

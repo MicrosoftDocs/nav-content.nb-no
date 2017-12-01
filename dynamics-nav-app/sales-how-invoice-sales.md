@@ -3,7 +3,7 @@ title: Opprett en salgsfaktura eller ordre
 description: "Beskriver hvordan du oppretter en sluttseddel, eller en salgsfaktura eller ordre, for å registrere avtalen med en kunde om å selge produkter i samsvar med bestemte betingelser."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: bill, sale, invoice, order
 ms.date: 10/11/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7da07d1491fde4e555ea259f61babc02664094a8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7080c1d4190434d7809b2560183d7c7831e2bbf0
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-invoice-sales"></a><span data-ttu-id="ec2e8-103">Fakturere salg</span><span class="sxs-lookup"><span data-stu-id="ec2e8-103">How to: Invoice Sales</span></span>

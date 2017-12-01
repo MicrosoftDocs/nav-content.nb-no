@@ -3,7 +3,7 @@ title: Designdetaljer - Laste inn lagerprofiler
 description: "For å sortere ut de mange kildene til behov og forsyning organiserer planleggingssystemet dem på to tidslinjer kalt beholdningsprofiler."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 68c7821eae68a3b0c5b2603a10130d1e44eaef6b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: bcca4c463d9e0666d19ebd442d1c628e9807f4b3
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-loading-the-inventory-profiles"></a><span data-ttu-id="2e5de-103">Designdetaljer: Laste inn lagerprofiler</span><span class="sxs-lookup"><span data-stu-id="2e5de-103">Design Details: Loading the Inventory Profiles</span></span>

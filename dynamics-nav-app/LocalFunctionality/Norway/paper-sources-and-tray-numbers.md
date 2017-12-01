@@ -3,7 +3,7 @@ title: Papirkilder og skuffnumre
 description: "Når du skriver ut norske salgsdokumenter, kan du definere forskjellige skuffnumre og papirkilder på første, siste og andre sider."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: ff9b4482418552637a9668e68e55b63d9ab00e20
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 51fab6acc1c966876179ddcc0c13a2c8bd2fb454
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="paper-sources-and-tray-numbers"></a><span data-ttu-id="f101b-103">Papirkilder og skuffnumre</span><span class="sxs-lookup"><span data-stu-id="f101b-103">Paper Sources and Tray Numbers</span></span>

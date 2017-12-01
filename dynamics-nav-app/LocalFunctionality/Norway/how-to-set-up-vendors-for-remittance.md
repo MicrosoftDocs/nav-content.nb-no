@@ -3,7 +3,7 @@ title: "Angi leverandører for remittering"
 description: "Forbedringer i den norske versjonen inkluderer automatisk betaling til leverandører. Dette reduserer sjansen for at feil skal oppstå på grunn av manuell registrering av data. Du må angi leverandørinformasjon for å betale leverandører ved hjelp av remitteringssystemet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 59e27dab8e933e126d185036ce943c708b55b46b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6ef64b47537e0364baf7ccddebc1f9c8dfd2a721
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-vendors-for-remittance"></a><span data-ttu-id="0c521-105">Angi leverandører for remittering</span><span class="sxs-lookup"><span data-stu-id="0c521-105">How to: Set Up Vendors for Remittance</span></span>

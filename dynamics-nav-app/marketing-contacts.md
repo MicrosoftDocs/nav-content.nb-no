@@ -3,7 +3,7 @@ title: Opprette og administrere firmakontakter
 description: "Du kan definere alle de eksterne enhetene du har et forretningsforhold til (for eksempel prospekter, kunder, leverandører og konsulenter), som kontakter."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 0435981d8a96ca480260a9a4020aa05d07bc3e3c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 358a114864289524da3fe8b8bb658447593e924e
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="creating-and-managing-contacts"></a><span data-ttu-id="02569-103">Opprette og administrere kontakter</span><span class="sxs-lookup"><span data-stu-id="02569-103">Creating and Managing Contacts</span></span>

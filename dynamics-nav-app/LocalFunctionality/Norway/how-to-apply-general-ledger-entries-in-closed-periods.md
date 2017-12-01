@@ -3,7 +3,7 @@ title: Utligne finansposter i lukkede perioder
 description: "Du kan bokføre postene etter at en bokføringsperiode er lukket, selv om ingen bokføringer ble utført i den perioden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 7583562050d0d4d515c2a5b404bf7e80fe755558
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7445328563f94ba61a71ec45c8532cd64ae4fbb9
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-apply-general-ledger-entries-in-closed-periods"></a><span data-ttu-id="6f87a-103">Utligne finansposter i lukkede perioder</span><span class="sxs-lookup"><span data-stu-id="6f87a-103">How to: Apply General Ledger Entries in Closed Periods</span></span>

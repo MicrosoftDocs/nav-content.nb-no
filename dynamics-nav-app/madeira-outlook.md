@@ -3,7 +3,7 @@ title: Bruke Dynamics NAV med Outlook
 description: "Dynamics NAV er tett integrert med Office 365, slik at du kan behandle alle forretningssamhandlinger og e-postmeldinger med kunder og leverandører direkte i Outlook."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: SMTP, mail, Office 365
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 832f07d5419f9dbb02059bd412563e2087c9b791
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1be769e798ee1bc7c65b21dbf45287c0bfdf9ba1
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="using-dynamics-nav-as-your-business-inbox-in-outlook"></a><span data-ttu-id="944a2-103">Bruke Dynamics NAV som innboks for virksomheten i Outlook</span><span class="sxs-lookup"><span data-stu-id="944a2-103">Using Dynamics NAV as your Business Inbox in Outlook</span></span>

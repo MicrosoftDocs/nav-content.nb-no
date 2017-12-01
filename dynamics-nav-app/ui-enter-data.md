@@ -2,7 +2,7 @@
 title: Skrive inn data i felt
 description: "Det er mange generelle funksjoner du kan bruke til å skrive inn data raskt og enkelt. De generelle funksjonene for å skrive inn data beskrives i dette emnet."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/19/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 79606a152d67ed24c00b3e9d93ccd4fc670b2a5b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 52c033218a0a3ebae41b4acb689059fb35b69f0c
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="entering-data"></a><span data-ttu-id="9df09-104">Skrive inn data</span><span class="sxs-lookup"><span data-stu-id="9df09-104">Entering Data</span></span>

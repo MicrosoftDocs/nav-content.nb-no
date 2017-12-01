@@ -3,7 +3,7 @@ title: Sette opp et diagram med kosttyper
 description: "Diagrammet med kosttyper ligner på kontoplanen i finans."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: cost types, general ledger, accounts
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 104b057639090bd9797f06ebcc6b573899b9f87c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9715ba8a2fc4669a96a45d0576599c898c574bec
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-cost-types"></a><span data-ttu-id="1b870-103">Definere kosttyper</span><span class="sxs-lookup"><span data-stu-id="1b870-103">How to: Set Up Cost Types</span></span>

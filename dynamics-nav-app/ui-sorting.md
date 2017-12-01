@@ -3,7 +3,7 @@ title: Ordne data ved hjelp av sorteringsfunksjonen
 description: "Du kan bruke sorteringsfunksjonen til å få en oversikt over dataene. Du kan for eksempel sortere kunder etter valutakode for å få et velge et utvalg av kunder."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 02/07/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d73f17a026046ecaae0bd451b412d2d58460f74b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6666ff7650e488594389202aa4c4e32b850567cb
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="sorting"></a><span data-ttu-id="75300-104">Sortering</span><span class="sxs-lookup"><span data-stu-id="75300-104">Sorting</span></span>

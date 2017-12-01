@@ -3,7 +3,7 @@ title: Vise egendefinerte Power BI-rapporter
 description: "Du kan bruke Power BI-rapporter til å få ytterligere innsikt i data i lister i Dynamics NAV."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a764ce61fa20414c9fb36bda74dc5784db85b01a
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fc935a4244d1fb6c2cd113473892e03a021f52e4
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="viewing-list-data-in-power-bi-reports-in-dynamics-nav"></a><span data-ttu-id="2beb9-103">Vise listedata i Power BI-rapporter i Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="2beb9-103">Viewing List Data in Power BI Reports in Dynamics NAV</span></span>

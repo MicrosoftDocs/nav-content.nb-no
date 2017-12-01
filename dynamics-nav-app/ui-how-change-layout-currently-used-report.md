@@ -3,7 +3,7 @@ title: "Endre utseendet på en rapport ved å velge et annet oppsett"
 description: "Du kan bruke ulike oppsett for en rapport og bytte mellom oppsett for å endre utseendet på den."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 03/29/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7fc680503a3fb2d685758b69e123dc98b2d98e75
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e3c919930421bcbb57a7452b80b69880f8859d7b
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-change-which-layout-is-currently-used-on-a-report"></a><span data-ttu-id="4b734-103">Endre gjeldende oppsett som skal brukes i en rapport</span><span class="sxs-lookup"><span data-stu-id="4b734-103">How to: Change Which Layout is Currently Used on a Report</span></span>

@@ -3,7 +3,7 @@ title: 'Designdetaljer: Varesporing og reservasjoner'
 description: Dette emnet handler om varesporing og reservasjoner og beskriver konseptene bak to.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b7d9d4763116bf5db5643af658d06ab4f3c264f3
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 64083e846762d197e068ab58156c3f358a3227d3
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-item-tracking-and-reservations"></a><span data-ttu-id="a2ddc-103">Designdetaljer: Varesporing og reservasjoner</span><span class="sxs-lookup"><span data-stu-id="a2ddc-103">Design Details: Item Tracking and Reservations</span></span>

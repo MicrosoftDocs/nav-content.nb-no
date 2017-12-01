@@ -3,7 +3,7 @@ title: "Oversikt over rapporter for å klargjøre avslutningsoppgaver"
 description: "Gir en oversikt over rapporter du kan bruke til å innhente informasjonen for å klargjøre selskapets avslutningsoppgaver når regnskapsåret er over."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ag
 ms.date: 06/02/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 240fd8eb76a430ab3163ab4326c3c077df838cba
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9c38646d2cb1f4bed2b7988326c1e55c690d6134
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="preparing-closing-statements"></a><span data-ttu-id="e7259-103">Forberede avslutningsoppgaver</span><span class="sxs-lookup"><span data-stu-id="e7259-103">Preparing Closing Statements</span></span>

@@ -3,7 +3,7 @@ title: "Elektroniske betalinger til leverandører i Norge"
 description: "Forbedringer i den norske versjonen inkluderer automatisk betaling til leverandører."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: bc69c80dfe23a396f2808eca3dee4a375c1c81cc
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 470514afa654a382e5d7ae883f8414616a2f7537
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="electronic-payments-to-vendors-in-norway"></a><span data-ttu-id="3f4ce-103">Elektroniske betalinger til leverandører i Norge</span><span class="sxs-lookup"><span data-stu-id="3f4ce-103">Electronic Payments to Vendors in Norway</span></span>

@@ -3,7 +3,7 @@ title: Planlegge prosjektordrer
 description: "Denne planleggingsoppgaven starter fra en ordre og bruker **Ordreplanlegging**-vinduet. Når du har opprettet en prosjektproduksjonsordre, kan du planlegge den videre ved hjelp av **Ordreplanlegging**-vinduet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a03cdaf16b25cbcf030e9a33c538ea3df96a1fe9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 598b36668c58dbc38679e607ed7648692137ebf3
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-plan-project-orders"></a><span data-ttu-id="793d6-104">Planlegge prosjektordrer</span><span class="sxs-lookup"><span data-stu-id="793d6-104">How to: Plan Project Orders</span></span>

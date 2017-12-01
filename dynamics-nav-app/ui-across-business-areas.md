@@ -3,7 +3,7 @@ title: "Bruke generelle funksjoner på tvers av forretningsområder"
 description: "Finn ut mer om funksjonene som brukes på tvers av forretningsområder i Dynamics NAV."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: feature overview, functionality
 ms.date: 08/21/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e311caa515f057320f43692d639490b41f8ae6d3
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: db9afbc9e0ef2c8244e3935a262f6db18487bd1f
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="general-business-functionality"></a><span data-ttu-id="f74fb-103">Generelle forretningsfunksjoner</span><span class="sxs-lookup"><span data-stu-id="f74fb-103">General Business Functionality</span></span>

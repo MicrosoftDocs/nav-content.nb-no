@@ -3,7 +3,7 @@ title: Norske mva-koder
 description: I [!INCLUDE[navnow](../../includes/navnow_md.md)] kan mva-behandlingsinformasjon enkelt defineres ved hjelp av norske standard mva-koder.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 5f8e09e89abc3b90d8cd66bf5ea980e822c77f89
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 3a0ba33c430a77f54e44abf7ccd2f4c1d24cbc17
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="norwegian-vat-codes"></a><span data-ttu-id="94d8c-103">Norske mva-koder</span><span class="sxs-lookup"><span data-stu-id="94d8c-103">Norwegian VAT Codes</span></span>

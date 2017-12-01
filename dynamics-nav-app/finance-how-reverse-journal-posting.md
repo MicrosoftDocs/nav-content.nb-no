@@ -3,7 +3,7 @@ title: "Angre en bokføring ved å bokføre en tilbakeføringspost"
 description: "Hvis du har foretatt en feilaktig bokføring i finanskladden, kan du bruke funksjonen Tilbakefør transaksjon til å angre bokføringen med et riktig revisjonsspor."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: reimbursement
 ms.date: 08/03/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 2970914c36f892a5610509e9dc4015d0fb159642
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 5dc4bae134cb9be93e6fd026dbc88d0eab602abf
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-reverse-postings"></a><span data-ttu-id="27dfb-103">Tilbakeføre bokføringer</span><span class="sxs-lookup"><span data-stu-id="27dfb-103">How to: Reverse Postings</span></span>

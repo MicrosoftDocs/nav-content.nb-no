@@ -3,7 +3,7 @@ title: Opprette gjentakelsesordrer
 description: "Funksjonen for å opprette gjentakelsesordrer finner alle gjentakelsesordrene som samsvarer med alternativene du har valgt i vinduet **Opprett gjentakelsesordrer**, og oppretter de nye salgsordrene."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 1384dd40e0a550ee37664ee6ad3f580d315fc21a
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 46ef2e11dd246da029ffecd468c933c9de4243b7
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-recurring-orders"></a><span data-ttu-id="7ed48-103">Opprette gjentakelsesordrer</span><span class="sxs-lookup"><span data-stu-id="7ed48-103">How to: Create Recurring Orders</span></span>

@@ -3,7 +3,7 @@ title: Annullere betalinger
 description: "Forbedringer i den norske versjonen gjør det mulig å annullere betalinger."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: d99fdb1d63c0ea2d75100b12954c6dd5c84fe90c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d1c3db8598b0993e03509336e132a9952fe777d0
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-cancel-payments"></a><span data-ttu-id="78bfb-103">Annullere betalinger</span><span class="sxs-lookup"><span data-stu-id="78bfb-103">How to: Cancel Payments</span></span>

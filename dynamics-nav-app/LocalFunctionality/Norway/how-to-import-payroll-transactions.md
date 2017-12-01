@@ -3,7 +3,7 @@ title: "Lese inn lønnstransaksjoner"
 description: "Du kan importere lønnstransaksjoner til en finanskladd fra to eksterne lønnslisteløsninger."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 362c6dd49d78ccf064f7ce34259421d765cb363a
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 02a1b9f99e5d282740fc4ff2e1db0c91a098fd51
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-import-payroll-transactions"></a><span data-ttu-id="a8621-103">Lese inn lønnstransaksjoner</span><span class="sxs-lookup"><span data-stu-id="a8621-103">How to: Import Payroll Transactions</span></span>

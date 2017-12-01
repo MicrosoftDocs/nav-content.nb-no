@@ -3,7 +3,7 @@ title: "Minstekrav for å bruke Dynamics NAV"
 description: "Lær om minimumskrav til system og versjon for bruk av Dynamics NAV."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: version
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 06b8a3b15b149144f315f4838a6c1345d7c47e0f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f3c7404423b7cfeca89e184bbe114b4598bfc472
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="minimum-requirements-for-using-dynamics-nav"></a><span data-ttu-id="24941-103">Minstekrav for å bruke Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="24941-103">Minimum Requirements for Using Dynamics NAV</span></span>

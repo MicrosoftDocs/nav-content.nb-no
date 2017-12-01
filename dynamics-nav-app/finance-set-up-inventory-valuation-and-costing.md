@@ -3,7 +3,7 @@ title: Definere lagerverdisetting og kostberegning
 description: Tabellen nedenfor beskriver en sekvens av oppgaver, og har koblinger til emnene som beskriver dem.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3ff4138a200f7bfa4e24aa4e5e421cfa73d24fa2
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ef757d2378e5b0c1499edec1844e945ecc1c7e6c
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-inventory-valuation-and-costing"></a><span data-ttu-id="35c7b-103">Definere lagerverdisetting og kostberegning</span><span class="sxs-lookup"><span data-stu-id="35c7b-103">Setting Up Inventory Valuation and Costing</span></span>

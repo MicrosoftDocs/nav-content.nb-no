@@ -3,7 +3,7 @@ title: Telle, justere og reklassifisere lagerbeholdning
 description: "Beskriver hvordan du utfører fysisk telling og foretar negative eller positive justeringer, og hvordan du endrer informasjon, for eksempel lokasjons- eller partinummer, i vareposter eller lagerposter."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: adjustment, negative, positive, increase, decrease
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4d53e6e9b64e0f5c790abb0f62f66a2b28c12c50
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 3b2c3484067caaea98666a2df1ef5596af3becec
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-count-adjust-and-reclassify-inventory"></a><span data-ttu-id="ea25f-103">Telle, justere og reklassifisere lagerbeholdning</span><span class="sxs-lookup"><span data-stu-id="ea25f-103">How to: Count, Adjust, and Reclassify Inventory</span></span>

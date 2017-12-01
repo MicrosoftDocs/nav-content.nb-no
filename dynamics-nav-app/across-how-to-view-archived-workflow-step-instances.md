@@ -3,7 +3,7 @@ title: Vise arkiverte forekomster av arbeidsflyttrinn
 description: "Alle fullførte forekomster for arbeidsflyttrinn lagres i vinduet **Arkiverte forekomster for arbeidsflyttrinn**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4e7224e72107c50c358f92b3158fccc8d564ba55
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 55d3a4f397f5c3f69fd1ed90aa92e532315091cf
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-view-archived-workflow-step-instances"></a><span data-ttu-id="7e2bf-103">Vise arkiverte forekomster av arbeidsflyttrinn</span><span class="sxs-lookup"><span data-stu-id="7e2bf-103">How to: View Archived Workflow Step Instances</span></span>

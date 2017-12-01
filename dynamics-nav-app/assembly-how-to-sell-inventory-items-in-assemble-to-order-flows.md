@@ -3,7 +3,7 @@ title: Selge lagervarer i monter-til-ordre-flyter
 description: "Hvis varen er definert for et kort for en Monter til ordre, forutsetter standard ordreprosess at varen ikke er på lager og må monteres for denne bestemte ordren. Det blir derfor automatisk opprettet en monteringsordre når du legger varen til på en ordrelinje."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/15/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 0d907c5f96c4af0e28a04292bee2c21865346593
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 56001ab9712535be66a2465e2995478130857603
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-sell-inventory-items-in-assemble-to-order-flows"></a><span data-ttu-id="2e984-104">Selge lagervarer i monter-til-ordre-flyter</span><span class="sxs-lookup"><span data-stu-id="2e984-104">How to: Sell Inventory Items in Assemble-to-Order Flows</span></span>

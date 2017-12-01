@@ -3,7 +3,7 @@ title: Designdetaljer - Interne lagerflyter
 description: "Flyten av varer mellom hyller på en selskapslokasjon dreier seg i hovedsak om å plukke komponenter og plassere sluttvarer for montering eller produksjonsordrer og adhocflyttinger, for eksempel etterfylling av hyller, uten en relasjon til kildedokumenter."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 2a58da6d3b8a651016c842c083f1954fad3fd7a1
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ee1a7aaa1c4b8cf2ce4c37e904cbe15e4faaea8a
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-internal-warehouse-flows"></a><span data-ttu-id="e3cf9-103">Designdetaljer: Interne lagerflyter</span><span class="sxs-lookup"><span data-stu-id="e3cf9-103">Design Details: Internal Warehouse Flows</span></span>

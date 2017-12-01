@@ -2,7 +2,7 @@
 title: Felttilordning ved import av SEPA CAMT-filer
 description: I europeiske markeder kan du importere bankkontoutdragsfiler i de regionale SEPA-standardene (Single Euro Payments Area).
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: bf5f65ae5535f765a93c32fee89b80cb9f79b09f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6721fbfc76b1cca924806ab366d2193e6f523707
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="field-mapping-when-importing-sepa-camt-files"></a><span data-ttu-id="63a92-103">Felttilordning ved import av SEPA CAMT-filer</span><span class="sxs-lookup"><span data-stu-id="63a92-103">Field Mapping When Importing SEPA CAMT Files</span></span>

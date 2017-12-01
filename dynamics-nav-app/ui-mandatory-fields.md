@@ -3,7 +3,7 @@ title: "Felt som kreves for å fullføre prosesser"
 description: "Les om felt som er markert med en rød stjerne, som betyr at de er obligatoriske og må fylles ut for at prosesser skal kunne fullføres."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 05/12/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 93c24295a3fe342466df84c344a3dbf15b6cfea9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: dc07918104100a1c251170484dd1a6c5c2ec03f0
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="mandatory-fields"></a><span data-ttu-id="154f6-103">Obligatoriske felt</span><span class="sxs-lookup"><span data-stu-id="154f6-103">Mandatory Fields</span></span>

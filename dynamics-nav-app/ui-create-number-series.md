@@ -3,7 +3,7 @@ title: 'Opprette nummerserier '
 description: Finn ut hvordan du definerer nummerserier som tilordner unike ID-koder til konti og dokumenter i Dynamics NAV.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: numbers, numbering
 ms.date: 06/02/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 643e3e6a3374a2364f850c9d77ca3f59f01dab61
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6cfc970a358eef1d6fd81e9469677bb74eb9163d
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-number-series"></a><span data-ttu-id="ee8f3-103">Opprette nummerserier</span><span class="sxs-lookup"><span data-stu-id="ee8f3-103">How to: Create Number Series</span></span>

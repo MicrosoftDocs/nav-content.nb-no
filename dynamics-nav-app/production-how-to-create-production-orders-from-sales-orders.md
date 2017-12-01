@@ -3,7 +3,7 @@ title: Opprette produksjonsordrer fra ordrer
 description: "Du kan opprette produksjonsordrer fra ordrer i avdelingen Salg og markedsføring."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/04/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 72c1f55b5c9f673933cbf200e5f9338d70b0035f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6da77a3a5aa7e9d090ebcfd18e7949c3bd677407
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-production-orders-from-sales-orders"></a><span data-ttu-id="aebc9-103">Opprette produksjonsordrer fra ordrer</span><span class="sxs-lookup"><span data-stu-id="aebc9-103">How to: Create Production Orders from Sales Orders</span></span>

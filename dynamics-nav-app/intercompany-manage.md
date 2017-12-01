@@ -3,7 +3,7 @@ title: Transaksjoner mellom selskaper i samme organisasjon
 description: Med de konserninterne funksjonene kan du forenkle forretningsprosesser og transaksjoner mellom selskaper i samme organisasjon.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: IC, group, consolidation, affiliate, subsidiary
 ms.date: 06/20/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 575a85ec6fc5050a81dd79b8418f8754c56945b9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0327ac242bfe1e80219d51571c2eaa5f25e9e838
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-intercompany-transactions"></a><span data-ttu-id="625fd-103">Behandle konserninterne transaksjoner</span><span class="sxs-lookup"><span data-stu-id="625fd-103">Managing Intercompany Transactions</span></span>

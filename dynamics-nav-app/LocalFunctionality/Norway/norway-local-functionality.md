@@ -3,7 +3,7 @@ title: Funksjonalitet som er spesifikk for norske brukere
 description: Emnene nedenfor beskriver den lokale funksjonaliteten i den norske versjonen av [!INCLUDE[navnow](../../includes/navnow_md.md)].
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: ab441c88d23e0e0cdfd8a88fa7631bc2244f5a09
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d876272356a9e71be0876211d66c248f7d28028d
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="norway-local-functionality"></a><span data-ttu-id="924d7-103">Funksjonalitet som er spesifikk for norske brukere</span><span class="sxs-lookup"><span data-stu-id="924d7-103">Norway Local Functionality</span></span>

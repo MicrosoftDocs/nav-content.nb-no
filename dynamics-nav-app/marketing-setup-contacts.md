@@ -3,7 +3,7 @@ title: Definere informasjon for kontakter
 description: "Skisserer oppgavene for å angi informasjon og koder, for eksempel om bransjegrupper og forretningsrelasjoner, før du konfigurerer kontakter."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 5bf48c01c20d25dbc8fd980cf4915eab5329e464
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 5d31fd4c7526bff9f55ac885a3588f5bf4e421c2
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="preparing-to-set-up-contacts"></a><span data-ttu-id="28abe-103">Klargjøring til konfigurasjon av kontakter</span><span class="sxs-lookup"><span data-stu-id="28abe-103">Preparing to Set Up Contacts</span></span>

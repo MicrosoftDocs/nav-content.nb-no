@@ -3,7 +3,7 @@ title: "Opprette en kunde eller leverandør fra en kontakt"
 description: "Du kan registrere en eksisterende kontakt som en kunde, leverandør eller bankkonto ved å bruke eksisterende data og angi en forretningsforbindelse."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, client, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f28d313d64fc6ace01eb74596f6c8bfec42ca7aa
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0cd8d14dee5dd50704678dff614667e6e8310199
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-a-customer-vendor-or-bank-account-from-a-contact"></a><span data-ttu-id="6d26d-103">Opprette en kunde, leverandør eller bankkonto fra en kontakt</span><span class="sxs-lookup"><span data-stu-id="6d26d-103">How to: Create a Customer, Vendor, or Bank Account From a Contact</span></span>

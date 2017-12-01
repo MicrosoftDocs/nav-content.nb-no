@@ -3,7 +3,7 @@ title: "Opprette samhandlinger på kontakter og segmenter"
 description: Beskriver hvordan du kan opprette samhandlinger for kommunikasjon du har med kontaktene og segmentene i Dynamics NAV, for eksempel direktereklame.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/15/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4ef0a5f683657f4725b04d7a231336419ea90f48
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 617996907c466d6052c04bac4a547b5db7a02c93
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-interactions-on-contacts-and-segments"></a><span data-ttu-id="17cab-103">Opprette samhandlinger på kontakter og segmenter</span><span class="sxs-lookup"><span data-stu-id="17cab-103">How to: Create Interactions on Contacts and Segments</span></span>

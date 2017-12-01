@@ -2,7 +2,7 @@
 title: "Tilordne og håndtere aktiviteter"
 description: "Lære hvordan du tilordner oppgaver til brukere, inkludert din regnskapsfører i Dynamics NAV"
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: tasks, work
 ms.date: 08/24/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ff2ef40546c9318c08ba123735b3691c23099f0f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9f57b5c1507e3c3bed5f7a77a26aaf0515fc5238
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="defining-user-tasks"></a><span data-ttu-id="de4a8-103">Definere brukeroppgaver</span><span class="sxs-lookup"><span data-stu-id="de4a8-103">Defining User Tasks</span></span>

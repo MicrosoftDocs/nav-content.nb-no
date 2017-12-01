@@ -3,7 +3,7 @@ title: Sette opp remitteringsavtaler
 description: "Du må undertegne en avtale om remittering med banken når du oppretter elektroniske betalinger. Du kan sette opp mer enn én remitteringsavtale hvis du har en avtale med to eller flere banker."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 4ef01b924beb5a179cf32d798a8b94a416acd4ba
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0ff6463226b3c6e019bcdab48eadc4c592410582
 ms.contentlocale: nb-no
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-remittance-agreements"></a><span data-ttu-id="5f356-104">Sette opp remitteringsavtaler</span><span class="sxs-lookup"><span data-stu-id="5f356-104">How to: Set Up Remittance Agreements</span></span>

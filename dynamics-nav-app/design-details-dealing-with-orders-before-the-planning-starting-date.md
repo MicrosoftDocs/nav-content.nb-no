@@ -3,7 +3,7 @@ title: "Designdetaljer - Håndtere ordrer før den planlagte startdatoen"
 description: Dette emnet beskriver reglene som planlegging gjelder for bestillinger i den frosne sonen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

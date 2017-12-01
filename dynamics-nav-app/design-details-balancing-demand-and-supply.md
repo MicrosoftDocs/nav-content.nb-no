@@ -3,7 +3,7 @@ title: Designdetaljer - Balansere behov og forsyning
 description: "For å forstå hvordan planleggingssystemet fungerer, er det nødvendig å forstå de prioriterte målene i planleggingssystemet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

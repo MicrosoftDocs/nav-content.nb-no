@@ -3,7 +3,7 @@ title: "Bruke generelle funksjoner på tvers av forretningsområder"
 description: "Finn ut mer om funksjonene som brukes på tvers av forretningsområder i Dynamics NAV."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

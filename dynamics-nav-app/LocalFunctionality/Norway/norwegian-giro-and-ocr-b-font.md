@@ -3,7 +3,7 @@ title: Norsk giro og OCR-B-skrift
 description: "En giro (General Interbank Recurring Order) er et betalingssystem som fungerer som en kredittoverføring."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

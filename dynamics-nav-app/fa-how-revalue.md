@@ -3,7 +3,7 @@ title: Revaluere aktiva
 description: "Finn ut hvordan du justerer verdien av aktiva, registrerer nye beløp som en nedskrivning eller oppskrivning, og bokfører flere anskaffelseskostnader."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

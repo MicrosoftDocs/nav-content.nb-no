@@ -3,7 +3,7 @@ title: Opprette gjentakelsesordrer
 description: "Funksjonen for å opprette gjentakelsesordrer finner alle gjentakelsesordrene som samsvarer med alternativene du har valgt i vinduet **Opprett gjentakelsesordrer**, og oppretter de nye salgsordrene."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

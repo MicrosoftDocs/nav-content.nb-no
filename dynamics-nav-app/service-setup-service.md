@@ -3,7 +3,7 @@ title: "Konfigurere servicehåndtering"
 description: "Oversikt over oppgaver for oppsett av servicehåndtering som er tilpasset måten organisasjonene håndterer tjenestene på."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

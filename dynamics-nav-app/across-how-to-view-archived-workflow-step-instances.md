@@ -3,7 +3,7 @@ title: Vise arkiverte forekomster av arbeidsflyttrinn
 description: "Alle fullførte forekomster for arbeidsflyttrinn lagres i vinduet **Arkiverte forekomster for arbeidsflyttrinn**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

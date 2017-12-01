@@ -3,7 +3,7 @@ title: Opprette fakturaer eller kreditnotaer for servicer
 description: "Finn ut hvordan du oppretter fakturaer, slik at du kan få betalt for servicen."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

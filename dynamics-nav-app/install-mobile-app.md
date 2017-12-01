@@ -3,7 +3,7 @@ title: "Bruke Dynamics NAV på mobilenheten din"
 description: "Du kan vise og redigere Dynamics NAV-dataene på telefonen eller nettbrettet."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

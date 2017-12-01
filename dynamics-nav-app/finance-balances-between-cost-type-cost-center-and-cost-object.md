@@ -3,7 +3,7 @@ title: Balanser mellom kosttype, kostsenter og kostobjekt
 description: "Når du definerer kostregnskap, må du kontrollere at alle poster tilordnes en kosttype i tillegg til et kostsenter eller et kostobjekt. Dette betyr at hver kostpost må ha en kosttype tilordnet og en kostsenterkode eller et kostobjekt tilordnet. Denne regelen sikrer at hver kostpost vises i kostsentrene eller kostobjektene, men aldri på begge steder."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

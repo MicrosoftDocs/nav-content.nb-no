@@ -2,7 +2,7 @@
 title: Konvertere servicekontrakter
 description: "Siden verktøyet for endring av mva-sats ikke kan konverteres til servicekontrakter, må du konvertere disse kontraktene manuelt. Dette emnet beskriver flere alternative metoder som du kan bruke for servicekontraktkonvertering."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

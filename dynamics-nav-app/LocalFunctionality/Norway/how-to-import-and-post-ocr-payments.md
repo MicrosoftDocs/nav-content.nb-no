@@ -3,7 +3,7 @@ title: "Importere og bokføre OCR-betalinger"
 description: "Før du kan motta OCR-betalinger (optisk tegngjenkjenning), må du gjøre noen forberedelser."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

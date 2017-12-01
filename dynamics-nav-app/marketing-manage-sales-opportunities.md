@@ -3,7 +3,7 @@ title: "Håndtere salgsmuligheter og interessenter"
 description: "Beskriver håndtering av innkommende interessenter eller salgsmuligheter i Dynamics NAV og tilknytningen av salgsmuligheten til en selger for å holde rede på potensielt salg."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

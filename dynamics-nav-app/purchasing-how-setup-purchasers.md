@@ -3,7 +3,7 @@ title: "Definere innkjøpere og tilordne innkjøpere til leverandører"
 description: "Hvis flere innkjøpere jobber i selskapet, kan du organisere dem for statistisk analyse."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

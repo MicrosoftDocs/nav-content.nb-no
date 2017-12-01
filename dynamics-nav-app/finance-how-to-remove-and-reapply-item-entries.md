@@ -3,7 +3,7 @@ title: "Fjerne vareposter og utligne dem på nytt"
 description: Du kan vise og manuelt endre bestemte vareutligningsposter som opprettes automatisk under lagertransaksjoner.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

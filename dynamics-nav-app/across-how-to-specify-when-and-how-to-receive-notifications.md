@@ -3,7 +3,7 @@ title: "Angi når og hvor du kan motta varsler"
 description: "Når du konfigurerer brukere i godkjenningsarbeidsflyter, må i vinduene Oppsett av varsling og Tidsplan for varsling angi hvordan og når hver enkelt bruker mottar varsler om trinn i godkjenningsarbeidsflyten. Enkeltbrukere kan også endre sine varslingsoppsett ved å velge kappen Endre varslingsinnstillinger i et varsel."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

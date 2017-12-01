@@ -3,7 +3,7 @@ title: Opprette kontaktpersoner
 description: Beskriver hvordan du oppretter et kontaktkort for hver nye person eller hvert nye prospekt du samhandler med eller har et forretningsforhold til.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

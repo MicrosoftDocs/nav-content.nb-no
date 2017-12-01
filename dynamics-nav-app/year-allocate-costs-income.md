@@ -3,7 +3,7 @@ title: "Oversikt over oppgaver for å fordele kostnader og inntekter"
 description: "Skisserer oppgavene for å fordele en post i en finanskladd på flere forskjellige konti når du bokfører kladden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

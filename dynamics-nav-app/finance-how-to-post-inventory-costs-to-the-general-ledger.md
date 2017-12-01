@@ -3,7 +3,7 @@ title: "Bokføre lagerkost i finans"
 description: "Beskriver hvordan du håndterer de fysiske produktene du handler med, for eksempel håndtering av varene på lageret."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

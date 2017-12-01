@@ -3,7 +3,7 @@ title: Definere det generelle lageroppsettet
 description: Beskriver hvordan du definerer det generelle lageroppsettet, for eksempel nummerserier og lokasjoner, slik at du for eksempel kan administrere lageret og varene.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

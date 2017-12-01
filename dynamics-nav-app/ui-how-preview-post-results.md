@@ -3,7 +3,7 @@ title: "Forhåndsvise poster før du bokfører et dokument eller en kladd"
 description: "Du kan kontrollere at postene for dokumenter og kladder er nøyaktige, før du bokfører dem i Finans."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

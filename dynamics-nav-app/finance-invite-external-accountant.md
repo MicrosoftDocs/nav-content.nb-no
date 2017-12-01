@@ -2,7 +2,7 @@
 title: "Legge til den eksterne regnskapsføreren i Dynamics NAV"
 description: "Finn ut hvordan du kan invitere den eksterne regnskapsføreren til Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

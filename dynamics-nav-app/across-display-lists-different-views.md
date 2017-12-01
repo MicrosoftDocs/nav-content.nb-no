@@ -3,7 +3,7 @@ title: Justere hvor mange detaljer som vises i lister
 description: "Du kan vise lister i detaljerte visninger som gir mer informasjon, eller som fliser som det går raskt å se gjennom."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

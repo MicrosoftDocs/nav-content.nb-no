@@ -3,7 +3,7 @@ title: "Oversikt over Finanskladd – bokfør linje"
 description: "Dette emnet introduserer endringer i Kodeenhet 12, **Finanskladd - bokfør linje**, som er det store programobjektet for finansbokføring og det eneste stedet å sette inn finansposter, mva-poster og kunde- og leverandørposter."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

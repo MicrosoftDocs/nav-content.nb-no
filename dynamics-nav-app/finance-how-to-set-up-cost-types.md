@@ -3,7 +3,7 @@ title: Sette opp et diagram med kosttyper
 description: "Diagrammet med kosttyper ligner på kontoplanen i finans."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

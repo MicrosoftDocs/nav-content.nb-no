@@ -3,7 +3,7 @@ title: Behandle varslingsmaler
 description: "Varslinger sendes til brukere i arbeidsflyten for å varsle dem om trinn de må utføre, eller for å informere om statusen for trinn i arbeidsflyten. Du definerer hvem som mottar varsel og når, ved å konfigurere godkjenning av brukere, brukernes varslingstidsplan og svarene i arbeidsflyten for å definere varslingsmottakeren. Hvis du vil ha mer informasjon, kan du se [Konfigurere arbeidsflytvarsler](across-setting-up-workflow-notifications.md)."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

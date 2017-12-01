@@ -3,7 +3,7 @@ title: "Håndtere segmenter og velge kontakter du vil inkludere"
 description: "Gir en oversikt over oppgavene for å opprette et segment for å velge en gruppe med kontakter i samsvar med bestemte kriterier, for eksempel kontakter i en bestemt bransje du vil ha som målgruppe."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

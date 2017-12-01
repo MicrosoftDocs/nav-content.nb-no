@@ -3,7 +3,7 @@ title: "Definere rapporter som skal skrives ut på bestemte skrivere"
 description: Finn ut hvordan du angir en skriver for en rapport og bruker vinduet Skrivervalg.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

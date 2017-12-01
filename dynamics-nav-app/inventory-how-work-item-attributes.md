@@ -3,7 +3,7 @@ title: Definere vareattributter og tilordne dem til varer
 description: "Beskriver hvordan du for eksempel definerer verdier for vareattributt som kan brukes som søkeord, og knytter dem til varer og varekategorier."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

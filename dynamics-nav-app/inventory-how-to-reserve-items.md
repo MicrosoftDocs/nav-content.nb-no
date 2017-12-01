@@ -3,7 +3,7 @@ title: Reservere varer
 description: "Du kan reservere varer for ordrer, bestillinger og produksjonsordrer. Du kan reservere varer på lager eller inngående på åpne dokumentlinjer."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

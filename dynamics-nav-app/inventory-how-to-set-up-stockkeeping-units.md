@@ -3,7 +3,7 @@ title: "Definere lagerføringsenheter"
 description: "Du kan bruke lagerføringsenheter til å registrere opplysninger om varer for en bestemt lokasjon eller en bestemt variantkode."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,12 +18,12 @@ ms.contentlocale: nb-no
 ms.lasthandoff: 10/16/2017
 
 ---
-# Definere lagerføringsenheter
+# <a name="how-to-set-up-stockkeeping-units"></a>Definere lagerføringsenheter
 Du kan bruke lagerføringsenheter til å registrere opplysninger om varer for en bestemt lokasjon eller en bestemt variantkode.  
 
  Lagerføringsenheter er et tillegg til varekort. De erstatter dem ikke, selv om de er knyttet til dem. Med lagerføringsenheter kan du skille mellom opplysninger om en vare for en bestemt lokasjon (for eksempel et lager eller et distribusjonssenter) eller en bestemt variant (for eksempel ulike hyllenumre og ulike opplysninger om etterfylling), for den samme varen.  
 
-## Slik definerer du lagerføringsenheter  
+## <a name="to-set-up-a-stockkeeping-unit"></a>Slik definerer du lagerføringsenheter  
 
 1.  Velg ikonet ![Søk etter side eller rapport](media/ui-search/search_small.png "Søk etter side eller rapport"), angi **Lagerføringsenheter**, og velg deretter den relaterte koblingen.  
 2.  Velg handlingen **Ny**.  
@@ -36,7 +36,7 @@ Hvis du vil opprette flere lagerføringsenheter for en vare, bruker du kjørsele
 > [!NOTE]  
 >  Opplysningene på **lagerføringsenhetskortet** har høyere prioritet enn opplysningene på **varekortet**.  
 
-## Se også  
+## <a name="see-also"></a>Se også  
 [Registrere nye varer](inventory-how-register-new-items.md)  
 [Definere lagerstyring](warehouse-setup-warehouse.md)  
 [Lagerstyring](warehouse-manage-warehouse.md)  

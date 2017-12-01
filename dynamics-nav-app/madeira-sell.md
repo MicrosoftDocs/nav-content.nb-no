@@ -3,7 +3,7 @@ title: Selge Dynamics NAV
 description: Finn ut hvordan du kan utvide forretningsmulighetene og bli en Microsoft-partnere og Dynamics NAV-forhandler.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

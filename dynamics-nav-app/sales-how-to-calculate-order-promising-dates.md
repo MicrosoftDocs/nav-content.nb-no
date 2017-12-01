@@ -3,7 +3,7 @@ title: Beregne ordrebekreftelsesdatoer
 description: "Ordrebekreftelsesfunksjonen er et verktøy for beregning av når en vare tidligst kan leveres. Den oppretter i tillegg forslagslinjer for datoene du godtar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

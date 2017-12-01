@@ -3,7 +3,7 @@ title: "Bruke finanskladder til å bokføre direkte i Finans"
 description: "Finn ut hvordan du bruker finanskladder til å bokføre finanstransaksjoner på finanskonti og andre konti, for eksempel bank-, kunde- og leverandørkonti."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

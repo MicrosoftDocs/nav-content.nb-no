@@ -2,7 +2,7 @@
 title: Skrive inn data i felt
 description: "Det er mange generelle funksjoner du kan bruke til å skrive inn data raskt og enkelt. De generelle funksjonene for å skrive inn data beskrives i dette emnet."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

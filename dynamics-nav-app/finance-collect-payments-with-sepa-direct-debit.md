@@ -2,7 +2,7 @@
 title: SEPA Direct Debit i Dynamics NAV
 description: Du kan samle inn betaling direkte fra kundens bankkonto i henhold til SEPA-formatet.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

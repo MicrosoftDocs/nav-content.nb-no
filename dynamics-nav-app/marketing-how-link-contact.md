@@ -3,7 +3,7 @@ title: "Knytte kontakter til kunder og leverandører"
 description: "Beskriver hvordan du knytter en kontakt til en kunde, leverandør eller bankkonto fra det samme selskapet, slik at du kan synkronisere vanlige data."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

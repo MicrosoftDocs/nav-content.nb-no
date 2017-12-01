@@ -3,7 +3,7 @@ title: Designdetaljer - Lukke behov og forsyning
 description: "Dette emnet inneholder et forslag om hva som skal gjøres når du har utført forsyning motkontoen fremgangsmåtene."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

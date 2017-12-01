@@ -3,7 +3,7 @@ title: "Gjennomgang - kjøre en salgskampanje"
 description: "En kampanje er en hvilken som helst type aktivitet som omfatter flere kontakter. En viktig del av å lage en kampanje er å velge målgruppen for kampanjen. I [!INCLUDE[d365fin](includes/d365fin_md.md)] kan du opprette et segment eller en gruppe kontakter ved å bruke filtre, for dette formålet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

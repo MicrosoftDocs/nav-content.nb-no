@@ -2,7 +2,7 @@
 title: Konfigurere en dokumentutvekslingstjeneste
 description: "Du bruker en ekstern tjenesteleverandør til å utveksle elektroniske dokumenter med handelspartnere."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Designdetaljer - Varesporingstilgjengelighet
 description: "Dette emnet beskriver hvordan du kontrollere at persoene som behandler ordrer, kan stole på tilgjengeligheten for serie- eller partinumre."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

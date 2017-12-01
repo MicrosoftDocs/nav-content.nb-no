@@ -3,7 +3,7 @@ title: Vise og redigere grunnleggende innstillinger i Dynamics NAV
 description: Finn ut hvordan du kan endre noen av de grunnleggende innstillingene i Dynamics NAV, for eksempel rollesenteret, selskapet eller arbeidsdatoen.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

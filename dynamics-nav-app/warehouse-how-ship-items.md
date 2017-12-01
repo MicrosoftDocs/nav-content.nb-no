@@ -3,7 +3,7 @@ title: Levere varer
 description: "Avhengig av lageroppsettet kan du registrere levering på det tilknyttede utgående forretningsdokumentet direkte, for eksempel en ordre, eller du kan bruke lagerleveringsdokumenter som respekterer en arbeidsflyt og er integrert med ulike lageraktiviteter."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Behandle inngående dokumenter"
 description: "For å registrere et eksternt dokument i Dynamics NAV, for eksempel en PDF, må du først opprette eller fullføre en innkommende dokumentpost."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

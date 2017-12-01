@@ -3,7 +3,7 @@ title: "Oversikt over oppgaver for å lukke et regnskapsår og regnskapsperioder
 description: "Gir en oversikt over oppgavene for å lukke for eksempel et regnskapsår eller en regnskapsperiode og sørge for at dokumenter og kladder er bokført, og for å kontrollere banksaldoer."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

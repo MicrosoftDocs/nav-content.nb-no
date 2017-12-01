@@ -2,7 +2,7 @@
 title: Motta og konvertere elektroniske dokumenter
 description: Du kan motta elektroniske dokumenter direkte fra handelspartnere eller fra en OCR-tjeneste.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

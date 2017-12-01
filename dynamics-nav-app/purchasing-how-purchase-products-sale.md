@@ -3,7 +3,7 @@ title: "Opprette en kjøpsfaktura fra en salgsfaktura for å kjøpe varer for sa
 description: "Du kan opprette en faktura for en leverandør fra en salgsfaktura for å kjøpe produkter."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

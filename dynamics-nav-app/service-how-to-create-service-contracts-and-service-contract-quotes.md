@@ -3,7 +3,7 @@ title: Arbeide med servicekontrakter og servicekontrakttilbud
 description: "Du kan opprette servicekontrakter manuelt eller fra et servicekontrakttilbud. Du kan opprette en kontrakt basert på et servicekontrakttilbud."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

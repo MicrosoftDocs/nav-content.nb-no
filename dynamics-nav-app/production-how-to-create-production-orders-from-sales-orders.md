@@ -3,7 +3,7 @@ title: Opprette produksjonsordrer fra ordrer
 description: "Du kan opprette produksjonsordrer fra ordrer i avdelingen Salg og markedsføring."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

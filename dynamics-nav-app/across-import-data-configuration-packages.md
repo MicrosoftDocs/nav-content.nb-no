@@ -2,7 +2,7 @@
 title: "Bruke Excel til å importere data til Dynamics NAV"
 description: "Bruk standard konfigurasjonspakke til å legge kundedata i Excel og importere dataene tilbake til Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

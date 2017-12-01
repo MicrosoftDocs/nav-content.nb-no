@@ -3,7 +3,7 @@ title: Designdetaljer - Tabell for planleggingstilordning
 description: "Dette emnet gir innsikt i hva som skjer når du endrer hvordan du planlegger for en vare."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

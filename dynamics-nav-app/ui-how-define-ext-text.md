@@ -3,7 +3,7 @@ title: "Legge til ekstra linjer for å definere utvidet tekst for en varebeskriv
 description: "Du kan legge til ekstra linjer for å utvide standardteksten som beskriver en vare."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

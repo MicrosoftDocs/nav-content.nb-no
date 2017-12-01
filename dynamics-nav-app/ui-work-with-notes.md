@@ -2,7 +2,7 @@
 title: Legge til informasjon i poster for deg selv
 description: Knytt en merknad til en hvilken som helst post i programmet. Hvis du for eksempel har tilleggsinformasjon om en ordre, som ikke passer inn i noen av feltene i ordreskjemaet, kan du skrive en merknad.
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

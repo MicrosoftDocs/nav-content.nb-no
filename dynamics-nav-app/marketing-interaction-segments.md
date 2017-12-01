@@ -3,7 +3,7 @@ title: "Holde rede på segmenter og relaterte samhandlinger"
 description: "Finn ut hvordan du oppretter segmenter for å definere grupper med kontakter og angi samhandlinger for segmenter."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

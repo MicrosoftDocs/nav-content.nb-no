@@ -3,7 +3,7 @@ title: Endre rollesenter
 description: "Du kan velge en annen profil i Dynamics NAV for å endre det som vises på Hjem-siden."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

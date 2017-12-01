@@ -3,7 +3,7 @@ title: "Oversikt over oppgavene for å yte service"
 description: "Gir en oversikt over oppgaver å definere for å sikre du leverer kvalitetsservice og lever oppfyller avtaler med kunder."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

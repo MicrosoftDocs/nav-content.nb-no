@@ -3,7 +3,7 @@ title: Prosjektoppgaver ved hjelp av ressurser og timelister
 description: "Beskriver hvordan du bruker ressurser, timelister og jobber til å administrere prosjekter."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

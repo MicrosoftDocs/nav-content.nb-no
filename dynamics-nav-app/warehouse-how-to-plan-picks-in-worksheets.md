@@ -3,7 +3,7 @@ title: Planlegge plukkinger i forslaget
 description: "Hvis lageret er definert til å kreve både plukkbehandling og lagerleveringsbehandling, kan lageret velge å fungere slik at linjene på leveringsdokumentene ikke automatisk blir omgjort til plukkinstrukser, men at de i stedet blir gjort tilgjengelig for plukkforslaget."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

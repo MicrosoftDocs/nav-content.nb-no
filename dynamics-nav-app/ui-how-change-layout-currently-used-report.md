@@ -3,7 +3,7 @@ title: "Endre utseendet på en rapport ved å velge et annet oppsett"
 description: "Du kan bruke ulike oppsett for en rapport og bytte mellom oppsett for å endre utseendet på den."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

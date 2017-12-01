@@ -2,7 +2,7 @@
 title: Definere en selger
 description: Du kan definere en identifikator for hver enkelt selger, slik at du kan spore prestasjonen til en person eller tilordne en selger til en kontakt.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

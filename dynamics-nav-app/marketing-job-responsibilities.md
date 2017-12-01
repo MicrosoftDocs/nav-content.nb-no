@@ -3,7 +3,7 @@ title: "Definere ansvarsområder for kontakter"
 description: "Du kan definere en kode for ansvarsområde og tilordne den til en kontakt for å angi oppgavene som kontakten er ansvarlig for i selskapet, for eksempel IT eller produksjon."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Tilpasse måten informasjon vises på for en brukerkonto"
 description: Beskriver hvordan du tilpasser utseendet i Dynamics NAV for brukerkontoen din.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

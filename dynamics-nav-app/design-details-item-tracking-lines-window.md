@@ -3,7 +3,7 @@ title: Designdetaljer - Vindu for varesporingslinjer
 description: Les om hvordan du administrerer flyten av serie- og partinumre i lageret.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

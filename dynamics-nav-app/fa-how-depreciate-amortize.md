@@ -3,7 +3,7 @@ title: Avskrive eller amortisere aktiva
 description: "Du må definere hvordan du vil foreta nedskrivning, avskrivning eller amortisering av hvert aktivum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

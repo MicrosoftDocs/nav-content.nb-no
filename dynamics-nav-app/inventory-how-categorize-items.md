@@ -3,7 +3,7 @@ title: Organisere varer i kategorier
 description: "For å gjøre det enklere å søke etter og finne varer kan du tilordne vareattributter og organisere varer i kategorier."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

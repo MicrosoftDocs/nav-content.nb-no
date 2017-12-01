@@ -3,7 +3,7 @@ title: "Opprette en kjøpsfaktura og registrere kjøp"
 description: "Beskriver hvordan du kjøper lager- og servicevarer ved å opprette og bokføre kjøpsfakturaer eller bestillinger."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

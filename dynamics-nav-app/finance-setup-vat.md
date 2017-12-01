@@ -3,7 +3,7 @@ title: Om definering av merverdiavgift
 description: "Kontroller at du riktig beregne, postere og rapportere mva for salg og innkjøp."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

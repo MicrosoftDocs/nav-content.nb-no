@@ -3,7 +3,7 @@ title: Designdetaljer - Fast gjenbest.ant.
 description: "Prinsippet Fast gjenbest.ant. er knyttet til lagerplanlegging av vanlige C-varer (lav lagerkost, lav risiko for foreldelse og/eller mange varer). Dette prinsippet brukes vanligvis i forbindelse med et gjenbestillingspunkt som gjenspeiler forventet behov i løpet av leveringstiden for varen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

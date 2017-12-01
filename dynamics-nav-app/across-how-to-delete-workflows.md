@@ -3,7 +3,7 @@ title: Slette arbeidsflyter
 description: "Hvis du er sikker på at en arbeidsflyt ikke lenger er i bruk, kan du slette den. Alle forekomster av arbeidsflyttrinn som er definert i arbeidsflyten, må ha statusen **Fullført**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

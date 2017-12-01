@@ -3,7 +3,7 @@ title: Definere ressurskostpriser, priser og kapasitet
 description: "For å bruke ressurser og forenkle prosjektstyring angir du kostnadene og prisene for individuelle ressurser eller ressursgrupper, og angir ressurskapasiteten."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

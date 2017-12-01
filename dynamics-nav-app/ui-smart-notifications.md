@@ -3,7 +3,7 @@ title: "Arbeide med smarte varsler og angi når du ser dem"
 description: Du kan motta varsler som informerer deg om statusendringer eller hendelser, for eksempel en forfalt saldo eller lav beholdning.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

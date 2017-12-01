@@ -3,7 +3,7 @@ title: Periodisere inntekter og utgifter
 description: "Hvis du vil føre inntekter og utgifter i andre perioder enn perioden som transaksjonen ble bokført i, kan du automatisk periodisere eller utsette dem etter en angitt tidsplan."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

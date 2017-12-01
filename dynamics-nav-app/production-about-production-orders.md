@@ -3,7 +3,7 @@ title: Om produksjonsordrer
 description: "Produksjonsordrer brukes til å håndtere konverteringen av kjøpt materiale til produserte varer. Produksjonsordrer (prosjekt- eller arbeidsordrer) dirigerer arbeid gjennom ulike innretninger (arbeidssentre eller produksjonsressurser) i produksjonen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

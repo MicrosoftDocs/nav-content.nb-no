@@ -3,7 +3,7 @@ title: Endre planleggingsforslag i en grafisk visning
 description: "En typisk planleggingsaktivitet er å endre eller legge til planleggingsforslagslinjer for å endre de foreslåtte forsyningsordrene før du utfører dem, ved å kjøre funksjonen **Utfør handlingsmelding**. Et alternativ til å gjøre dette i planleggingsforslaget er å bruke en grafisk visning."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

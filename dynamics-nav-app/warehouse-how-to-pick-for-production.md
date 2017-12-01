@@ -3,7 +3,7 @@ title: Plukke komponenter for produksjon i grunnleggende lageroppsett.
 description: "Når lagerlokasjonen krever plukkbehandling, men ikke krever leveringsbehandling, bruker du vinduet **Lagerplukk** til å organisere og registrere plukking av komponenter."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

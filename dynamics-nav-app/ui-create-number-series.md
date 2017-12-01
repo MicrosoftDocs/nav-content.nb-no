@@ -3,7 +3,7 @@ title: 'Opprette nummerserier '
 description: Finn ut hvordan du definerer nummerserier som tilordner unike ID-koder til konti og dokumenter i Dynamics NAV.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Aktivere arbeidsflyter
 description: "Når du har opprettet en arbeidsflyt og du er sikker på at den er klar til å starte, må du aktivere arbeidsflyten."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

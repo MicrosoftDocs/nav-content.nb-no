@@ -3,7 +3,7 @@ title: Definere standardoppgaver for operasjoner
 description: Du kan skrive inn beskrivelser for standardoppgaver.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

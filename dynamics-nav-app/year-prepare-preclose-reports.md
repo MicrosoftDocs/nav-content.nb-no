@@ -3,7 +3,7 @@ title: "Oversikt over forhåndslukking av rapporter for å bekrefte kontonøyakt
 description: "Gir en oversikt over rapportene du kan bruke til å bekrefte nøyaktigheten av kontiene før du lukker tablåene ved utgangen av et år eller en periode."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

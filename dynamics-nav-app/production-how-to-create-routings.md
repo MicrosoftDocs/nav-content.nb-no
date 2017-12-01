@@ -3,7 +3,7 @@ title: Opprette ruter
 description: "En rute inneholder hoveddata som gjenspeiler prosesskravene for en gitt produsert vare. Når en produksjonsordre opprettes for denne varen, styrer varens rute planleggingen av operasjoner som vist i vinduet **Prod.ordrerute** under produksjonsordren."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

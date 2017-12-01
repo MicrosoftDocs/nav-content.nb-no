@@ -2,7 +2,7 @@
 title: Utveksle data
 description: "Du kan utveksle data mellom [!INCLUDE[d365fin](includes/d365fin_md.md)] og eksterne filer eller strømmer i forbindelse med vanlige forretningsoppgaver, for eksempel sending og mottak av elektroniske dokumenter og import og eksport av bankfiler."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

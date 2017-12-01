@@ -3,7 +3,7 @@ title: "Opprette en kunde eller leverandør fra en kontakt"
 description: "Du kan registrere en eksisterende kontakt som en kunde, leverandør eller bankkonto ved å bruke eksisterende data og angi en forretningsforbindelse."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

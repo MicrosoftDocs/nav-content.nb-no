@@ -3,7 +3,7 @@ title: "Definere spesielle og alternative priser og rabatter for leverandører"
 description: "Du kan definere ulike eller alternative priser og rabattavtaler og bruke dem i kjøpsdokumenter for leverandører."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

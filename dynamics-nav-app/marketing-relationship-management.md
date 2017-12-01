@@ -3,7 +3,7 @@ title: Forbindelser
 description: "Funksjonene for forbindelser i Dynamics NAV er til støtte for salgsfremstøtene dine og gir deg tilgang til informasjon om kontakter og prospekter, slik at du kan betjene kunder effektivt."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

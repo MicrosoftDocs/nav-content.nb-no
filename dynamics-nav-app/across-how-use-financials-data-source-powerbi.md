@@ -2,7 +2,7 @@
 title: Lag en Power BI-datakilde med Dynamics NAV
 description: "Du kan gjøre Dynamics NAV-data tilgjengelig som en datakilde i Power BI og bygge kraftige rapporter om status for din bedrift."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

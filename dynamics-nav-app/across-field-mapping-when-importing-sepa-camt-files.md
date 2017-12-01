@@ -2,7 +2,7 @@
 title: Felttilordning ved import av SEPA CAMT-filer
 description: I europeiske markeder kan du importere bankkontoutdragsfiler i de regionale SEPA-standardene (Single Euro Payments Area).
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

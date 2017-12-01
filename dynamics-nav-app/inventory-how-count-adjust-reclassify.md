@@ -3,7 +3,7 @@ title: Telle, justere og reklassifisere lagerbeholdning
 description: "Beskriver hvordan du utfører fysisk telling og foretar negative eller positive justeringer, og hvordan du endrer informasjon, for eksempel lokasjons- eller partinummer, i vareposter eller lagerposter."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

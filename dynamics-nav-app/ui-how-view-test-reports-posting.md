@@ -3,7 +3,7 @@ title: "Se gjennom en kontrollrapport før du bokfører et salgs- eller kjøpsdo
 description: "Før du bokfører et dokument, for eksempel en ordre eller kreditnota, kan du teste og gå gjennom det for å se etter feil som kan blokkere bokføringen."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

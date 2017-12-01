@@ -3,7 +3,7 @@ title: "Arbeide med mva på kjøp og salg"
 description: "Dette emnet beskriver hvordan du utfører oppgaver som å korrigere bokført mav i EU-land/regioner, hver salgs- og kjøpstransaksjon er underlagt mva-beregninger. Dette emnet beskriver hvordan."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

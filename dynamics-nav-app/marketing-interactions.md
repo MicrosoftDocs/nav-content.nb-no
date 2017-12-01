@@ -3,7 +3,7 @@ title: Administrere samhandlinger med kontaktene dine
 description: "Du kan administrere alle typer kommunikasjon eller samhandlinger mellom selskapet og kontaktene dine, for eksempel brev, telefonsamtaler, møter og så videre."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Konfigurere lagerprosesser
 description: "Selskapets distribusjonsstrategi avspeiles i oppsettet av lagerprosessene. Dette omfatter å definere hvordan ulike varer skal håndteres på ulike lagerlokasjoner, for eksempel graden av hyllekontroll og omfanget av påkrevd arbeidsflyt mellom lageraktiviteter."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

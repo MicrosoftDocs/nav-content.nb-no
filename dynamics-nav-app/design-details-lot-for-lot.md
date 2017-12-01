@@ -3,7 +3,7 @@ title: Designdetaljer - Parti for parti
 description: "Lære hvordan du bruker parti for parti til å utligne ordreantall basert på behov."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

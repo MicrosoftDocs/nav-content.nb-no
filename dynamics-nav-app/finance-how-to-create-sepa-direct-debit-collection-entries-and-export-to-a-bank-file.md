@@ -2,7 +2,7 @@
 title: SEPA Direct Debit-oppkreving
 description: Opprett en Direct Debit-oppkrevingen og eksporter en XML-fil du sender eller laster opp til din nettbank for behandling.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

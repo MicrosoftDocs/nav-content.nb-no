@@ -3,7 +3,7 @@ title: "Håndtere lager- og produksjonskost"
 description: "Selv om mange av funksjonene for kostredegjøring er uttrykt i underliggende prosesser uten brukerhandling, for eksempel postutligning og automatisk kostjustering, er mange felt, vinduer og rapporter rettet inn mot brukere som direkte eller indirekte håndterer vare- eller driftskost."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

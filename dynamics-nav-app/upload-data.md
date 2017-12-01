@@ -2,7 +2,7 @@
 title: Importere gamle forretningsdata til Dynamics NAV
 description: "Du kan overføre data for kunder, leverandører og lager, for eksempel fra Excel, QuickBooks eller Dynamics GP, til Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

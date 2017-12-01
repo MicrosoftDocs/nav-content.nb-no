@@ -3,7 +3,7 @@ title: Tilordne en annen kontaktadresse
 description: Beskriver hvordan du tilordner en alternativ adresse for kontakter eller prospekter som informasjon av og til sendes til.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

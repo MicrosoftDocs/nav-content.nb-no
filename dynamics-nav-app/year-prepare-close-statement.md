@@ -3,7 +3,7 @@ title: "Oversikt over rapporter for å klargjøre avslutningsoppgaver"
 description: "Gir en oversikt over rapporter du kan bruke til å innhente informasjonen for å klargjøre selskapets avslutningsoppgaver når regnskapsåret er over."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

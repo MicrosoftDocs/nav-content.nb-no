@@ -3,7 +3,7 @@ title: Designdetaljer - Avstemming med konti i Finans
 description: "Dette emnet beskriver avstemming mot Finans når du bokfører lagertransaksjoner, for eksempel følgesedler, produksjonsavgang eller nedjusteringer."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

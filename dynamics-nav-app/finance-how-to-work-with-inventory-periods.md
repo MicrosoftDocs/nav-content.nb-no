@@ -3,7 +3,7 @@ title: Arbeide med lagerperioder
 description: "Du kan kontrollere tidsrammen som brukere kan bokføre endringer i lageret, ved å definere lagerperioder."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

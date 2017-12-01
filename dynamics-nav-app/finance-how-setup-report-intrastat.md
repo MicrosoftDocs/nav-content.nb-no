@@ -3,7 +3,7 @@ title: Konfigurere og rapportere Intrastat
 description: "Lær hvordan du konfigurerer Intrastat rapporteringsfunksjoner, og hvordan til å rapportere handel med selskaper i andre EU-land."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

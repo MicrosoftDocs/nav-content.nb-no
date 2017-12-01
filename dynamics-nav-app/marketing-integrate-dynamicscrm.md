@@ -3,7 +3,7 @@ title: Administrere kunder ved hjelp av Dynamics 365 for Sales
 description: "Du kan bruke Dynamics 365 for Sales fra Dynamics NAV for å tilordne data og få sømløs integrasjon og synkronisering i interessent-til-kontanter-prosessen."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

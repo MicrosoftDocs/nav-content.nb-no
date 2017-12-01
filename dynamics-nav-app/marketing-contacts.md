@@ -3,7 +3,7 @@ title: Opprette og administrere firmakontakter
 description: "Du kan definere alle de eksterne enhetene du har et forretningsforhold til (for eksempel prospekter, kunder, leverandører og konsulenter), som kontakter."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

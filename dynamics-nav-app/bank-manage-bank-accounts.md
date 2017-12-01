@@ -3,7 +3,7 @@ title: "Håndtere bankkonti"
 description: "Du må regelmessig avstemme bankposter i Dynamics NAV med de relaterte banktransaksjonene i bankkontiene."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

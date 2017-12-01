@@ -3,7 +3,7 @@ title: Konfigurere e-post
 description: "Beskriver hvordan du bruker firmaets SMTP-serveren til å sende og motta e-postmeldinger i Dynamics NAV, eller alternativt hvordan du bruker innstillingene for e-postserver som ble opprettet med Office 365-abonnementet."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

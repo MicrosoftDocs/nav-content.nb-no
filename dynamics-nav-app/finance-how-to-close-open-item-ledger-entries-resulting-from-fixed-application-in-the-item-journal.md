@@ -3,7 +3,7 @@ title: "Lukke åpne vareposter som er resultat av fast utligning i varekladden"
 description: "Du kan bruke feltet **Utlignet fra-post** i vinduet **Varekladd** til å opprette en fast utligning manuelt mellom en inngående transaksjon og den opprinnelige utgående transaksjonen. Du kan for eksempel bruke det til å rette den utgående transaksjonen eller behandle returen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

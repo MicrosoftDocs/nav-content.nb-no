@@ -3,7 +3,7 @@ title: Gjennomgang - planlegge forsyninger automatisk
 description: "Uttrykk som \"kjør planlegging\" og \"kjør MRP\" refererer til beregningen av hovedproduksjonsplanen (MPS) og materialbehovsplanen (MRP) basert på faktisk og prognostisert behov."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

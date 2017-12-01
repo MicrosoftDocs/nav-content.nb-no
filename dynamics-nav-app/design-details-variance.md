@@ -3,7 +3,7 @@ title: Designdetaljer - Avvik
 description: "Avvik er definert som differansen mellom faktisk kost og standardkost, som beskrevet i følgende formel."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

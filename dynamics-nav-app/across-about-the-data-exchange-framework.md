@@ -2,7 +2,7 @@
 title: Rammeverket for datautveksling
 description: "Filformater for utveksling av data i bankfiler, elektroniske dokumenter, valutakurser og andre med ERP-systemer varierer avhengig av leverandøren av datafilen eller -strømmen og landet/regionen."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Designdetaljer - Balansere forsyning med behov
 description: "Kjernen i planleggingssystemet omfatter balansering av behov og forsyning ved å foreslå brukerhandlinger som endrer forsyningsordrene hvis det oppstår ubalanse. Dette skjer per kombinasjon av variant og lokasjon."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Skrive ut remitteringsønske"
 description: "Du kan hjelpe leverandørene med å utføre avstemminger ved å skrive ut remitteringsønsker før du bokfører en utbetalingskladd, og etter at du har bokført en betaling."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Oversikt over flere rentesatser
 description: For hver rentenotabetingelseskode kan du angi flere rentesatser slik at du kan beregne rentebelastninger med flere rentesatser for en bestemt periode.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
